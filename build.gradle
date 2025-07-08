@@ -1,0 +1,54 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.openmock.seatguruscrapper'
+version = '25.07'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    // Apache Commons CLI » 1.9.0
+    // Apache Commons CLI provides a simple API for presenting, processing, and validating a Command Line Interface.
+    //
+    // https://mvnrepository.com/artifact/commons-cli/commons-cli
+    implementation 'commons-cli:commons-cli:1.9.0'
+
+    // Jsoup Java HTML Parser » 1.21.1
+    // jsoup is a Java library that simplifies working with real-world HTML and XML.
+    // It offers an easy-to-use API for URL fetching, data parsing, extraction, and
+    // manipulation using DOM API methods, CSS, and xpath selectors. jsoup implements
+    // the WHATWG HTML5 specification, and parses HTML to the same DOM as modern
+    // browsers.
+    //
+    // https://mvnrepository.com/artifact/org.jsoup/jsoup
+    implementation 'org.jsoup:jsoup:1.21.1'
+
+    // Project Lombok » 1.18.38
+    //
+    // Lombok is a Java library that provides annotations to simplify Java development
+    // by automating the generation of boilerplate code. Key features include automatic
+    // generation of getters, setters, equals, hashCode, and toString methods, as well
+    // as a facility for automatic resource management. It aims to reduce the amount of
+    // manual coding, thereby streamlining the codebase and reducing potential for errors.
+    // https://mvnrepository.com/artifact/org.projectlombok/lombok
+    compileOnly("org.projectlombok:lombok:1.18.38")
+    annotationProcessor("org.projectlombok:lombok:1.18.38")
+
+    // API for Apache Log4J, a highly configurable logging tool that focuses on performance and low garbage generation. It has a plugin architecture that makes it extensible and supports asynchronous logging based on LMAX Disruptor.
+    // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api
+    implementation("org.apache.logging.log4j:log4j-api:2.25.0")
+    // Implementation for Apache Log4J, a highly configurable logging tool that focuses on performance and low garbage generation. It has a plugin architecture that makes it extensible and supports asynchronous logging based on LMAX Disruptor.
+    // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
+    implementation("org.apache.logging.log4j:log4j-core:2.25.0")
+
+    testImplementation platform('org.junit:junit-bom:5.10.0')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
