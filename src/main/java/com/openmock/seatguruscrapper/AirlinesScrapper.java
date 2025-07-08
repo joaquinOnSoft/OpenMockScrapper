@@ -264,12 +264,14 @@ public class AirlinesScrapper {
             int i=0;
             for(Element aircraftTable: eAircraftTable){
 
+                // Read aircraft for each aircraft type
                 List<Element> eAircraftRows = aircraftTable.select("tbody > tr > td");
                 if(!eAircraftRows.isEmpty()) {
                     for(Element aircraftRow: eAircraftRows) {
                         aircraft = new Aircraft();
                         aircraft.setType(aircraftTypes.get(i));
 
+                        // Read amenities information for each aircraft
                         List<Element> amenities = aircraftRow.select("ul[class=amenities-list] > li");
                         if (!amenities.isEmpty()) {
                             for (Element amenity : amenities) {
@@ -277,6 +279,16 @@ public class AirlinesScrapper {
                                 aircraft.addAmenity(class2Amenity(amenity.attr("class")));
                             }
                         }
+
+                        // Read amenities information for each aircraft
+                        List<Element> seats = aircraftRow.select("div[class=aircraft_seats] > span[class=seat_class]");
+                        if (!seats.isEmpty()) {
+                            for (Element seat : seats) {
+                                    ;
+                                aircraft.addSeat(seat.text());
+                            }
+                        }
+
 
                         aircrafts.add(aircraft);
                     }
