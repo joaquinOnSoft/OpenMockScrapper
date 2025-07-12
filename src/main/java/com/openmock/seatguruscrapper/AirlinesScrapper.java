@@ -105,7 +105,12 @@ public class AirlinesScrapper {
             }
 
             //Get aircraft list
-            List<Aircraft> aircrafts = getAircrafts(doc);
+            List<Aircraft> aircraftList = getAircrafts(doc);
+            if(aircraftList != null && !aircraftList.isEmpty()) {
+                airline.setAircrafts(aircraftList);
+            }
+
+            airline = getLinks(doc, airline);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
@@ -280,15 +285,19 @@ public class AirlinesScrapper {
                             }
                         }
 
-                        // Read amenities information for each aircraft
+                        // Read seat types information for each aircraft
+                        List<Element> links = aircraftRow.select("div[class=aircraft_seats] > a");
+                        if (!links.isEmpty()) {
+                            aircraft.setName(links.getFirst().text());
+                        }
+
+                        // Read seat types information for each aircraft
                         List<Element> seats = aircraftRow.select("div[class=aircraft_seats] > span[class=seat_class]");
                         if (!seats.isEmpty()) {
                             for (Element seat : seats) {
-                                    ;
                                 aircraft.addSeat(seat.text());
                             }
                         }
-
 
                         aircrafts.add(aircraft);
                     }
@@ -298,6 +307,84 @@ public class AirlinesScrapper {
         }
 
         return aircrafts;
+    }
+
+    ///
+    /// ```
+    /// <div class="sidebar-aircraft boxTop17">
+    ///   <div id="gpt-ad-3-300x250-300x600" class="adInner gptAd  on" style="display: none;" data-google-query-id="">
+    ///     <div id="google_ads_iframe_/5349/ta.seatguru.com.s/SG_aer_lingus_4__container__" style="border: 0pt none; width: 300px; height: 0px;"></div>
+    ///   </div>
+    ///   <form id="search_form" class="big" method="GET" action="/flights">
+    ///       ...
+    ///   </form>
+    ///   <h2 id="phone_numbers" class="top-round-corners">Contact Information</h2>
+    ///   <h3>Phone Numbers</h3>
+    ///   <span class="ai-label">Gold Circle Club (from US)</span>
+    ///   <span class="ai-info">1-516-622-4222</span>
+    ///   <span class="ai-label">Gold Circle Club (from GB)</span>
+    ///   <span class="ai-info">0871 718 5555</span>
+    ///   <span class="ai-label">Gold Circle Club (from IE)</span>
+    ///   <span class="ai-info">08180365900</span>
+    ///   <span class="ai-label">Reservations (from IE)</span>
+    ///   <span class="ai-info">0818 365000</span>
+    ///   <span class="ai-label">Reservations (from US)</span>
+    ///   <span class="ai-info">1-800-474-7424</span>
+    ///   <span class="ai-label">Reservations (from GB)</span>
+    ///   <span class="ai-info">0871 718 5000</span>
+    ///   <span class="ai-label">Special Assistance (from IE)</span>
+    ///   <span class="ai-info">(353) 1 886-2009</span>
+    ///   <span class="ai-label">Special Assistance (from US)</span>
+    ///   <span class="ai-info">(877) 351-6882</span>
+    ///   <h3>Aer Lingus Links</h3>
+    ///   <span class="ai-label">Airline Code:</span>
+    ///   <span class="ai-info">EI</span>
+    ///   <span class="ai-label">Website:</span>
+    ///   <span class="ai-info">
+    ///     <a target="_blank" rel="nofollow" href="https://www.aerlingus.com">https://www.aerlingus.com</a>
+    ///   </span>
+    ///   <span class="ai-label">Frequent Flyer Program:</span>
+    ///   <span class="ai-info">
+    ///     <a target="_blank" rel="nofollow" href="http://www.aerlingus.com/goldcircle/">Gold Circle Club</a>
+    ///   </span>
+    ///   <span class="ai-label">Lounge</span>
+    ///   <span class="ai-info">Gold Circle Club</span>
+    ///   <span class="ai-label">Airline Alliance:</span>
+    ///   <span class="ai-info">N/A</span>
+    ///   <span class="ai-label">Magazine:</span>
+    ///   <span class="ai-info">Cara</span>
+    /// </div>
+    ///  ```
+    private static Airline getLinks(Document doc, Airline airline){
+        String step = null;
+
+        Elements spans = doc.select("div[class=sidebar-aircraft boxTop17] > span");
+        if(!spans.isEmpty()){
+            for (Element span: spans){
+                if(step != null){
+                    switch (step){
+                        case "Airline Code:" -> airline.setCode(span.text());
+                        case "Website:" -> airline.setWeb(span.text());
+                        case "Frequent Flyer Program:" -> airline.setFrequentFlyerProgram(span.text());
+                        case "Lounge" -> airline.setLounge(span.text());
+                        case "Airline Alliance:" -> airline.setAlliance(span.text());
+                        case "Magazine:" -> airline.setMagazine(span.text());
+                        default -> step = null;
+                    }
+                }
+                switch (span.text()){
+                    case "Airline Code:",
+                         "Website:" ,
+                         "Frequent Flyer Program:",
+                         "Lounge",
+                         "Airline Alliance:",
+                         "Magazine:" -> step = span.wholeText();
+                    default -> step = null;
+                }
+            }
+
+        }
+        return airline;
     }
 
     /// Identify the amenity type base on the css class assigned to a `<li>` tag.

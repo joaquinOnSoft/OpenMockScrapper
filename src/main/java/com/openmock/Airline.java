@@ -12,9 +12,11 @@ public class Airline {
     private String name;
     private String code;
     private String web;
+    private String lounge;
     private String reservationsPhone;
     private String frequentFlyerProgram;
     private String alliance;
+    private String magazine;
     private List<Aircraft> aircrafts = new LinkedList<>();
     private List<String> popularDestinations = new LinkedList<>();
 

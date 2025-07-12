@@ -1,5 +1,6 @@
 package com.openmock.seatguruscrapper;
 
+import com.openmock.Aircraft;
 import com.openmock.Airline;
 import org.junit.jupiter.api.Test;
 
@@ -43,5 +44,16 @@ public class AirlinesScrapperTest {
         for(int i=0; i<numDestinations; i++){
             assertEquals(expectedDestinations[i], destinations.get(i));
         }
+
+        assertEquals("A3", airline.getCode());
+        assertEquals("https://en.aegeanair.com", airline.getWeb());
+        assertEquals("Miles+Bonus", airline.getFrequentFlyerProgram());
+        assertEquals("Star Alliance", airline.getAlliance());
+
+        List<Aircraft> aircraftList = airline.getAircrafts();
+        assertNotNull(aircraftList);
+        assertEquals(5, aircraftList.size());
+        assertEquals("Airbus A319 (319)", aircraftList.getFirst().getName());
+        assertEquals("Bombardier Q400 (DH4)", aircraftList.getLast().getName());
     }
 }
