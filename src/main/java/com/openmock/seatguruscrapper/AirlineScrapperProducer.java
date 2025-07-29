@@ -1,22 +1,16 @@
 package com.openmock.seatguruscrapper;
 
-import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
-import lombok.Setter;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import lombok.extern.log4j.Log4j2;
 
 import java.util.List;
 import java.util.concurrent.BlockingQueue;
 
 @AllArgsConstructor
+@Log4j2
 public class AirlineScrapperProducer implements Runnable {
     private BlockingQueue<AirlineJob> queue;
     private int numConsumers;
-
-
-    @Setter(AccessLevel.NONE)
-    private static final Logger log = LogManager.getLogger(AirlineScrapperProducer.class);
 
     @Override
     public void run() {

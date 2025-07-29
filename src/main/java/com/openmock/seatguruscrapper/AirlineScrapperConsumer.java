@@ -1,23 +1,19 @@
 package com.openmock.seatguruscrapper;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.openmock.Airline;
-import lombok.AccessLevel;
+import com.openmock.util.FileUtil;
 import lombok.AllArgsConstructor;
-import lombok.Setter;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import lombok.extern.log4j.Log4j2;
 
-import java.io.IOException;
-import java.util.List;
+import java.nio.file.Paths;
 import java.util.concurrent.BlockingQueue;
 
 @AllArgsConstructor
+@Log4j2
 public class AirlineScrapperConsumer implements Runnable {
     private BlockingQueue<AirlineJob> queue;
-    private String lang;
-
-    @Setter(AccessLevel.NONE)
-    private static final Logger log = LogManager.getLogger(AirlineScrapperConsumer.class);
 
     @Override
     public void run() {
@@ -36,11 +32,19 @@ public class AirlineScrapperConsumer implements Runnable {
                 }
 
                 Airline airline = AirlinesScrapper.getAirline(job.getUrl());
-                //TODO write json file
+
+                //Convert object to pretty print string
+                ObjectMapper mapper = new ObjectMapper();
+                String indented = mapper.writerWithDefaultPrettyPrinter().writeValueAsString(airline);
+                FileUtil.save(
+                        Paths.get(FileUtil.getWorkingDirectory(), airline.getName().replace(" ", "-") + ".json"),
+                        indented);
             }
         } catch (InterruptedException e) {
             log.error("Thread interrupted: ", e);
             Thread.currentThread().interrupt();
+        } catch (JsonProcessingException e) {
+            log.error("JSON string generation failed: ", e);
         }
         //catch (IOException e) {
         //    log.error("I/O error: ", e);

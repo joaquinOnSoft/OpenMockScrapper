@@ -1,6 +1,7 @@
 package com.openmock.seatguruscrapper;
 
 import com.openmock.util.NumberUtil;
+import lombok.extern.log4j.Log4j2;
 import org.apache.commons.cli.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -9,13 +10,12 @@ import java.security.InvalidParameterException;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
+@Log4j2
 public class AirlineScrapperLauncher {
     private static final int DEFAULT_NUM_THREADS = 4;
 
     private static final String SHORT_PARAM_THREADS = "t";
     private static final String LONG_PARAM_THREADS = "threads";
-
-    private static final Logger log = LogManager.getLogger(AirlineScrapperLauncher.class);
 
     private static final String HELP = """
             Generates a json with the airline infomrmaton (amenities, aircraft...)
@@ -50,13 +50,13 @@ public class AirlineScrapperLauncher {
         BlockingQueue<AirlineJob> queue = new LinkedBlockingQueue<>();
         for (int i = 0; i < numConsumers; i++) {
             log.info(">> Consumer {} launched.", i);
-            new Thread(new AirlineScrapperConsumer(queue, lang)).start();
+            new Thread(new AirlineScrapperConsumer(queue)).start();
         }
         log.info("# {} consumers launched in total.", numConsumers);
 
 
         log.info(">>> Producer launched.");
-        new Thread(new OscaroScrapperProducer(queue, numConsumers, lang)).start();
+        new Thread(new AirlineScrapperProducer(queue, numConsumers)).start();
     }
 
     private static int validateParamThreads(CommandLine cmd) throws InvalidParameterException {

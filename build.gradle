@@ -27,6 +27,12 @@ dependencies {
     // https://mvnrepository.com/artifact/org.jsoup/jsoup
     implementation 'org.jsoup:jsoup:1.21.1'
 
+    // Jackson Databind » 2.19.2
+    // General data-binding functionality for Jackson: works on core streaming API
+    //
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.19.2")
+
     // Project Lombok » 1.18.38
     //
     // Lombok is a Java library that provides annotations to simplify Java development

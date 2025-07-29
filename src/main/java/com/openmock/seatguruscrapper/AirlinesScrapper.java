@@ -4,8 +4,7 @@ import com.openmock.Aircraft;
 import com.openmock.AircraftType;
 import com.openmock.Airline;
 import com.openmock.Amenity;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import lombok.extern.log4j.Log4j2;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -17,6 +16,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
+@Log4j2
 public class AirlinesScrapper {
     protected static final String SEAT_GURU_URL_BASE = "https://www.seatguru.com";
     protected static final String SEAT_GURU_BROWSE_AIRLINES = SEAT_GURU_URL_BASE + "/browseairlines";
@@ -34,7 +34,6 @@ public class AirlinesScrapper {
     private static final String AIRLINE_BASIC_INFO_PATTERN = "div[class=airlineBannerLargeRight] > span[class=ai-info]";
     private static final String AIRLINE_POPULAR_DESTINATIONS_PATTERN = "div[id=popular-destinations] > ul > li > div[class=geo-title]";
 
-    private final static Logger log = LogManager.getLogger(AirlinesScrapper.class);
 
     /// Find all  airlines URLs included in the
     /// [Browse Airlines](https://www.seatguru.com/browseairlines) page

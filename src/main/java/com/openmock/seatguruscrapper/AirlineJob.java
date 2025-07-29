@@ -1,6 +1,5 @@
 package com.openmock.seatguruscrapper;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
