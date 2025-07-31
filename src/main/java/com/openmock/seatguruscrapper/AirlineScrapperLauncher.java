@@ -3,8 +3,6 @@ package com.openmock.seatguruscrapper;
 import com.openmock.util.NumberUtil;
 import lombok.extern.log4j.Log4j2;
 import org.apache.commons.cli.*;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 
 import java.security.InvalidParameterException;
 import java.util.concurrent.BlockingQueue;
