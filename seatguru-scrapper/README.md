@@ -1,0 +1,13 @@
+# Open Mock Scrapper
+
+**Open Mock** is a random data generator library for testing.
+
+These web scrapper read information from multiple websites to use it 
+as source for random data generation.
+
+Right now includes the following scrappers:
+
+ - [Oscaro scrapper](oscaro-scrapper/README.md): reads vehicle brands, families, models and types
+ - [Seat guru scrapper](seatguru-scrapper/README.md): readas information about airlines, 
+   popular destinations and airplane models used by the airline
+
