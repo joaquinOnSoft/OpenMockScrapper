@@ -1,6 +1,6 @@
 package com.openmock.oscaroscrapper;
 
-import com.openmock.oscaroscrapper.util.NumberUtil;
+import com.openmock.util.NumberUtil;
 import org.apache.commons.cli.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -21,9 +21,20 @@ public class OscaroScrapperLauncher {
     private static final String SHORT_PARAM_LANG = "l";
     private static final String LONG_PARAM_LANG = "lang";
 
+    private static final String SHORT_PARAM_ZEN_ROWS = "z";
+    private static final String LONG_PARAM_ZEN_ROWS = "zen";
+
     private static final String HELP = """
             Generates a CSV with the brands, families, models and types
             of vehicles available in Oscaro.
+            
+            Valid parameters:
+            
+              --threads or -t: (Optional) Number of threads used simultaneously to parse the page
+              --lang or -l: (Optional) ISO-2 language code. Supported languages: "es" (Spanish),
+                            "fr" (French) and "pt" (Portuguese). Default value: "es"
+              --zen or -z: (optinal) Flat to indicate that Zen Rows API must be used to bypass
+                           Cloudfare block to parse the page. It requires an API key to work.
             
             Call example:
             
@@ -33,24 +44,20 @@ public class OscaroScrapperLauncher {
     private static final Logger log = LogManager.getLogger(OscaroScrapperLauncher.class);
 
     public static void main(String[] args) {
-        Options options = new Options();
-
-        Option threadOption = new Option(SHORT_PARAM_THREADS, LONG_PARAM_THREADS, true, "Number of thread to process simultaneously the contracts .csv file. Default value: 4");
-        options.addOption(threadOption);
-
-        Option langOption = new Option(SHORT_PARAM_LANG, LONG_PARAM_LANG, true, "Language code ISO-2 to retrieve the information. Default value: es");
-        options.addOption(langOption);
+        Options options = getOptions();
 
         CommandLineParser parser = new DefaultParser();
         HelpFormatter formatter = new HelpFormatter();
         CommandLine cmd;
         int numConsumers = DEFAULT_NUM_THREADS;
         String lang = DEFAULT_LANG;
+        boolean useZenRowsAPI = false;
 
         try {
             cmd = parser.parse(options, args);
             numConsumers = validateParamThreads(cmd);
             lang = validateParamLang(cmd);
+            useZenRowsAPI = cmd.hasOption(LONG_PARAM_ZEN_ROWS);
         } catch (ParseException | InvalidParameterException e) {
             formatter.printHelp(HELP, options);
             log.error(e.getMessage());
@@ -62,13 +69,27 @@ public class OscaroScrapperLauncher {
 
         for (int i = 0; i < numConsumers; i++) {
             log.info(">> Consumer {} launched.", i);
-            new Thread(new OscaroScrapperConsumer(queue, lang)).start();
+            new Thread(new OscaroScrapperConsumer(queue, lang, useZenRowsAPI)).start();
         }
         log.info("# {} consumers launched in total.", numConsumers);
 
 
         log.info(">>> Producer launched.");
-        new Thread(new OscaroScrapperProducer(queue, numConsumers, lang)).start();
+        new Thread(new OscaroScrapperProducer(queue, numConsumers, lang, useZenRowsAPI)).start();
+    }
+
+    private static Options getOptions() {
+        Options options = new Options();
+
+        Option threadOption = new Option(SHORT_PARAM_THREADS, LONG_PARAM_THREADS, true, "(optinal) Number of thread to process simultaneously the contracts .csv file. Default value: 4");
+        options.addOption(threadOption);
+
+        Option langOption = new Option(SHORT_PARAM_LANG, LONG_PARAM_LANG, true, "(optinal) Language code ISO-2 to retrieve the information. Default value: es");
+        options.addOption(langOption);
+
+        Option zenRowsOption = new Option(SHORT_PARAM_ZEN_ROWS, LONG_PARAM_ZEN_ROWS, false, "(optinal) Flat to indicate that Zen Rows API must be used to bypass Cloudfare block to parse the page.");
+        options.addOption(zenRowsOption);
+        return options;
     }
 
 

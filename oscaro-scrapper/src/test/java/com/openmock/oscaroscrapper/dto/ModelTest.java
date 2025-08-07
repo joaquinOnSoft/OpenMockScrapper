@@ -9,13 +9,13 @@ public class ModelTest {
     public void initModel() {
         Model model = new Model("mo-1366", "II Hatchback (09/2002 - 10/2008)");
         assertNotNull(model.getManufacturedFrom());
-        assertEquals(1030831200000L, model.getManufacturedFrom().getTime());
+        assertEquals(1030834800000L, model.getManufacturedFrom().getTime());
         assertNotNull(model.getManufacturedTo());
 
 
         model = new Model("mo-1366", "II Hatchback (09/2002 - hoy)");
         assertNotNull(model.getManufacturedFrom());
-        assertEquals(1030831200000L, model.getManufacturedFrom().getTime());
+        assertEquals(1030834800000L, model.getManufacturedFrom().getTime());
         assertNull(model.getManufacturedTo());
     }
 }

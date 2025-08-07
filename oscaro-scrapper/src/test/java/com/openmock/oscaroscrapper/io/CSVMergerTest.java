@@ -1,6 +1,6 @@
 package com.openmock.oscaroscrapper.io;
 
-import com.openmock.oscaroscrapper.util.FileUtil;
+import com.openmock.util.FileUtil;
 import org.junit.jupiter.api.Test;
 
 import java.io.File;

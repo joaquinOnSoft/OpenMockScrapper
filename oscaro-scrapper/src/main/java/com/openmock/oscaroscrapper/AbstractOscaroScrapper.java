@@ -1,8 +1,5 @@
 package com.openmock.oscaroscrapper;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonMappingException;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.openmock.oscaroscrapper.dto.Brand;
 import com.openmock.oscaroscrapper.dto.Family;
 import com.openmock.oscaroscrapper.dto.Model;
@@ -14,11 +11,9 @@ import com.openmock.oscaroscrapper.pojo.VehiclesMng;
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
 import lombok.Setter;
-import lombok.extern.log4j.Log4j2;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -26,28 +21,28 @@ import java.net.URL;
 import java.util.LinkedList;
 import java.util.List;
 
-@Log4j2
 @AllArgsConstructor
-public class OscaroScrapper {
-
+public abstract class AbstractOscaroScrapper {
     @Setter(AccessLevel.NONE)
-    private static final String BASE_URL = "https://www.oscaro.com";
+    protected static final String LEVEL_PLACEHOLDER = "%LEVEL%";
     @Setter(AccessLevel.NONE)
-    private static final String VEHICLES_URL = "/xhr/nav/vehicles/%LANG%/%LANG%?vehicles-id=%ID%&tree-level=%LEVEL%&page-type=home";
-
+    protected static final String LANG_PLACEHOLDER = "%LANG%";
     @Setter(AccessLevel.NONE)
-    public static final String LEVEL_PLACEHOLDER = "%LEVEL%";
+    protected static final String ID_PLACEHOLDER = "%ID%";
     @Setter(AccessLevel.NONE)
-    public static final String LANG_PLACEHOLDER = "%LANG%";
+    protected static final String BASE_URL = "https://www.oscaro.com";
     @Setter(AccessLevel.NONE)
-    public static final String ID_PLACEHOLDER = "%ID%";
-
+    protected static final String VEHICLES_URL = "/xhr/nav/vehicles/%LANG%/%LANG%?vehicles-id=%ID%&tree-level=%LEVEL%&page-type=home";
     @Setter
-    private String lang;
+    protected String lang;
 
-    public OscaroScrapper() {
+    @Setter(AccessLevel.NONE)
+    protected static final Logger log = LogManager.getLogger(AbstractOscaroScrapper.class);
+
+    public AbstractOscaroScrapper(){
         lang = "es";
     }
+
 
     /**
      * Recover all the families, models and types for all the brands
@@ -116,7 +111,7 @@ public class OscaroScrapper {
     public List<Brand> getBrands() {
         List<Brand> brands = null;
 
-        VehiclesMng vehicles = readURL(getURL("0", Level.ROOT));
+        VehiclesMng vehicles = url2Vehicles(getURL("0", Level.ROOT));
 
         if (vehicles != null && vehicles.getVehicles() != null && !vehicles.getVehicles().isEmpty()) {
             brands = new LinkedList<>();
@@ -131,7 +126,7 @@ public class OscaroScrapper {
     protected List<Family> getFamilies4Brand(String brandId) {
         List<Family> families = null;
 
-        VehiclesMng vehicles = readURL(getURL(brandId, Level.BRAND));
+        VehiclesMng vehicles = url2Vehicles(getURL(brandId, Level.BRAND));
 
         if (vehicles != null && vehicles.getVehicles() != null && !vehicles.getVehicles().isEmpty()) {
             families = new LinkedList<>();
@@ -146,7 +141,7 @@ public class OscaroScrapper {
     protected List<Model> getModels4Family(String familyId) {
         List<Model> models = null;
 
-        VehiclesMng vehicles = readURL(getURL(familyId, Level.FAMILY));
+        VehiclesMng vehicles = url2Vehicles(getURL(familyId, Level.FAMILY));
 
         if (vehicles != null && vehicles.getVehicles() != null && !vehicles.getVehicles().isEmpty()) {
             models = new LinkedList<>();
@@ -161,7 +156,7 @@ public class OscaroScrapper {
     protected List<Type> getTypes4Model(String modelId) {
         List<Type> types = null;
 
-        VehiclesMng vehicles = readURL(getURL(modelId, Level.MODEL));
+        VehiclesMng vehicles = url2Vehicles(getURL(modelId, Level.MODEL));
 
         if (vehicles != null && vehicles.getVehicles() != null && !vehicles.getVehicles().isEmpty()) {
             types = new LinkedList<>();
@@ -176,7 +171,7 @@ public class OscaroScrapper {
     protected Type getTypeDetails(String typeId) {
         Type type = null;
 
-        VehiclesMng vehicles = readURL(getURL(typeId, Level.TYPE));
+        VehiclesMng vehicles = url2Vehicles(getURL(typeId, Level.TYPE));
 
         if (vehicles != null && vehicles.getVehicles() != null && !vehicles.getVehicles().isEmpty()) {
             Vehicle child = vehicles.getVehicles().getFirst();
@@ -196,36 +191,8 @@ public class OscaroScrapper {
         return type;
     }
 
-    private VehiclesMng readURL(URL url) {
-        VehiclesMng vehicles = null;
 
-
-        try {
-            Document doc = Jsoup.connect(url.toString())
-                    .header("User-Agent", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1")
-                    .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8")
-                    .get();
-            String jsonString = doc.text();
-
-            // Scanner scanner = new Scanner(url.openStream(), StandardCharsets.UTF_8);
-            // scanner.useDelimiter("\\A");
-            // String jsonString = scanner.hasNext() ? scanner.next() : "";
-
-            ObjectMapper MAPPER = new ObjectMapper();
-            vehicles = MAPPER.readValue(jsonString, VehiclesMng.class);
-        } catch (JsonMappingException ex) {
-            log.error("JSON Mapping: ", ex);
-        } catch (JsonProcessingException ex) {
-            log.error("JSON processing: ", ex);
-        } catch (MalformedURLException ex) {
-            log.error("Malformed URL: ", ex);
-        } catch (IOException ex) {
-            log.error("I/O error: ", ex);
-        }
-
-        return vehicles;
-    }
-
+    protected abstract VehiclesMng url2Vehicles(URL url);
 
     /**
      * Generate the URL to recover the vehicle information
@@ -242,7 +209,7 @@ public class OscaroScrapper {
      * @param level - Information level. Possible values: root, brand, family, model
      * @return URL to recover
      */
-    private URL getURL(String id, Level level) {
+    protected URL getURL(String id, Level level) {
         URL url = null;
 
         String urlStr = BASE_URL + VEHICLES_URL
@@ -263,7 +230,7 @@ public class OscaroScrapper {
         return url;
     }
 
-    private enum Level {
+    protected enum Level {
         ROOT("root"),
         BRAND("brand"),
         FAMILY("family"),

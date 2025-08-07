@@ -1,4 +1,4 @@
-package com.openmock.oscaroscrapper.util;
+package com.openmock.util;
 
 
 import org.junit.jupiter.api.Test;
@@ -49,7 +49,10 @@ public class DateUtilTest {
 
         try {
             Date date = DateUtil.strToDate(strDate, format);
-            assertEquals("Tue Dec 01 00:00:00 GMT 2020", date.toString().replace("CET", "GMT").replace("CST", "GMT"));
+            assertEquals("Tue Dec 01 00:00:00 GMT 2020", date.toString()
+                    .replace("CET", "GMT")
+                    .replace("CST", "GMT")
+                    .replace("WET", "GMT"));
         } catch (ParseException e) {
             fail(e.getMessage());
         }
@@ -62,7 +65,7 @@ public class DateUtilTest {
 
         try {
             Date date = DateUtil.strToDate(strDate, Locale.ENGLISH, format);
-            assertEquals("Wed Jun 22 00:00:00 CEST 2022", date.toString());
+            assertEquals("Wed Jun 22 00:00:00 WEST 2022", date.toString());
         } catch (ParseException e) {
             fail(e.getMessage());
         }
@@ -75,7 +78,7 @@ public class DateUtilTest {
 
         try {
             Date date = DateUtil.strEngToDate(strDate, format);
-            assertEquals("Wed Jun 22 00:00:00 CEST 2022", date.toString());
+            assertEquals("Wed Jun 22 00:00:00 WEST 2022", date.toString());
         } catch (ParseException e) {
             fail(e.getMessage());
         }

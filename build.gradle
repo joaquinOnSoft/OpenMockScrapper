@@ -5,6 +5,11 @@ subprojects {
     group = 'com.openmock.scrapper'
     version = '25.08'
 
+    java {
+        sourceCompatibility = JavaVersion.VERSION_21
+        targetCompatibility = JavaVersion.VERSION_21
+    }
+
     repositories {
         mavenCentral()
     }

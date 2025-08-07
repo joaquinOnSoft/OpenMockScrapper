@@ -1,37 +1,40 @@
 package com.openmock.oscaroscrapper;
 
+import com.opencsv.CSVWriter;
 import com.openmock.oscaroscrapper.dto.Brand;
 import com.openmock.oscaroscrapper.dto.Family;
 import com.openmock.oscaroscrapper.dto.Model;
 import com.openmock.oscaroscrapper.dto.Type;
-import com.openmock.oscaroscrapper.util.DateUtil;
-import com.opencsv.CSVWriter;
-import lombok.AccessLevel;
+import com.openmock.util.DateUtil;
 import lombok.AllArgsConstructor;
-import lombok.Setter;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import lombok.extern.log4j.Log4j2;
 
-import java.io.*;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
 import java.nio.charset.StandardCharsets;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.BlockingQueue;
 
+@Log4j2
 @AllArgsConstructor
 public class OscaroScrapperConsumer implements Runnable {
     private BlockingQueue<BrandJob> queue;
     private String lang;
-
-    @Setter(AccessLevel.NONE)
-    private static final Logger log = LogManager.getLogger(OscaroScrapperConsumer.class);
+    private boolean useZenRowsAPI;
 
     @Override
     public void run() {
         try {
             BrandJob job;
             Brand brand;
-            OscaroScrapper wrapper = new OscaroScrapper(lang);
+            OscaroScrapperType scrapperType = OscaroScrapperType.DEFAULT;
+
+            if(useZenRowsAPI){
+                scrapperType=OscaroScrapperType.ZEN_ROW;
+            }
+            AbstractOscaroScrapper scrapper = OscaroScrapperFactory.getInstance().getOscaroScrapper(scrapperType, lang);
 
             while (true) {
                 job = queue.take();
@@ -45,7 +48,7 @@ public class OscaroScrapperConsumer implements Runnable {
 
                 brand = job.getBrand();
                 log.info("{} > {}", brand.getId(), brand.getName());
-                brand = wrapper.getBrandTypes(brand);
+                brand = scrapper.getBrandTypes(brand);
 
                 writeCSV(brand);
             }

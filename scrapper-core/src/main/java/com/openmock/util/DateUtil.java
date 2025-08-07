@@ -1,4 +1,4 @@
-package com.openmock.oscaroscrapper.util;
+package com.openmock.util;
 
 import java.text.DateFormat;
 import java.text.ParseException;

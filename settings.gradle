@@ -1,4 +1,5 @@
 rootProject.name = 'OpenMockScrapper'
+include('scrapper-core')
 include('oscaro-scrapper')
 include('seatguru-scrapper')
 

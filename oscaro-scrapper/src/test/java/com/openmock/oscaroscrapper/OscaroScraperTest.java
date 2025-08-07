@@ -13,12 +13,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 public class OscaroScraperTest {
-    private static OscaroScrapper wrapper;
+    private static DefaultOscaroScrapper wrapper;
 
     @BeforeEach
     public void init() {
         //By default, Oscaro scraper is using "es" as default language
-        wrapper = new OscaroScrapper();
+        wrapper = new DefaultOscaroScrapper();
     }
 
     @Test

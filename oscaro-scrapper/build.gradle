@@ -21,6 +21,8 @@ jar {
 }
 
 dependencies {
+    implementation project(':scrapper-core')
+
     // OpenCSV » 5.11.1
     // A simple library for reading and writing CSV in Java
     // https://mvnrepository.com/artifact/com.opencsv/opencsv
@@ -37,4 +39,7 @@ dependencies {
     //
     // https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
     implementation 'org.apache.poi:poi-ooxml:5.4.1'
+
+    // https://mvnrepository.com/artifact/org.apache.httpcomponents.client5/httpclient5-fluent
+    implementation 'org.apache.httpcomponents.client5:httpclient5-fluent:5.5'
 }

@@ -1,4 +1,4 @@
-package com.openmock.oscaroscrapper.util;
+package com.openmock.util;
 
 import java.util.regex.Pattern;
 
@@ -17,7 +17,7 @@ public class NumberUtil {
      *
      * @param strPatter - Regular expression to validate the string.
      * @param strNum    - String to be validated
-     * @return true if match, false in other case
+     * @return true if matched, false in other case
      * @see <a href="https://www.baeldung.com/java-check-string-number">
      * Check If a String Is Numeric in Java
      * </a>

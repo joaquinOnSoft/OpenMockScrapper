@@ -1,28 +1,31 @@
 package com.openmock.oscaroscrapper;
 
 import com.openmock.oscaroscrapper.dto.Brand;
-import lombok.AccessLevel;
 import lombok.AllArgsConstructor;
-import lombok.Setter;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
+import lombok.extern.log4j.Log4j2;
 
 import java.util.List;
 import java.util.concurrent.BlockingQueue;
 
+@Log4j2
 @AllArgsConstructor
 public class OscaroScrapperProducer implements Runnable {
     private BlockingQueue<BrandJob> queue;
     private int numConsumers;
     private String lang;
+    private boolean useZenRowsAPI;
 
-    @Setter(AccessLevel.NONE)
-    private static final Logger log = LogManager.getLogger(OscaroScrapperProducer.class);
 
     @Override
     public void run() {
-        OscaroScrapper wrapper = new OscaroScrapper(lang);
-        List<Brand> brands = wrapper.getBrands();
+        OscaroScrapperType scrapperType = OscaroScrapperType.DEFAULT;
+
+        if(useZenRowsAPI){
+            scrapperType=OscaroScrapperType.ZEN_ROW;
+        }
+
+        AbstractOscaroScrapper scrapper = OscaroScrapperFactory.getInstance().getOscaroScrapper(scrapperType, lang);
+        List<Brand> brands = scrapper.getBrands();
 
         if (brands != null) {
             for (Brand brand : brands) {

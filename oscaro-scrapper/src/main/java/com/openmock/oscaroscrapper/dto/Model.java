@@ -1,6 +1,6 @@
 package com.openmock.oscaroscrapper.dto;
 
-import com.openmock.oscaroscrapper.util.DateUtil;
+import com.openmock.util.DateUtil;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
