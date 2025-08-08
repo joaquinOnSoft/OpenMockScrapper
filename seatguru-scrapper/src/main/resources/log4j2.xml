@@ -20,6 +20,9 @@
         </Console>
     </Appenders>
     <Loggers>
+        <Logger name="com.openmock" level="debug" additivity="true">
+            <appender-ref ref="fileLogger" level="debug"/>
+        </Logger>
         <Logger name="com.openmock.seatguruscrapper" level="debug" additivity="true">
             <appender-ref ref="fileLogger" level="debug"/>
         </Logger>

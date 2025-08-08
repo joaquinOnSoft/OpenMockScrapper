@@ -64,7 +64,3 @@ the Oscaro Scrapper.
 
 ![Zenrows overview](images/zenrows-overview.png)
 
-## TO DO list
-
- - [ ] Read Zenrows API key from properties file
- - [ ] Add random delay after each ZenRows API call

@@ -15,6 +15,7 @@ import java.io.OutputStreamWriter;
 import java.nio.charset.StandardCharsets;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Random;
 import java.util.concurrent.BlockingQueue;
 
 @Log4j2
@@ -50,6 +51,12 @@ public class OscaroScrapperConsumer implements Runnable {
                 log.info("{} > {}", brand.getId(), brand.getName());
                 brand = scrapper.getBrandTypes(brand);
 
+                if(useZenRowsAPI){
+                    long milliseconds = millisecondsToSleep();
+                    log.info("Sleeping {} milliseconds", milliseconds);
+                    Thread.sleep(milliseconds);
+                }
+
                 writeCSV(brand);
             }
         } catch (InterruptedException e) {
@@ -59,6 +66,10 @@ public class OscaroScrapperConsumer implements Runnable {
         catch (IOException e) {
             log.error("I/O error: ", e);
         }
+    }
+
+    private long millisecondsToSleep(){
+        return (new Random()).nextInt(5000 - 1000) + 1000;
     }
 
     private void writeCSV(Brand brand) throws IOException {

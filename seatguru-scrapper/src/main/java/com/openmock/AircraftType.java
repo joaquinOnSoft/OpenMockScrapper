@@ -1,8 +1,13 @@
 package com.openmock;
 
+import lombok.extern.log4j.Log4j2;
+
+@Log4j2
 public enum AircraftType {
     NARROW_BODY_JETS("Narrowbody Jets"),
-    TURBOPROPS("Turboprops");
+    REGIONAL_JETS("Regional Jets"),
+    TURBOPROPS("Turboprops"),
+    WIDE_BODY_JETS("Widebody Jets");
 
     public final String label;
 
@@ -16,6 +21,8 @@ public enum AircraftType {
                 return e;
             }
         }
+
+        log.warn("UNKNOWN aircraft type: {}", label);
         return null;
     }
 }

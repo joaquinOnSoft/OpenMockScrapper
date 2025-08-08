@@ -36,7 +36,7 @@ It generates a `json` file for each airline. The `json` file looks like this:
   "alliance" : "N/A",
   "magazine" : "Cara",
   "aircrafts" : [ {
-    "type" : null,
+    "type" : "WIDE_BODY_JETS",
     "name" : "Airbus A330-200 (332) Layout 1",
     "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
     "seats" : [ {
@@ -47,7 +47,7 @@ It generates a `json` file for each airline. The `json` file looks like this:
       "numSeats" : 248
     } ]
   }, {
-    "type" : null,
+    "type" : "WIDE_BODY_JETS",
     "name" : "Airbus A330-200 (332) Layout 2",
     "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
     "seats" : [ {
@@ -58,7 +58,7 @@ It generates a `json` file for each airline. The `json` file looks like this:
       "numSeats" : 243
     } ]
   }, {
-    "type" : null,
+    "type" : "WIDE_BODY_JETS",
     "name" : "Airbus A330-300 (333)",
     "amenities" : [ "FOOD", "INTERNET", "AC_POWER", "VIDEO", "AUDIO" ],
     "seats" : [ {
@@ -113,5 +113,6 @@ It generates a `json` file for each airline. The `json` file looks like this:
 
 ## TO DO list
 
-- [ ] Recover magazine for each airline
+- [x] Recover magazine for each airline
+- [x] Review airline types supported
 - [ ] Replace ENUM values for literals in the output json
