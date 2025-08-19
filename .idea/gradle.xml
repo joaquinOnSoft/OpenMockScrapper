@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/opennav-scrapper" />
             <option value="$PROJECT_DIR$/oscaro-scrapper" />
             <option value="$PROJECT_DIR$/scrapper-core" />
             <option value="$PROJECT_DIR$/seatguru-scrapper" />

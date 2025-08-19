@@ -29,7 +29,7 @@ public class AirlinesScrapper {
     public static final String LABEL_WEBSITE = "Website";
     public static final String LABEL_RESERVATIONS = "Reservations";
 
-    private static final String AIRLINE_URLS_PATTERN = "div[class=browseAirlines] > ul > li > a[href]";
+    private static final String     AIRLINE_URLS_PATTERN = "div[class=browseAirlines] > ul > li > a[href]";
     private static final String AIRLINE_NAME_PATTER = "div[class=content-header] > div[class=title] > h1";
     private static final String AIRLINE_BASIC_INFO_PATTERN = "div[class=airlineBannerLargeRight] > span[class=ai-info]";
     private static final String AIRLINE_POPULAR_DESTINATIONS_PATTERN = "div[id=popular-destinations] > ul > li > div[class=geo-title]";
@@ -39,7 +39,7 @@ public class AirlinesScrapper {
     /// [Browse Airlines](https://www.seatguru.com/browseairlines) page
     ///
     /// @return List of airline URLs
-    public static List<String> getAirlineURLs() {
+    public static List<String> getAirlineListURLs() {
         String url = SEAT_GURU_BROWSE_AIRLINES;
         List<String> urls = null;
 

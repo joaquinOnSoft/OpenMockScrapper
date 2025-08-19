@@ -1,13 +1,13 @@
-package com.openmock.openavscrapper;
+package com.openmock;
 
 import lombok.Data;
 
 import java.util.Locale;
 
 @Data
-public class Airline {
+public class Airport {
     private String name;
-    private Locale.IsoCountryCode isoCountryCode;
+    private Locale isoCountryCode;
     /** Airport elevation in feet */
     private int elevation;
     /** Airport latitude, e.g., 40° 29' 36.96" N */
@@ -17,7 +17,7 @@ public class Airline {
     private String website;
     private String wikipedia;
 
-    public void setIsoCountryCode(String isoCountryCode) throws IllegalArgumentException{
-        this.isoCountryCode = Locale.IsoCountryCode.valueOf(isoCountryCode);
+    public void setIsoCountryCode(String isoCountryCode) {
+        this.isoCountryCode =  Locale.of("", isoCountryCode);
     }
 }

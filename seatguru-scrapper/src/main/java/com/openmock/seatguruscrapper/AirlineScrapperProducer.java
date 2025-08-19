@@ -15,7 +15,7 @@ public class AirlineScrapperProducer implements Runnable {
     @Override
     public void run() {
 
-        List<String> urls = AirlinesScrapper.getAirlineURLs();
+        List<String> urls = AirlinesScrapper.getAirlineListURLs();
 
         if (urls != null) {
             for (String url : urls) {

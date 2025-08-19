@@ -11,8 +11,8 @@ import static org.junit.jupiter.api.Assertions.*;
 public class AirlinesScrapperTest {
 
     @Test
-    public void getAirlineURLs(){
-        List<String> urls = AirlinesScrapper.getAirlineURLs();
+    public void getAirlineListURLs(){
+        List<String> urls = AirlinesScrapper.getAirlineListURLs();
 
         assertNotNull(urls);
         assertFalse(urls.isEmpty());
