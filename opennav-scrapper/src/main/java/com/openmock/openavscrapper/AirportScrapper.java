@@ -66,6 +66,7 @@ public class AirportScrapper {
 
         for(String letter: letters){
             url = String.format(AIRPORT_CODES_BASE, letter);
+            log.info("openav.com Alphabetic airport list page: {}", url);
 
             try {
                 doc = Jsoup.connect(url).get();
@@ -95,6 +96,8 @@ public class AirportScrapper {
             airport = new Airport();
 
             doc = Jsoup.connect(url).get();
+
+            // Get airport general information
             Elements eFields = doc.select("td");;
             if(!eFields.isEmpty()){
                 FieldIndex index = null;
@@ -106,7 +109,7 @@ public class AirportScrapper {
                         switch (index) {
                             case NAME -> airport.setName(value);
                             case COUNTRY -> airport.setIsoCountryCode(value);
-                            case ELEVATION -> airport.setElevation(Integer.parseInt(value.replace(" feet", "")));
+                            case ELEVATION -> airport.setElevation(Float.parseFloat(value.replace(",", ".").replace(" feet", "")));
                             case LATITUDE -> airport.setLatitude(value);
                             case LONGITUDE -> airport.setLongitude(value);
                             case WEBSITE -> airport.setWebsite(value);
@@ -123,11 +126,22 @@ public class AirportScrapper {
                             case LONGITUDE -> index = FieldIndex.LONGITUDE;
                             case WEBSITE -> index = FieldIndex.WEBSITE;
                             case WIKIPEDIA -> index = FieldIndex.WIKIPEDIA;
-                            case null -> {
-                            }
+                            case null -> { /* Do nothing */ }
                         }
                     }
                 }
+            }
+
+            // Get ICAO code
+            Elements eICAOFields = doc.select("span[itemprop=icaoCode]");;
+            if(!eICAOFields.isEmpty()) {
+                airport.setIcao(eICAOFields.getFirst().text());
+            }
+
+            // Get IATA code
+            Elements eIATAFields = doc.select("span[itemprop=iataCode]");;
+            if(!eIATAFields.isEmpty()) {
+                airport.setIata(eIATAFields.getFirst().text());
             }
         }
         catch (IOException e) {

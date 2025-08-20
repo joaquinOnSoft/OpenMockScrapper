@@ -5,8 +5,8 @@
     </Properties>
 
     <Appenders>
-        <RollingFile name="fileLogger" fileName="${basePath}/oscaroscrapper.log"
-                     filePattern="${basePath}/oscaroscrapper-%d{yyyy-MM-dd}.log">
+        <RollingFile name="fileLogger" fileName="${basePath}/opennavscrapper.log"
+                     filePattern="${basePath}/opennavscrapper-%d{yyyy-MM-dd}.log">
             <PatternLayout>
                 <pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</pattern>
             </PatternLayout>
@@ -20,16 +20,10 @@
         </Console>
     </Appenders>
     <Loggers>
-        <Logger name="com.openmock.oscaroscrapper" level="debug" additivity="true">
+        <Logger name="com.openmock" level="debug" additivity="true">
             <appender-ref ref="fileLogger" level="debug"/>
         </Logger>
-        <Logger name="com.openmock.oscaroscrapper.io" level="debug" additivity="true">
-            <appender-ref ref="fileLogger" level="debug"/>
-        </Logger>
-        <Logger name="com.openmock.oscaroscrapper.dto" level="debug" additivity="true">
-            <appender-ref ref="fileLogger" level="debug"/>
-        </Logger>
-        <Logger name="com.openmock.oscaroscrapper.pojo" level="debug" additivity="true">
+        <Logger name="com.openmock.openavscrapper" level="debug" additivity="true">
             <appender-ref ref="fileLogger" level="debug"/>
         </Logger>
         <Root level="debug">

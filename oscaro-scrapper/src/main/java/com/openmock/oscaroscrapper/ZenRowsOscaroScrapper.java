@@ -7,7 +7,6 @@ import com.openmock.oscaroscrapper.pojo.VehiclesMng;
 import com.openmock.util.FileUtil;
 import org.apache.hc.client5.http.fluent.Request;
 
-import java.io.File;
 import java.io.IOException;
 import java.net.*;
 import java.nio.charset.StandardCharsets;

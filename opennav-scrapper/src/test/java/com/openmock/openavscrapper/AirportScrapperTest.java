@@ -21,14 +21,21 @@ public class AirportScrapperTest {
         assertEquals("https://opennav.com/airport/KZZV", airportURLs.getLast());
     }
 
-    @ParameterizedTest(name = "Airport URL to process: {0}")
+
+    @ParameterizedTest
     @CsvSource({
-            "https://opennav.com/airport/NTGA",
-            "https://opennav.com/airport/YARY",
-            "https://opennav.com/airport/HEAR"
+            "https://opennav.com/airport/NTGA, NTGA, AAA, Anaa Airport",
+            "https://opennav.com/airport/YARY, YARY, AAB, Arrabury Airport",
+            "https://opennav.com/airport/HEAR, HEAR, AAC, El Arish International Airport"
     })
-    public void getAirlineURL(String url){
+    public void getAirportURLTest(String url, String icao, String iata, String name) {
         Airport airport = AirportScrapper.getAirport(url);
-        assertNotNull(airport);
+
+        // Asegura que el objeto Airport no sea nulo.
+        assertNotNull(airport, "Airport object must NOT be null");
+
+        assertEquals(icao, airport.getIcao(), "ICAO doesn't match");
+        assertEquals(iata, airport.getIata(), "IATA code doesn't match");
+        assertEquals(name, airport.getName(), "Airport name doesn't match");
     }
 }
