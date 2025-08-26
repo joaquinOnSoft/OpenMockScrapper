@@ -1,0 +1,11 @@
+{
+  "name" : "Sky Harbor International Airport",
+  "icao" : "KPHX",
+  "iata" : "PHX",
+  "isoCountryCode" : "US",
+  "elevation" : 1.135,
+  "latitude" : "33° 26' 3.40\" N",
+  "longitude" : "112° 0' 41.70\" W",
+  "website" : "https://www.skyharbor.com/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Phoenix_Sky_Harbor_International_Airport"
+}

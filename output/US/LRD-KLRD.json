@@ -1,0 +1,11 @@
+{
+  "name" : "Laredo International Airport",
+  "icao" : "KLRD",
+  "iata" : "LRD",
+  "isoCountryCode" : "US",
+  "elevation" : 508.0,
+  "latitude" : "27° 32' 37.50\" N",
+  "longitude" : "99° 27' 41.60\" W",
+  "website" : "http://www.cityoflaredo.com/Airport/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Laredo_International_Airport"
+}

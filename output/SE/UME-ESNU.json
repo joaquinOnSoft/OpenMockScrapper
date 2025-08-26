@@ -1,0 +1,11 @@
+{
+  "name" : "Alvik Airport",
+  "icao" : "ESNU",
+  "iata" : "UME",
+  "isoCountryCode" : "SE",
+  "elevation" : 24.0,
+  "latitude" : "63° 47' 30.49\" N",
+  "longitude" : "20° 16' 58.08\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Umeå_Airport"
+}

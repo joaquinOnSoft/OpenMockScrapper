@@ -1,0 +1,11 @@
+{
+  "name" : "False Pass Airport",
+  "icao" : "PAKF",
+  "iata" : "KFP",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "54° 50' 50.64\" N",
+  "longitude" : "163° 24' 36.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/False_Pass_Airport"
+}

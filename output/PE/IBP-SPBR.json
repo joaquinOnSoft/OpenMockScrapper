@@ -1,0 +1,11 @@
+{
+  "name" : "Iberia Airport",
+  "icao" : "SPBR",
+  "iata" : "IBP",
+  "isoCountryCode" : "PE",
+  "elevation" : 0.0,
+  "latitude" : "11° 24' 41.76\" S",
+  "longitude" : "69° 29' 19.32\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Iberia_Airport"
+}

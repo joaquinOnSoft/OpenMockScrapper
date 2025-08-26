@@ -1,0 +1,11 @@
+{
+  "name" : "Porto Santo Airport",
+  "icao" : "LPPS",
+  "iata" : "PXO",
+  "isoCountryCode" : "PT",
+  "elevation" : 341.0,
+  "latitude" : "33° 4' 24.23\" N",
+  "longitude" : "16° 21' 0.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Porto_Santo_Airport"
+}

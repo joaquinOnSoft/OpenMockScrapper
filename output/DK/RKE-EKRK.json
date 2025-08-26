@@ -1,0 +1,11 @@
+{
+  "name" : "Roskilde Airport",
+  "icao" : "EKRK",
+  "iata" : "RKE",
+  "isoCountryCode" : "DK",
+  "elevation" : 146.0,
+  "latitude" : "55° 35' 8.17\" N",
+  "longitude" : "12° 7' 53.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Roskilde_Airport"
+}

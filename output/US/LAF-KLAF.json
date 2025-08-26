@@ -1,0 +1,11 @@
+{
+  "name" : "Purdue University Airport",
+  "icao" : "KLAF",
+  "iata" : "LAF",
+  "isoCountryCode" : "US",
+  "elevation" : 606.0,
+  "latitude" : "40° 24' 44.34\" N",
+  "longitude" : "86° 56' 12.84\" W",
+  "website" : "http://www.purdue.edu/AIRPORT/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Purdue_University_Airport"
+}

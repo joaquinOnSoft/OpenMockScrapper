@@ -1,0 +1,11 @@
+{
+  "name" : "Nagasaki Airport 長崎空港 Nagasaki Kūkō",
+  "icao" : "RJFU",
+  "iata" : "NGS",
+  "isoCountryCode" : "JP",
+  "elevation" : 150.0,
+  "latitude" : "32° 55' 0.84\" N",
+  "longitude" : "129° 54' 50.41\" E",
+  "website" : "http://www.nabic.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nagasaki_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Fort Simpson Airport",
+  "icao" : "CYFS",
+  "iata" : "YFS",
+  "isoCountryCode" : "CA",
+  "elevation" : 555.0,
+  "latitude" : "61° 45' 36.72\" N",
+  "longitude" : "121° 14' 13.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fort_Simpson_Airport"
+}

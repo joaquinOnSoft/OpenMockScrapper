@@ -1,0 +1,11 @@
+{
+  "name" : "Gwangju Airport",
+  "icao" : "RKJJ",
+  "iata" : "KWJ",
+  "isoCountryCode" : "KR",
+  "elevation" : 0.0,
+  "latitude" : "35° 7' 35.04\" N",
+  "longitude" : "126° 48' 32.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gwangju_Airport"
+}

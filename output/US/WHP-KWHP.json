@@ -1,0 +1,11 @@
+{
+  "name" : "Whiteman Airport",
+  "icao" : "KWHP",
+  "iata" : "WHP",
+  "isoCountryCode" : "US",
+  "elevation" : 1.003,
+  "latitude" : "34° 15' 33.57\" N",
+  "longitude" : "118° 24' 48.36\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Whiteman_Airport"
+}

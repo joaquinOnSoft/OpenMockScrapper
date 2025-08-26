@@ -1,0 +1,11 @@
+{
+  "name" : "Eucla Airport",
+  "icao" : "YECL",
+  "iata" : "EUC",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "31° 42' 0.00\" S",
+  "longitude" : "128° 52' 58.78\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Eucla_Airport"
+}

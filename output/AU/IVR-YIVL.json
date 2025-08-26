@@ -1,0 +1,11 @@
+{
+  "name" : "Inverell Airport",
+  "icao" : "YIVL",
+  "iata" : "IVR",
+  "isoCountryCode" : "AU",
+  "elevation" : 2.667,
+  "latitude" : "29° 53' 17.88\" S",
+  "longitude" : "151° 8' 38.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Inverell_Airport"
+}

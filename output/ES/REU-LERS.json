@@ -1,0 +1,11 @@
+{
+  "name" : "Reus Airport",
+  "icao" : "LERS",
+  "iata" : "REU",
+  "isoCountryCode" : "ES",
+  "elevation" : 234.0,
+  "latitude" : "41° 8' 50.64\" N",
+  "longitude" : "1° 10' 1.81\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Reus_Airport"
+}

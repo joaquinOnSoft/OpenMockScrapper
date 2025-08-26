@@ -1,0 +1,11 @@
+{
+  "name" : "Taylor Airport",
+  "icao" : "KTYL",
+  "iata" : "TYL",
+  "isoCountryCode" : "US",
+  "elevation" : 5.82,
+  "latitude" : "34° 27' 10.29\" N",
+  "longitude" : "110° 6' 53.36\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Taylor_Airport_(Arizona)"
+}

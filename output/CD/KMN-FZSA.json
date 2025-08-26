@@ -1,0 +1,11 @@
+{
+  "name" : "Kamina Base Airport",
+  "icao" : "FZSA",
+  "iata" : "KMN",
+  "isoCountryCode" : "CD",
+  "elevation" : 0.0,
+  "latitude" : "8° 38' 31.27\" S",
+  "longitude" : "25° 15' 10.44\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kamina_Air_Base"
+}

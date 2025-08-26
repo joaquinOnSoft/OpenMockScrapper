@@ -1,0 +1,11 @@
+{
+  "name" : "Kristianstad Airport",
+  "icao" : "ESMK",
+  "iata" : "KID",
+  "isoCountryCode" : "SE",
+  "elevation" : 0.0,
+  "latitude" : "55° 55' 18.12\" N",
+  "longitude" : "14° 5' 7.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kristianstad_Airport"
+}

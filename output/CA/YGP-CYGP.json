@@ -1,0 +1,11 @@
+{
+  "name" : "Gaspé Airport",
+  "icao" : "CYGP",
+  "iata" : "YGP",
+  "isoCountryCode" : "CA",
+  "elevation" : 108.0,
+  "latitude" : "48° 46' 31.08\" N",
+  "longitude" : "64° 28' 42.96\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Michel-Pouliot_Gaspé_Airport"
+}

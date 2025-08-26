@@ -1,0 +1,11 @@
+{
+  "name" : "Hartford-Brainard Airport",
+  "icao" : "KHFD",
+  "iata" : "HFD",
+  "isoCountryCode" : "US",
+  "elevation" : 18.0,
+  "latitude" : "41° 44' 12.20\" N",
+  "longitude" : "72° 38' 58.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hartford-Brainard_Airport"
+}

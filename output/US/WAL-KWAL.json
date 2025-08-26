@@ -1,0 +1,11 @@
+{
+  "name" : "Wallops Flight Facility Airport",
+  "icao" : "KWAL",
+  "iata" : "WAL",
+  "isoCountryCode" : "US",
+  "elevation" : 40.0,
+  "latitude" : "37° 56' 24.70\" N",
+  "longitude" : "75° 27' 59.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wallops_Flight_Facility"
+}

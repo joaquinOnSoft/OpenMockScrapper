@@ -1,0 +1,11 @@
+{
+  "name" : "Peshawar Airport",
+  "icao" : "OPPS",
+  "iata" : "PEW",
+  "isoCountryCode" : "PK",
+  "elevation" : 1.158,
+  "latitude" : "33° 59' 38.04\" N",
+  "longitude" : "71° 30' 52.57\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bacha_Khan_International_Airport"
+}

@@ -28,7 +28,7 @@ public class OpenNavScrapperLauncher {
             
             Valid parameters:
             
-              --threads or -t: (Optional) Number of threads used simultaneously to parse the page
+              --threads or -t: (Optional) Number of threads used simultaneously to parse the page. Default value: 4
               --output or -o: (Optional) Output path (directory). Default value '.'
             
             Call example:
@@ -57,6 +57,12 @@ public class OpenNavScrapperLauncher {
             System.err.println(e.getMessage());
             System.exit(-1);
         }
+
+        // javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+        // during web service communication
+        //
+        // https://stackoverflow.com/questions/21245796/javax-net-ssl-sslhandshakeexception-remote-host-closed-connection-during-handsh
+        System.setProperty("https.protocols", "TLSv1,TLSv1.1,TLSv1.2");
 
         BlockingQueue<AirportJob> queue = new LinkedBlockingQueue<>();
 

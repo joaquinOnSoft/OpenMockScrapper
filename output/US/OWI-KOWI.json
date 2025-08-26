@@ -1,0 +1,11 @@
+{
+  "name" : "Ottawa Municipal Airport",
+  "icao" : "KOWI",
+  "iata" : "OWI",
+  "isoCountryCode" : "US",
+  "elevation" : 966.0,
+  "latitude" : "38° 32' 19.20\" N",
+  "longitude" : "95° 15' 10.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ottawa_Municipal_Airport"
+}

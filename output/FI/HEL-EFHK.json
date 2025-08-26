@@ -1,0 +1,11 @@
+{
+  "name" : "Helsinki-Vantaa Airport",
+  "icao" : "EFHK",
+  "iata" : "HEL",
+  "isoCountryCode" : "FI",
+  "elevation" : 179.0,
+  "latitude" : "60° 19' 1.92\" N",
+  "longitude" : "24° 57' 47.88\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Helsinki_Airport"
+}

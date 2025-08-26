@@ -1,0 +1,11 @@
+{
+  "name" : "Zaragoza Airport",
+  "icao" : "LEZG",
+  "iata" : "ZAZ",
+  "isoCountryCode" : "ES",
+  "elevation" : 863.0,
+  "latitude" : "41° 39' 58.32\" N",
+  "longitude" : "1° 2' 29.58\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Zaragoza_Airport"
+}

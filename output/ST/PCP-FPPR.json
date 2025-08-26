@@ -1,0 +1,11 @@
+{
+  "name" : "Principe Airport",
+  "icao" : "FPPR",
+  "iata" : "PCP",
+  "isoCountryCode" : "ST",
+  "elevation" : 0.0,
+  "latitude" : "1° 39' 46.58\" N",
+  "longitude" : "7° 24' 42.26\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Príncipe_Airport"
+}

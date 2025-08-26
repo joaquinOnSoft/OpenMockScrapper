@@ -1,0 +1,11 @@
+{
+  "name" : "Teslin Airport",
+  "icao" : "CYZW",
+  "iata" : "YZW",
+  "isoCountryCode" : "CA",
+  "elevation" : 2.313,
+  "latitude" : "60° 10' 22.07\" N",
+  "longitude" : "132° 44' 34.79\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Teslin_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Tromsø Airport",
+  "icao" : "ENTC",
+  "iata" : "TOS",
+  "isoCountryCode" : "NO",
+  "elevation" : 31.0,
+  "latitude" : "69° 40' 59.87\" N",
+  "longitude" : "18° 55' 8.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tromsø_Airport"
+}

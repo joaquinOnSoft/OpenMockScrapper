@@ -1,0 +1,11 @@
+{
+  "name" : "Lompoc Airport",
+  "icao" : "KLPC",
+  "iata" : "LPC",
+  "isoCountryCode" : "US",
+  "elevation" : 88.0,
+  "latitude" : "34° 39' 56.23\" N",
+  "longitude" : "120° 28' 3.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lompoc_Airport"
+}

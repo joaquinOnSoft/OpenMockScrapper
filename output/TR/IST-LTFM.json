@@ -1,0 +1,11 @@
+{
+  "name" : "Istanbul Airport İstanbul Havalimanı",
+  "icao" : "LTFM",
+  "iata" : "IST",
+  "isoCountryCode" : "TR",
+  "elevation" : 325.0,
+  "latitude" : "41° 15' 44″ N",
+  "longitude" : "28° 43' 40″ E",
+  "website" : "https://www.istairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Istanbul_Airport"
+}

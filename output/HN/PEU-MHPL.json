@@ -1,0 +1,11 @@
+{
+  "name" : "Puerto Lempira Airport",
+  "icao" : "MHPL",
+  "iata" : "PEU",
+  "isoCountryCode" : "HN",
+  "elevation" : 0.0,
+  "latitude" : "15° 15' 43.92\" N",
+  "longitude" : "83° 46' 52.31\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Puerto_Lempira_Airport"
+}

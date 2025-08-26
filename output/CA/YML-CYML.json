@@ -1,0 +1,11 @@
+{
+  "name" : "Charlevoix Airport",
+  "icao" : "CYML",
+  "iata" : "YML",
+  "isoCountryCode" : "CA",
+  "elevation" : 977.0,
+  "latitude" : "47° 35' 51.00\" N",
+  "longitude" : "70° 13' 26.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Charlevoix_Airport"
+}

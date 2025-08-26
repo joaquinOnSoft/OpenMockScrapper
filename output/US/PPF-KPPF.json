@@ -1,0 +1,11 @@
+{
+  "name" : "Tri-City Airport",
+  "icao" : "KPPF",
+  "iata" : "PPF",
+  "isoCountryCode" : "US",
+  "elevation" : 900.0,
+  "latitude" : "37° 19' 50.90\" N",
+  "longitude" : "95° 30' 22.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tri-City_Airport_(Kansas)"
+}

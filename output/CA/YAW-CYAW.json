@@ -1,0 +1,11 @@
+{
+  "name" : "Halifax/Shearwater Airport",
+  "icao" : "CYAW",
+  "iata" : "YAW",
+  "isoCountryCode" : "CA",
+  "elevation" : 167.0,
+  "latitude" : "44° 38' 23.00\" N",
+  "longitude" : "63° 29' 58.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/CFB_Shearwater"
+}

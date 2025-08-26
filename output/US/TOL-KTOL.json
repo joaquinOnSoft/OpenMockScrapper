@@ -1,0 +1,11 @@
+{
+  "name" : "Toledo Express Airport",
+  "icao" : "KTOL",
+  "iata" : "TOL",
+  "isoCountryCode" : "US",
+  "elevation" : 684.0,
+  "latitude" : "41° 35' 12.50\" N",
+  "longitude" : "83° 48' 28.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Toledo_Express_Airport"
+}

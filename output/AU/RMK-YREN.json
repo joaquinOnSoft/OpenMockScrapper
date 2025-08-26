@@ -1,0 +1,11 @@
+{
+  "name" : "Renmark Airport",
+  "icao" : "YREN",
+  "iata" : "RMK",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "34° 11' 47.04\" S",
+  "longitude" : "140° 40' 26.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Renmark_Airport"
+}

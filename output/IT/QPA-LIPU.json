@@ -1,0 +1,11 @@
+{
+  "name" : "Padova Airport",
+  "icao" : "LIPU",
+  "iata" : "QPA",
+  "isoCountryCode" : "IT",
+  "elevation" : 0.0,
+  "latitude" : "45° 23' 44.89\" N",
+  "longitude" : "11° 50' 52.44\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Padua_Airport"
+}

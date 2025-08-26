@@ -1,0 +1,11 @@
+{
+  "name" : "Lake Charles Regional Airport",
+  "icao" : "KLCH",
+  "iata" : "LCH",
+  "isoCountryCode" : "US",
+  "elevation" : 15.0,
+  "latitude" : "30° 7' 34.00\" N",
+  "longitude" : "93° 13' 24.01\" W",
+  "website" : "http://www.flylakecharles.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lake_Charles_Regional_Airport"
+}

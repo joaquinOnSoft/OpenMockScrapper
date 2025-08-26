@@ -1,0 +1,11 @@
+{
+  "name" : "Surat Airport",
+  "icao" : "VASU",
+  "iata" : "STV",
+  "isoCountryCode" : "IN",
+  "elevation" : 0.0,
+  "latitude" : "21° 6' 50.76\" N",
+  "longitude" : "72° 44' 30.47\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Surat_Airport"
+}

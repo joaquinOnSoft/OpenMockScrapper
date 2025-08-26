@@ -1,0 +1,11 @@
+{
+  "name" : "El Palomar Airport",
+  "icao" : "SADP",
+  "iata" : "EPA",
+  "isoCountryCode" : "AR",
+  "elevation" : 59.0,
+  "latitude" : "34° 36' 35.64\" S",
+  "longitude" : "58° 36' 45.36\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/El_Palomar_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Moucha Airport",
+  "icao" : "HDMO",
+  "iata" : "MHI",
+  "isoCountryCode" : "DJ",
+  "elevation" : 0.0,
+  "latitude" : "11° 43' 0.00\" N",
+  "longitude" : "43° 12' 0.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Moucha_Airport"
+}

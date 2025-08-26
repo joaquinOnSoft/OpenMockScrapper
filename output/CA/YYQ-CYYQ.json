@@ -1,0 +1,11 @@
+{
+  "name" : "Churchill Airport",
+  "icao" : "CYYQ",
+  "iata" : "YYQ",
+  "isoCountryCode" : "CA",
+  "elevation" : 94.0,
+  "latitude" : "58° 44' 21.12\" N",
+  "longitude" : "94° 3' 54.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Churchill_Airport"
+}

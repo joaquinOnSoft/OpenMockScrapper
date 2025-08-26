@@ -1,0 +1,11 @@
+{
+  "name" : "Dien Bien Phu Airport",
+  "icao" : "VVDB",
+  "iata" : "DIN",
+  "isoCountryCode" : "VN",
+  "elevation" : 0.0,
+  "latitude" : "21° 23' 51.00\" N",
+  "longitude" : "103° 0' 28.81\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dien_Bien_Phu_Airport"
+}

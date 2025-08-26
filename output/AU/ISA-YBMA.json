@@ -1,0 +1,11 @@
+{
+  "name" : "Mount Isa Airport",
+  "icao" : "YBMA",
+  "iata" : "ISA",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "20° 39' 50.04\" S",
+  "longitude" : "139° 29' 20.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mount_Isa_Airport"
+}

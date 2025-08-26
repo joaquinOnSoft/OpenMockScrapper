@@ -1,0 +1,11 @@
+{
+  "name" : "Kingman Airport",
+  "icao" : "KIGM",
+  "iata" : "IGM",
+  "isoCountryCode" : "US",
+  "elevation" : 3.449,
+  "latitude" : "35° 15' 34.10\" N",
+  "longitude" : "113° 56' 17.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kingman_Airport_(Arizona)"
+}

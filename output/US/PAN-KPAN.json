@@ -1,0 +1,11 @@
+{
+  "name" : "Payson Airport",
+  "icao" : "KPAN",
+  "iata" : "PAN",
+  "isoCountryCode" : "US",
+  "elevation" : 5.157,
+  "latitude" : "34° 15' 24.61\" N",
+  "longitude" : "111° 20' 21.32\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Payson_Airport"
+}

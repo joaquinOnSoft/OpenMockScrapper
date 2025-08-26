@@ -1,0 +1,11 @@
+{
+  "name" : "Jönköping Airport",
+  "icao" : "ESGJ",
+  "iata" : "JKG",
+  "isoCountryCode" : "SE",
+  "elevation" : 741.0,
+  "latitude" : "57° 45' 27.36\" N",
+  "longitude" : "14° 4' 7.32\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jönköping_Airport"
+}

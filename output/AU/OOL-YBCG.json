@@ -1,0 +1,11 @@
+{
+  "name" : "Gold Coast Airport",
+  "icao" : "YBCG",
+  "iata" : "OOL",
+  "isoCountryCode" : "AU",
+  "elevation" : 21.0,
+  "latitude" : "28° 9' 51.84\" S",
+  "longitude" : "153° 30' 18.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gold_Coast_Airport"
+}

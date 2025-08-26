@@ -1,0 +1,11 @@
+{
+  "name" : "Dabolim Airport",
+  "icao" : "VAGO",
+  "iata" : "GOI",
+  "isoCountryCode" : "IN",
+  "elevation" : 184.0,
+  "latitude" : "15° 22' 50.88\" N",
+  "longitude" : "73° 49' 53.03\" E",
+  "website" : "https://www.aai.aero/en/airports/goa",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dabolim_Airport"
+}

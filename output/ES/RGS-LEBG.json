@@ -1,0 +1,11 @@
+{
+  "name" : "Burgos Airport",
+  "icao" : "LEBG",
+  "iata" : "RGS",
+  "isoCountryCode" : "ES",
+  "elevation" : 2.945,
+  "latitude" : "42° 21' 27.36\" N",
+  "longitude" : "3° 37' 14.74\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Burgos_Airport"
+}

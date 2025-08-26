@@ -1,0 +1,11 @@
+{
+  "name" : "St. Louis Lambert International Airport",
+  "icao" : "KSTL",
+  "iata" : "STL",
+  "isoCountryCode" : "US",
+  "elevation" : 618.0,
+  "latitude" : "38° 44' 55.31\" N",
+  "longitude" : "90° 22' 12.10\" W",
+  "website" : "https://www.flystl.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Louis_Lambert_International_Airport"
+}

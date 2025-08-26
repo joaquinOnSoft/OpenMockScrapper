@@ -1,0 +1,11 @@
+{
+  "name" : "Lismore Airport",
+  "icao" : "YLIS",
+  "iata" : "LSY",
+  "isoCountryCode" : "AU",
+  "elevation" : 35.0,
+  "latitude" : "28° 49' 49.08\" S",
+  "longitude" : "153° 15' 35.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lismore_Airport"
+}

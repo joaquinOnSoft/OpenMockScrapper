@@ -1,0 +1,11 @@
+{
+  "name" : "Kalgoorlie-Boulder Airport",
+  "icao" : "YPKG",
+  "iata" : "KGI",
+  "isoCountryCode" : "AU",
+  "elevation" : 1.203,
+  "latitude" : "30° 47' 21.84\" S",
+  "longitude" : "121° 27' 43.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kalgoorlie-Boulder_Airport"
+}

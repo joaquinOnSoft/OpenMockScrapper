@@ -1,0 +1,11 @@
+{
+  "name" : "Rif Airport",
+  "icao" : "BIRF",
+  "iata" : "OLI",
+  "isoCountryCode" : "IS",
+  "elevation" : 0.0,
+  "latitude" : "64° 54' 41.04\" N",
+  "longitude" : "23° 49' 23.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rif_Airport"
+}

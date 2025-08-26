@@ -1,0 +1,11 @@
+{
+  "name" : "Puerto Princesa Airport",
+  "icao" : "RPVP",
+  "iata" : "PPS",
+  "isoCountryCode" : "PH",
+  "elevation" : 71.0,
+  "latitude" : "9° 44' 31.63\" N",
+  "longitude" : "118° 45' 32.41\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Puerto_Princesa_International_Airport"
+}

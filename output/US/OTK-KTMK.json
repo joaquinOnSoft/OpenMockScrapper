@@ -1,0 +1,11 @@
+{
+  "name" : "Tillamook Airport",
+  "icao" : "KTMK",
+  "iata" : "OTK",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "45° 25' 5.53\" N",
+  "longitude" : "123° 48' 50.41\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tillamook_Airport"
+}

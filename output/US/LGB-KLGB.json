@@ -1,0 +1,11 @@
+{
+  "name" : "Long Beach Airport",
+  "icao" : "KLGB",
+  "iata" : "LGB",
+  "isoCountryCode" : "US",
+  "elevation" : 60.0,
+  "latitude" : "33° 49' 3.80\" N",
+  "longitude" : "118° 9' 5.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Long_Beach_Airport"
+}

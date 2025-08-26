@@ -1,0 +1,11 @@
+{
+  "name" : "Tampa International Airport",
+  "icao" : "KTPA",
+  "iata" : "TPA",
+  "isoCountryCode" : "US",
+  "elevation" : 26.0,
+  "latitude" : "27° 58' 31.70\" N",
+  "longitude" : "82° 31' 59.70\" W",
+  "website" : "https://www.tampaairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tampa_International_Airport"
+}

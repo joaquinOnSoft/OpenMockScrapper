@@ -1,0 +1,11 @@
+{
+  "name" : "Goya Airport",
+  "icao" : "SATG",
+  "iata" : "OYA",
+  "isoCountryCode" : "AR",
+  "elevation" : 0.0,
+  "latitude" : "29° 6' 20.88\" S",
+  "longitude" : "59° 13' 8.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Goya_Airport"
+}

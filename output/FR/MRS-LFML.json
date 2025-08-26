@@ -1,0 +1,11 @@
+{
+  "name" : "Marseille Provence Airport",
+  "icao" : "LFML",
+  "iata" : "MRS",
+  "isoCountryCode" : "FR",
+  "elevation" : 74.0,
+  "latitude" : "43° 26' 21.38\" N",
+  "longitude" : "5° 13' 17.13\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Marseille_Provence_Airport"
+}

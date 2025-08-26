@@ -1,0 +1,11 @@
+{
+  "name" : "Touho Airport",
+  "icao" : "NWWU",
+  "iata" : "TOU",
+  "isoCountryCode" : "NC",
+  "elevation" : 0.0,
+  "latitude" : "20° 47' 24.00\" S",
+  "longitude" : "165° 15' 32.41\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Touho_Airport"
+}

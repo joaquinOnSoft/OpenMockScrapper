@@ -1,0 +1,11 @@
+{
+  "name" : "Allgäu Airport",
+  "icao" : "EDJA",
+  "iata" : "FMM",
+  "isoCountryCode" : "DE",
+  "elevation" : 4.569,
+  "latitude" : "47° 59' 19.68\" N",
+  "longitude" : "10° 14' 22.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Memmingen_Airport"
+}

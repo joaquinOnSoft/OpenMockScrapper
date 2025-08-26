@@ -1,0 +1,11 @@
+{
+  "name" : "Norderney Airport",
+  "icao" : "EDWY",
+  "iata" : "NRD",
+  "isoCountryCode" : "DE",
+  "elevation" : 6.0,
+  "latitude" : "53° 42' 25.00\" N",
+  "longitude" : "7° 13' 48.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Norderney_Airport"
+}

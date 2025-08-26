@@ -1,0 +1,11 @@
+{
+  "name" : "Arvidsjaur Airport",
+  "icao" : "ESNX",
+  "iata" : "AJR",
+  "isoCountryCode" : "SE",
+  "elevation" : 1.448,
+  "latitude" : "65° 35' 25.09\" N",
+  "longitude" : "19° 16' 54.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Arvidsjaur_Airport"
+}

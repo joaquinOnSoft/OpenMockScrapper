@@ -1,0 +1,11 @@
+{
+  "name" : "Nanaimo Airport",
+  "icao" : "CYCD",
+  "iata" : "YCD",
+  "isoCountryCode" : "CA",
+  "elevation" : 93.0,
+  "latitude" : "49° 3' 8.28\" N",
+  "longitude" : "123° 52' 12.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nanaimo_Airport"
+}

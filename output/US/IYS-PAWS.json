@@ -1,0 +1,11 @@
+{
+  "name" : "Wasilla Airport",
+  "icao" : "PAWS",
+  "iata" : "IYS",
+  "isoCountryCode" : "US",
+  "elevation" : 354.0,
+  "latitude" : "61° 34' 18.12\" N",
+  "longitude" : "149° 32' 23.98\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wasilla_Airport"
+}

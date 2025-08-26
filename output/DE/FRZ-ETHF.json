@@ -1,0 +1,11 @@
+{
+  "name" : "Fritzlar Airport",
+  "icao" : "ETHF",
+  "iata" : "FRZ",
+  "isoCountryCode" : "DE",
+  "elevation" : 0.0,
+  "latitude" : "51° 6' 52.56\" N",
+  "longitude" : "9° 17' 9.60\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fritzlar_Air_Base"
+}

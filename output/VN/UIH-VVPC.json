@@ -1,0 +1,11 @@
+{
+  "name" : "Phu Cat Airport",
+  "icao" : "VVPC",
+  "iata" : "UIH",
+  "isoCountryCode" : "VN",
+  "elevation" : 80.0,
+  "latitude" : "13° 57' 18.00\" N",
+  "longitude" : "109° 2' 31.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Phu_Cat_Airport"
+}

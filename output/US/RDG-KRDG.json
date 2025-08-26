@@ -1,0 +1,11 @@
+{
+  "name" : "Reading Regional Airport (Carl A. Spaatz Field)",
+  "icao" : "KRDG",
+  "iata" : "RDG",
+  "isoCountryCode" : "US",
+  "elevation" : 344.0,
+  "latitude" : "40° 22' 42.60\" N",
+  "longitude" : "75° 57' 54.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Reading_Regional_Airport"
+}

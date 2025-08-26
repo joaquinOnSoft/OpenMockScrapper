@@ -1,0 +1,11 @@
+{
+  "name" : "Seattle-Tacoma International Airport",
+  "icao" : "KSEA",
+  "iata" : "SEA",
+  "isoCountryCode" : "US",
+  "elevation" : 433.0,
+  "latitude" : "47° 26' 56.40\" N",
+  "longitude" : "122° 18' 33.50\" W",
+  "website" : "https://flysea.org",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Seattle-Tacoma_International_Airport"
+}

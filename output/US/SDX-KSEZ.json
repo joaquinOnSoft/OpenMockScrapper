@@ -1,0 +1,11 @@
+{
+  "name" : "Sedona Airport",
+  "icao" : "KSEZ",
+  "iata" : "SDX",
+  "isoCountryCode" : "US",
+  "elevation" : 4.83,
+  "latitude" : "34° 50' 54.90\" N",
+  "longitude" : "111° 47' 18.40\" W",
+  "website" : "http://sedonaairport.org",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sedona_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Kimberley Airport",
+  "icao" : "FAKM",
+  "iata" : "KIM",
+  "isoCountryCode" : "ZA",
+  "elevation" : 3.95,
+  "latitude" : "28° 48' 10.08\" S",
+  "longitude" : "24° 45' 54.72\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kimberley_Airport"
+}

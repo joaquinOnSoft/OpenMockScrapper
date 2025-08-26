@@ -1,0 +1,11 @@
+{
+  "name" : "Orange Airport",
+  "icao" : "YORG",
+  "iata" : "OAG",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "33° 22' 54.11\" S",
+  "longitude" : "149° 7' 58.78\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Orange_Airport"
+}

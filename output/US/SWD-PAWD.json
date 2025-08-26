@@ -1,0 +1,11 @@
+{
+  "name" : "Seward Airport",
+  "icao" : "PAWD",
+  "iata" : "SWD",
+  "isoCountryCode" : "US",
+  "elevation" : 22.0,
+  "latitude" : "60° 7' 36.84\" N",
+  "longitude" : "149° 25' 8.42\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Seward_Airport"
+}

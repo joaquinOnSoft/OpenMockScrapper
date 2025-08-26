@@ -1,0 +1,11 @@
+{
+  "name" : "Mudgee Airport",
+  "icao" : "YMDG",
+  "iata" : "DGE",
+  "isoCountryCode" : "AU",
+  "elevation" : 1.545,
+  "latitude" : "32° 33' 45.00\" S",
+  "longitude" : "149° 36' 39.57\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mudgee_Airport"
+}

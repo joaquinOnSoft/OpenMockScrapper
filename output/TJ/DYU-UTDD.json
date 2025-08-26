@@ -1,0 +1,11 @@
+{
+  "name" : "Dushanbe Airport",
+  "icao" : "UTDD",
+  "iata" : "DYU",
+  "isoCountryCode" : "TJ",
+  "elevation" : 2.575,
+  "latitude" : "38° 32' 35.88\" N",
+  "longitude" : "68° 49' 29.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dushanbe_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Worcester Regional Airport",
+  "icao" : "KORH",
+  "iata" : "ORH",
+  "isoCountryCode" : "US",
+  "elevation" : 1.009,
+  "latitude" : "42° 16' 2.42\" N",
+  "longitude" : "71° 52' 32.56\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Worcester_Regional_Airport"
+}

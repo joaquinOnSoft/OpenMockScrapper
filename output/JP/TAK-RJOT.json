@@ -1,0 +1,11 @@
+{
+  "name" : "Takamatsu Airport 高松空港",
+  "icao" : "RJOT",
+  "iata" : "TAK",
+  "isoCountryCode" : "JP",
+  "elevation" : 0.0,
+  "latitude" : "34° 12' 51.12\" N",
+  "longitude" : "134° 0' 57.62\" E",
+  "website" : "http://takamatsu-airport.co.jp",
+  "wikipedia" : "http://ja.wikipedia.org/wiki/%E9%AB%98%E6%9D%BE%E7%A9%BA%E6%B8%AF"
+}

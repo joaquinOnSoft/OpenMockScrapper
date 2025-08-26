@@ -1,0 +1,11 @@
+{
+  "name" : "Pocatello Regional Airport",
+  "icao" : "KPIH",
+  "iata" : "PIH",
+  "isoCountryCode" : "US",
+  "elevation" : 4.452,
+  "latitude" : "42° 54' 35.30\" N",
+  "longitude" : "112° 35' 45.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pocatello_Regional_Airport"
+}

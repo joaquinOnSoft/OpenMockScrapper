@@ -1,0 +1,11 @@
+{
+  "name" : "Decatur Airport",
+  "icao" : "KDEC",
+  "iata" : "DEC",
+  "isoCountryCode" : "US",
+  "elevation" : 682.0,
+  "latitude" : "39° 50' 4.43\" N",
+  "longitude" : "88° 51' 56.48\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Decatur_Airport"
+}

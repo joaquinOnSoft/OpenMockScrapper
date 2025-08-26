@@ -1,0 +1,11 @@
+{
+  "name" : "Hana Airport",
+  "icao" : "PHHN",
+  "iata" : "HNM",
+  "isoCountryCode" : "US",
+  "elevation" : 78.0,
+  "latitude" : "20° 47' 44.16\" N",
+  "longitude" : "156° 0' 50.43\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hana_Airport"
+}

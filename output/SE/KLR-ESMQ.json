@@ -1,0 +1,11 @@
+{
+  "name" : "Kalmar Airport",
+  "icao" : "ESMQ",
+  "iata" : "KLR",
+  "isoCountryCode" : "SE",
+  "elevation" : 0.0,
+  "latitude" : "56° 41' 7.80\" N",
+  "longitude" : "16° 17' 15.36\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kalmar_Airport"
+}

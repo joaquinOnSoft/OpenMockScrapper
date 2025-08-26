@@ -1,0 +1,11 @@
+{
+  "name" : "Chester Airport",
+  "icao" : "KSNC",
+  "iata" : "SNC",
+  "isoCountryCode" : "US",
+  "elevation" : 416.0,
+  "latitude" : "41° 23' 2.06\" N",
+  "longitude" : "72° 30' 21.22\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chester_Airport"
+}

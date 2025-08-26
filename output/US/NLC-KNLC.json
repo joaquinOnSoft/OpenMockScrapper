@@ -1,0 +1,11 @@
+{
+  "name" : "NAS Lemoore (Reeves Field)",
+  "icao" : "KNLC",
+  "iata" : "NLC",
+  "isoCountryCode" : "US",
+  "elevation" : 232.0,
+  "latitude" : "36° 19' 58.84\" N",
+  "longitude" : "119° 57' 7.49\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Naval_Air_Station_Lemoore"
+}

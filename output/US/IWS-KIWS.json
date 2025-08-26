@@ -1,0 +1,11 @@
+{
+  "name" : "West Houston Airport",
+  "icao" : "KIWS",
+  "iata" : "IWS",
+  "isoCountryCode" : "US",
+  "elevation" : 111.0,
+  "latitude" : "29° 49' 5.50\" N",
+  "longitude" : "95° 40' 21.40\" W",
+  "website" : "http://www.westhoustonairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/West_Houston_Airport"
+}

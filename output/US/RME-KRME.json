@@ -1,0 +1,11 @@
+{
+  "name" : "Griffiss Airpark",
+  "icao" : "KRME",
+  "iata" : "RME",
+  "isoCountryCode" : "US",
+  "elevation" : 504.0,
+  "latitude" : "43° 14' 1.70\" N",
+  "longitude" : "75° 24' 25.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Griffiss_International_Airport"
+}

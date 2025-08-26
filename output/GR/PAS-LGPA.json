@@ -1,0 +1,11 @@
+{
+  "name" : "Paros National Airport",
+  "icao" : "LGPA",
+  "iata" : "PAS",
+  "isoCountryCode" : "GR",
+  "elevation" : 0.0,
+  "latitude" : "37° 0' 37.08\" N",
+  "longitude" : "25° 7' 41.16\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_Paros_Airport"
+}

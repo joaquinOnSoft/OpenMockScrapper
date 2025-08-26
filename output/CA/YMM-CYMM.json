@@ -1,0 +1,11 @@
+{
+  "name" : "Fort McMurray Airport",
+  "icao" : "CYMM",
+  "iata" : "YMM",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.211,
+  "latitude" : "56° 39' 11.88\" N",
+  "longitude" : "111° 13' 19.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fort_McMurray_International_Airport"
+}

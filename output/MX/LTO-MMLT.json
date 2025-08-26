@@ -1,0 +1,11 @@
+{
+  "name" : "Loreto International Airport",
+  "icao" : "MMLT",
+  "iata" : "LTO",
+  "isoCountryCode" : "MX",
+  "elevation" : 34.0,
+  "latitude" : "25° 59' 21.12\" N",
+  "longitude" : "111° 20' 52.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Loreto_International_Airport"
+}

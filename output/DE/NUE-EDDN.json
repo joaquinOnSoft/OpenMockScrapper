@@ -1,0 +1,11 @@
+{
+  "name" : "Nuremberg Airport Albrecht Dürer Flughafen Nürnberg",
+  "icao" : "EDDN",
+  "iata" : "NUE",
+  "isoCountryCode" : "DE",
+  "elevation" : 1.046,
+  "latitude" : "49° 29' 55.32\" N",
+  "longitude" : "11° 4' 0.84\" E",
+  "website" : "https://www.airport-nuernberg.de",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nuremberg_Airport"
+}

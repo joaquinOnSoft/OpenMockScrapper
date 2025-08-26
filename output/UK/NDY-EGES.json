@@ -1,0 +1,11 @@
+{
+  "name" : "Sanday Airport",
+  "icao" : "EGES",
+  "iata" : "NDY",
+  "isoCountryCode" : "UK",
+  "elevation" : 0.0,
+  "latitude" : "59° 15' 1.08\" N",
+  "longitude" : "2° 34' 36.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sanday_Airport"
+}

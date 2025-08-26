@@ -1,0 +1,11 @@
+{
+  "name" : "Yining Airport",
+  "icao" : "ZWYN",
+  "iata" : "YIN",
+  "isoCountryCode" : "CN",
+  "elevation" : 0.0,
+  "latitude" : "43° 57' 20.88\" N",
+  "longitude" : "81° 19' 49.08\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Yining_Airport"
+}

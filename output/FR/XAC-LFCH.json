@@ -1,0 +1,11 @@
+{
+  "name" : "La Teste-de-Buch Airport",
+  "icao" : "LFCH",
+  "iata" : "XAC",
+  "isoCountryCode" : "FR",
+  "elevation" : 49.0,
+  "latitude" : "44° 35' 47.04\" N",
+  "longitude" : "1° 6' 38.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Arcachon_–_La_Teste-de-Buch_Airport"
+}

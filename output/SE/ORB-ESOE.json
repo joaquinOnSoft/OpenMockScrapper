@@ -1,0 +1,11 @@
+{
+  "name" : "Örebro Airport",
+  "icao" : "ESOE",
+  "iata" : "ORB",
+  "isoCountryCode" : "SE",
+  "elevation" : 1.311,
+  "latitude" : "59° 13' 25.33\" N",
+  "longitude" : "15° 2' 16.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Örebro_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Jersey Airport",
+  "icao" : "EGJJ",
+  "iata" : "JER",
+  "isoCountryCode" : "UK",
+  "elevation" : 4.053,
+  "latitude" : "49° 12' 28.44\" N",
+  "longitude" : "2° 11' 43.84\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jersey_Airport"
+}

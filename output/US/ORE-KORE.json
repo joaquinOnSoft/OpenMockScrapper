@@ -1,0 +1,11 @@
+{
+  "name" : "Orange Municipal Airport",
+  "icao" : "KORE",
+  "iata" : "ORE",
+  "isoCountryCode" : "US",
+  "elevation" : 555.0,
+  "latitude" : "42° 34' 12.45\" N",
+  "longitude" : "72° 17' 19.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Orange_Municipal_Airport"
+}

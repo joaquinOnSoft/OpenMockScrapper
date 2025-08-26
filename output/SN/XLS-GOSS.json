@@ -1,0 +1,11 @@
+{
+  "name" : "Saint Louis Airport",
+  "icao" : "GOSS",
+  "iata" : "XLS",
+  "isoCountryCode" : "SN",
+  "elevation" : 9.0,
+  "latitude" : "16° 3' 2.88\" N",
+  "longitude" : "16° 27' 47.52\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Saint-Louis_Airport"
+}

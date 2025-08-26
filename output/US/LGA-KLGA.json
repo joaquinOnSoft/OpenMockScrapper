@@ -1,0 +1,11 @@
+{
+  "name" : "LaGuardia Airport",
+  "icao" : "KLGA",
+  "iata" : "LGA",
+  "isoCountryCode" : "US",
+  "elevation" : 21.0,
+  "latitude" : "40° 46' 38.08\" N",
+  "longitude" : "73° 52' 21.39\" W",
+  "website" : "http://www.lga.aero",
+  "wikipedia" : "https://en.wikipedia.org/wiki/LaGuardia_Airport"
+}

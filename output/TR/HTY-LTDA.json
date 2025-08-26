@@ -1,0 +1,11 @@
+{
+  "name" : "Hatay Airport",
+  "icao" : "LTDA",
+  "iata" : "HTY",
+  "isoCountryCode" : "TR",
+  "elevation" : 0.0,
+  "latitude" : "36° 21' 46.00\" N",
+  "longitude" : "36° 16' 56.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hatay_Airport"
+}

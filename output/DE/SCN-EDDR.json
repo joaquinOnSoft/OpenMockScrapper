@@ -1,0 +1,11 @@
+{
+  "name" : "Saarbrücken Airport",
+  "icao" : "EDDR",
+  "iata" : "SCN",
+  "isoCountryCode" : "DE",
+  "elevation" : 1.058,
+  "latitude" : "49° 12' 52.56\" N",
+  "longitude" : "7° 6' 34.24\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Saarbrücken_Airport"
+}

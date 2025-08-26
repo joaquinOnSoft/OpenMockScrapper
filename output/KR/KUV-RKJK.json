@@ -1,0 +1,11 @@
+{
+  "name" : "Gunsan Airport",
+  "icao" : "RKJK",
+  "iata" : "KUV",
+  "isoCountryCode" : "KR",
+  "elevation" : 29.0,
+  "latitude" : "35° 54' 13.68\" N",
+  "longitude" : "126° 36' 57.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gunsan_Airport"
+}

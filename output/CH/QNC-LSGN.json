@@ -1,0 +1,11 @@
+{
+  "name" : "Neuchatel Airport",
+  "icao" : "LSGN",
+  "iata" : "QNC",
+  "isoCountryCode" : "CH",
+  "elevation" : 0.0,
+  "latitude" : "46° 57' 27.00\" N",
+  "longitude" : "6° 51' 52.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Neuchâtel_Airport"
+}

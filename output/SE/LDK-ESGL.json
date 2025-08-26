@@ -1,0 +1,11 @@
+{
+  "name" : "Lidköping-Hovby Airport",
+  "icao" : "ESGL",
+  "iata" : "LDK",
+  "isoCountryCode" : "SE",
+  "elevation" : 200.0,
+  "latitude" : "58° 27' 55.80\" N",
+  "longitude" : "13° 10' 27.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lidköping-Hovby_Airport"
+}

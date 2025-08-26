@@ -1,0 +1,11 @@
+{
+  "name" : "Hakodate Airport 函館空港 Hakodate Kūkō",
+  "icao" : "RJCH",
+  "iata" : "HKD",
+  "isoCountryCode" : "JP",
+  "elevation" : 151.0,
+  "latitude" : "41° 46' 12.00\" N",
+  "longitude" : "140° 49' 19.22\" E",
+  "website" : "http://www.airport.ne.jp/hakodate/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hakodate_Airport"
+}

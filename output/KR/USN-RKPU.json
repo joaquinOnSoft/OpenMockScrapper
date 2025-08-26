@@ -1,0 +1,11 @@
+{
+  "name" : "Ulsan Airport",
+  "icao" : "RKPU",
+  "iata" : "USN",
+  "isoCountryCode" : "KR",
+  "elevation" : 0.0,
+  "latitude" : "35° 35' 36.59\" N",
+  "longitude" : "129° 21' 7.22\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ulsan_Airport"
+}

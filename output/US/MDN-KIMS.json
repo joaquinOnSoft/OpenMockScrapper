@@ -1,0 +1,11 @@
+{
+  "name" : "Madison Municipal Airport",
+  "icao" : "KIMS",
+  "iata" : "MDN",
+  "isoCountryCode" : "US",
+  "elevation" : 819.0,
+  "latitude" : "38° 45' 35.70\" N",
+  "longitude" : "85° 27' 52.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Madison_Municipal_Airport_(Indiana)"
+}

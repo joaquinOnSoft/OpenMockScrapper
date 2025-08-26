@@ -1,0 +1,11 @@
+{
+  "name" : "Grand Central Airport",
+  "icao" : "FAGC",
+  "iata" : "GCJ",
+  "isoCountryCode" : "ZA",
+  "elevation" : 5.325,
+  "latitude" : "25° 59' 10.68\" S",
+  "longitude" : "28° 8' 24.36\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Grand_Central_Airport"
+}

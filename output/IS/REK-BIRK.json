@@ -1,0 +1,11 @@
+{
+  "name" : "Reykjavík Airport",
+  "icao" : "BIRK",
+  "iata" : "REK",
+  "isoCountryCode" : "IS",
+  "elevation" : 45.0,
+  "latitude" : "64° 7' 47.99\" N",
+  "longitude" : "21° 56' 26.16\" W",
+  "website" : "http://www.isavia.is",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Reykjav%C3%ADk_Airport"
+}

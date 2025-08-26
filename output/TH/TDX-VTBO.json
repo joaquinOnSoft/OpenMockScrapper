@@ -1,0 +1,11 @@
+{
+  "name" : "Trat Airport",
+  "icao" : "VTBO",
+  "iata" : "TDX",
+  "isoCountryCode" : "TH",
+  "elevation" : 105.0,
+  "latitude" : "12° 16' 28.56\" N",
+  "longitude" : "102° 19' 8.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Trat_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Malpensa International Airport",
+  "icao" : "LIMC",
+  "iata" : "MXP",
+  "isoCountryCode" : "IT",
+  "elevation" : 767.0,
+  "latitude" : "45° 37' 50.16\" N",
+  "longitude" : "8° 43' 41.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Milan_Malpensa_Airport"
+}

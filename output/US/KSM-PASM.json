@@ -1,0 +1,11 @@
+{
+  "name" : "St. Mary's Airport",
+  "icao" : "PASM",
+  "iata" : "KSM",
+  "isoCountryCode" : "US",
+  "elevation" : 312.0,
+  "latitude" : "62° 3' 37.80\" N",
+  "longitude" : "163° 18' 7.21\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Mary's_Airport_(Alaska)"
+}

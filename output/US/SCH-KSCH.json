@@ -1,0 +1,11 @@
+{
+  "name" : "Schenectady County Airport",
+  "icao" : "KSCH",
+  "iata" : "SCH",
+  "isoCountryCode" : "US",
+  "elevation" : 378.0,
+  "latitude" : "42° 51' 8.84\" N",
+  "longitude" : "73° 55' 43.92\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Schenectady_County_Airport"
+}

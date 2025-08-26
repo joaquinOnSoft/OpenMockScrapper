@@ -1,0 +1,11 @@
+{
+  "name" : "Miami Municipal Airport",
+  "icao" : "KMIO",
+  "iata" : "MIO",
+  "isoCountryCode" : "US",
+  "elevation" : 808.0,
+  "latitude" : "36° 54' 33.20\" N",
+  "longitude" : "94° 53' 15.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Miami_Municipal_Airport"
+}

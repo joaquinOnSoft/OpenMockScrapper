@@ -1,0 +1,11 @@
+{
+  "name" : "Makkovik Airport",
+  "icao" : "CYFT",
+  "iata" : "YMN",
+  "isoCountryCode" : "CA",
+  "elevation" : 0.0,
+  "latitude" : "55° 4' 36.84\" N",
+  "longitude" : "59° 11' 11.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Makkovik_Airport"
+}

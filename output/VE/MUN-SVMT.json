@@ -1,0 +1,11 @@
+{
+  "name" : "Maturín Airport",
+  "icao" : "SVMT",
+  "iata" : "MUN",
+  "isoCountryCode" : "VE",
+  "elevation" : 224.0,
+  "latitude" : "9° 45' 16.31\" N",
+  "longitude" : "63° 8' 50.64\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Maturín_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Frankfurt Airport Flughafen Frankfurt am Main Rhein-Main-Flughafen",
+  "icao" : "EDDF",
+  "iata" : "FRA",
+  "isoCountryCode" : "DE",
+  "elevation" : 364.0,
+  "latitude" : "50° 1' 35.05\" N",
+  "longitude" : "8° 32' 35.27\" E",
+  "website" : "https://www.frankfurt-airport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Frankfurt_Airport"
+}

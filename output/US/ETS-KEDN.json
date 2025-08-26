@@ -1,0 +1,11 @@
+{
+  "name" : "Enterprise Municipal Airport",
+  "icao" : "KEDN",
+  "iata" : "ETS",
+  "isoCountryCode" : "US",
+  "elevation" : 361.0,
+  "latitude" : "31° 17' 59.00\" N",
+  "longitude" : "85° 53' 59.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Enterprise_Municipal_Airport_(Alabama)"
+}

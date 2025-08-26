@@ -1,0 +1,11 @@
+{
+  "name" : "Flying Cloud Airport",
+  "icao" : "KFCM",
+  "iata" : "FCM",
+  "isoCountryCode" : "US",
+  "elevation" : 906.0,
+  "latitude" : "44° 49' 38.07\" N",
+  "longitude" : "93° 27' 25.73\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Flying_Cloud_Airport"
+}

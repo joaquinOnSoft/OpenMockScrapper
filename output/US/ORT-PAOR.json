@@ -1,0 +1,11 @@
+{
+  "name" : "Northway Airport",
+  "icao" : "PAOR",
+  "iata" : "ORT",
+  "isoCountryCode" : "US",
+  "elevation" : 1.716,
+  "latitude" : "62° 57' 40.68\" N",
+  "longitude" : "141° 55' 44.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Northway_Airport"
+}

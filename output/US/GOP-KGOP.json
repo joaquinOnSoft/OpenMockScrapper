@@ -1,0 +1,11 @@
+{
+  "name" : "City-County Airport",
+  "icao" : "KGOP",
+  "iata" : "GOP",
+  "isoCountryCode" : "US",
+  "elevation" : 905.0,
+  "latitude" : "31° 25' 16.59\" N",
+  "longitude" : "97° 47' 49.08\" W",
+  "website" : "http://www.ci.gatesville.tx.us/index.asp?Type=B_BASIC&SEC={511AC30F-BF2C-4406-B759-6B873A9287A4}",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gatesville_Municipal_Airport"
+}

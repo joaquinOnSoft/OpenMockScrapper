@@ -1,0 +1,11 @@
+{
+  "name" : "Karratha Airport",
+  "icao" : "YPKA",
+  "iata" : "KTA",
+  "isoCountryCode" : "AU",
+  "elevation" : 29.0,
+  "latitude" : "20° 42' 43.92\" S",
+  "longitude" : "116° 46' 22.81\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Karratha_Airport"
+}

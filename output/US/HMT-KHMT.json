@@ -1,0 +1,11 @@
+{
+  "name" : "Hemet-Ryan Airport",
+  "icao" : "KHMT",
+  "iata" : "HMT",
+  "isoCountryCode" : "US",
+  "elevation" : 1.512,
+  "latitude" : "33° 44' 2.34\" N",
+  "longitude" : "117° 1' 21.09\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hemet-Ryan_Airport"
+}

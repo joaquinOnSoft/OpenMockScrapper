@@ -1,0 +1,11 @@
+{
+  "name" : "Five Mile Airport",
+  "icao" : "PAFV",
+  "iata" : "FMC",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "65° 55' 37.21\" N",
+  "longitude" : "149° 50' 23.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Five_Mile_Airport"
+}

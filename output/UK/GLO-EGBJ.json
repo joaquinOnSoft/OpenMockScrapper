@@ -1,0 +1,11 @@
+{
+  "name" : "Gloucester Airport",
+  "icao" : "EGBJ",
+  "iata" : "GLO",
+  "isoCountryCode" : "UK",
+  "elevation" : 101.0,
+  "latitude" : "51° 53' 39.12\" N",
+  "longitude" : "2° 10' 1.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gloucestershire_Airport"
+}

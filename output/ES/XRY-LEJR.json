@@ -1,0 +1,11 @@
+{
+  "name" : "Jerez Airport",
+  "icao" : "LEJR",
+  "iata" : "XRY",
+  "isoCountryCode" : "ES",
+  "elevation" : 93.0,
+  "latitude" : "36° 44' 40.55\" N",
+  "longitude" : "6° 3' 36.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jerez_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Samui Airport",
+  "icao" : "VTSM",
+  "iata" : "USM",
+  "isoCountryCode" : "TH",
+  "elevation" : 64.0,
+  "latitude" : "9° 32' 52.04\" N",
+  "longitude" : "100° 3' 43.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Samui_Airport"
+}

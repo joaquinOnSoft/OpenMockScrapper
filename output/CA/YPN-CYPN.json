@@ -1,0 +1,11 @@
+{
+  "name" : "Port-Menier Airport",
+  "icao" : "CYPN",
+  "iata" : "YPN",
+  "isoCountryCode" : "CA",
+  "elevation" : 167.0,
+  "latitude" : "49° 50' 11.04\" N",
+  "longitude" : "64° 17' 18.95\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Port-Menier_Airport"
+}

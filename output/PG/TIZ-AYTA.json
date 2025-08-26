@@ -1,0 +1,11 @@
+{
+  "name" : "Tari Airport",
+  "icao" : "AYTA",
+  "iata" : "TIZ",
+  "isoCountryCode" : "PG",
+  "elevation" : 0.0,
+  "latitude" : "5° 50' 42.00\" S",
+  "longitude" : "142° 56' 52.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tari_Airport"
+}

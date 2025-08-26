@@ -1,0 +1,11 @@
+{
+  "name" : "Palm Beach International Airport",
+  "icao" : "KPBI",
+  "iata" : "PBI",
+  "isoCountryCode" : "US",
+  "elevation" : 19.0,
+  "latitude" : "26° 40' 59.38\" N",
+  "longitude" : "80° 5' 44.12\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Palm_Beach_International_Airport"
+}

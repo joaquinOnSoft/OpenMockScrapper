@@ -1,0 +1,11 @@
+{
+  "name" : "Schleswig Airport",
+  "icao" : "ETNS",
+  "iata" : "WBG",
+  "isoCountryCode" : "DE",
+  "elevation" : 0.0,
+  "latitude" : "54° 27' 33.48\" N",
+  "longitude" : "9° 30' 58.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Schleswig_Air_Base"
+}

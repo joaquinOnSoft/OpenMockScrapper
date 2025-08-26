@@ -1,0 +1,11 @@
+{
+  "name" : "Sabadell Airport",
+  "icao" : "LELL",
+  "iata" : "QSA",
+  "isoCountryCode" : "ES",
+  "elevation" : 0.0,
+  "latitude" : "41° 31' 15.24\" N",
+  "longitude" : "2° 6' 18.29\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sabadell_Airport"
+}

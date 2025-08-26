@@ -1,0 +1,11 @@
+{
+  "name" : "Opa-locka Airport",
+  "icao" : "KOPF",
+  "iata" : "OPF",
+  "isoCountryCode" : "US",
+  "elevation" : 8.0,
+  "latitude" : "25° 54' 25.20\" N",
+  "longitude" : "80° 16' 42.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Miami-Opa_Locka_Executive_Airport"
+}

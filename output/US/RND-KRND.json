@@ -1,0 +1,11 @@
+{
+  "name" : "Randolph AFB",
+  "icao" : "KRND",
+  "iata" : "RND",
+  "isoCountryCode" : "US",
+  "elevation" : 762.0,
+  "latitude" : "29° 31' 46.83\" N",
+  "longitude" : "98° 16' 44.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Randolph_Air_Force_Base"
+}

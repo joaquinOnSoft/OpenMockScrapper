@@ -1,0 +1,11 @@
+{
+  "name" : "Nalchik Airport",
+  "icao" : "URMN",
+  "iata" : "NAL",
+  "isoCountryCode" : "RU",
+  "elevation" : 0.0,
+  "latitude" : "43° 30' 46.44\" N",
+  "longitude" : "43° 38' 11.76\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nalchik_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Niagara Falls International Airport",
+  "icao" : "KIAG",
+  "iata" : "IAG",
+  "isoCountryCode" : "US",
+  "elevation" : 589.0,
+  "latitude" : "43° 6' 26.40\" N",
+  "longitude" : "78° 56' 46.30\" W",
+  "website" : "http://www.niagarafallsairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Niagara_Falls_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Farmington Regional Airport",
+  "icao" : "KFAM",
+  "iata" : "FAM",
+  "isoCountryCode" : "US",
+  "elevation" : 947.0,
+  "latitude" : "37° 45' 39.88\" N",
+  "longitude" : "90° 25' 42.95\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Farmington_Regional_Airport"
+}

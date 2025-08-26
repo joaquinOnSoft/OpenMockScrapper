@@ -1,0 +1,11 @@
+{
+  "name" : "Jamestown Regional Airport",
+  "icao" : "KJMS",
+  "iata" : "JMS",
+  "isoCountryCode" : "US",
+  "elevation" : 1.5,
+  "latitude" : "46° 55' 46.99\" N",
+  "longitude" : "98° 40' 41.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jamestown_Regional_Airport"
+}

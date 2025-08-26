@@ -1,0 +1,11 @@
+{
+  "name" : "Goderich Airport",
+  "icao" : "CYGD",
+  "iata" : "YGD",
+  "isoCountryCode" : "CA",
+  "elevation" : 712.0,
+  "latitude" : "43° 46' 0.84\" N",
+  "longitude" : "81° 42' 38.17\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Goderich_Airport"
+}

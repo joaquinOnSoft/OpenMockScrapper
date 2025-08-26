@@ -1,0 +1,11 @@
+{
+  "name" : "Portela Airport",
+  "icao" : "LPPT",
+  "iata" : "LIS",
+  "isoCountryCode" : "PT",
+  "elevation" : 374.0,
+  "latitude" : "38° 46' 52.68\" N",
+  "longitude" : "9° 8' 9.31\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lisbon_Airport"
+}

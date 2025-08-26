@@ -1,0 +1,11 @@
+{
+  "name" : "Trang Airport",
+  "icao" : "VTST",
+  "iata" : "TST",
+  "isoCountryCode" : "TH",
+  "elevation" : 67.0,
+  "latitude" : "7° 30' 31.46\" N",
+  "longitude" : "99° 36' 59.76\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Trang_Airport"
+}

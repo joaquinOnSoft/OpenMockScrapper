@@ -1,0 +1,11 @@
+{
+  "name" : "Blue Ridge Airport",
+  "icao" : "KMTV",
+  "iata" : "MTV",
+  "isoCountryCode" : "US",
+  "elevation" : 941.0,
+  "latitude" : "36° 37' 50.70\" N",
+  "longitude" : "80° 1' 6.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Blue_Ridge_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Zweibrücken Airport",
+  "icao" : "EDRZ",
+  "iata" : "ZQW",
+  "isoCountryCode" : "DE",
+  "elevation" : 1.133,
+  "latitude" : "49° 12' 33.84\" N",
+  "longitude" : "7° 24' 2.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Zweibrücken_Air_Base"
+}

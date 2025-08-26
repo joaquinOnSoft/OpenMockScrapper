@@ -1,0 +1,11 @@
+{
+  "name" : "Matei Airport",
+  "icao" : "NFNM",
+  "iata" : "TVU",
+  "isoCountryCode" : "FJ",
+  "elevation" : 0.0,
+  "latitude" : "16° 41' 26.16\" S",
+  "longitude" : "179° 52' 37.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Matei_Airport"
+}

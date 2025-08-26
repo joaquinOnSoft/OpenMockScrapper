@@ -1,0 +1,11 @@
+{
+  "name" : "Grenoble-Isère Airport",
+  "icao" : "LFLS",
+  "iata" : "GNB",
+  "isoCountryCode" : "FR",
+  "elevation" : 8.203,
+  "latitude" : "45° 21' 46.44\" N",
+  "longitude" : "5° 19' 45.73\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Alpes–Isère_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Waca Airport",
+  "icao" : "HAWC",
+  "iata" : "WAC",
+  "isoCountryCode" : "ET",
+  "elevation" : 0.0,
+  "latitude" : "7° 10' 1.20\" N",
+  "longitude" : "37° 10' 1.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wacca_Airport"
+}

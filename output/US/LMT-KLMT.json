@@ -1,0 +1,11 @@
+{
+  "name" : "Klamath Falls Airport",
+  "icao" : "KLMT",
+  "iata" : "LMT",
+  "isoCountryCode" : "US",
+  "elevation" : 4.095,
+  "latitude" : "42° 9' 22.12\" N",
+  "longitude" : "121° 43' 59.55\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Crater_Lake-Klamath_Regional_Airport"
+}

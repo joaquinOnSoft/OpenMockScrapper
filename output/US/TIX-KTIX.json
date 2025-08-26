@@ -1,0 +1,11 @@
+{
+  "name" : "Space Coast Regional Airport",
+  "icao" : "KTIX",
+  "iata" : "TIX",
+  "isoCountryCode" : "US",
+  "elevation" : 34.0,
+  "latitude" : "28° 30' 53.28\" N",
+  "longitude" : "80° 47' 57.22\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Space_Coast_Regional_Airport"
+}

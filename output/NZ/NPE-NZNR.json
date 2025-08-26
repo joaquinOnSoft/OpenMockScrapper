@@ -1,0 +1,11 @@
+{
+  "name" : "Napier Airport",
+  "icao" : "NZNR",
+  "iata" : "NPE",
+  "isoCountryCode" : "NZ",
+  "elevation" : 6.0,
+  "latitude" : "39° 27' 56.88\" S",
+  "longitude" : "176° 52' 11.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hawke's_Bay_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Stuttgart Municipal Airport",
+  "icao" : "KSGT",
+  "iata" : "SGT",
+  "isoCountryCode" : "US",
+  "elevation" : 224.0,
+  "latitude" : "34° 35' 58.12\" N",
+  "longitude" : "91° 34' 30.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Stuttgart_Municipal_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Newark Liberty International Airport",
+  "icao" : "KEWR",
+  "iata" : "EWR",
+  "isoCountryCode" : "US",
+  "elevation" : 18.0,
+  "latitude" : "40° 41' 33.00\" N",
+  "longitude" : "74° 10' 7.20\" W",
+  "website" : "https://www.newarkairport.com/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Newark_Liberty_International_Airport"
+}

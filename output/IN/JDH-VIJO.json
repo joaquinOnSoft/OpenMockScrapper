@@ -1,0 +1,11 @@
+{
+  "name" : "Jodhpur Airport",
+  "icao" : "VIJO",
+  "iata" : "JDH",
+  "isoCountryCode" : "IN",
+  "elevation" : 717.0,
+  "latitude" : "26° 15' 3.96\" N",
+  "longitude" : "73° 2' 56.03\" E",
+  "website" : "https://www.aai.aero/en/airports/jodhpur",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jodhpur_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Tartagal Airport",
+  "icao" : "SAST",
+  "iata" : "TTG",
+  "isoCountryCode" : "AR",
+  "elevation" : 1.473,
+  "latitude" : "22° 37' 10.56\" S",
+  "longitude" : "63° 47' 37.32\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tartagal_Airport"
+}

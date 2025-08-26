@@ -1,0 +1,11 @@
+{
+  "name" : "Mary Airport",
+  "icao" : "UTAM",
+  "iata" : "MYP",
+  "isoCountryCode" : "TM",
+  "elevation" : 0.0,
+  "latitude" : "37° 37' 9.84\" N",
+  "longitude" : "61° 53' 48.13\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mary_International_Airport"
+}

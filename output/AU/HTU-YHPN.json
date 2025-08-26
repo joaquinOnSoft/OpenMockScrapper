@@ -1,0 +1,11 @@
+{
+  "name" : "Hopetoun Airport",
+  "icao" : "YHPN",
+  "iata" : "HTU",
+  "isoCountryCode" : "AU",
+  "elevation" : 256.0,
+  "latitude" : "35° 42' 55.09\" S",
+  "longitude" : "142° 21' 36.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hopetoun_Airport"
+}

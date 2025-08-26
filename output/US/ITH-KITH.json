@@ -1,0 +1,11 @@
+{
+  "name" : "Ithaca Tompkins Regional Airport",
+  "icao" : "KITH",
+  "iata" : "ITH",
+  "isoCountryCode" : "US",
+  "elevation" : 1.099,
+  "latitude" : "42° 29' 28.91\" N",
+  "longitude" : "76° 27' 32.27\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ithaca_Tompkins_International_Airport"
+}

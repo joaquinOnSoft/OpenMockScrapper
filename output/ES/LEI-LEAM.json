@@ -1,0 +1,11 @@
+{
+  "name" : "Almería International Airport",
+  "icao" : "LEAM",
+  "iata" : "LEI",
+  "isoCountryCode" : "ES",
+  "elevation" : 70.0,
+  "latitude" : "36° 50' 38.04\" N",
+  "longitude" : "2° 22' 12.36\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Almería_Airport"
+}

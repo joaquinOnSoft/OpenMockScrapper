@@ -1,0 +1,11 @@
+{
+  "name" : "Toronto Pearson International Airport",
+  "icao" : "CYYZ",
+  "iata" : "YYZ",
+  "isoCountryCode" : "CA",
+  "elevation" : 569.0,
+  "latitude" : "43° 40' 37.92\" N",
+  "longitude" : "79° 37' 50.16\" W",
+  "website" : "https://www.torontopearson.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Toronto_Pearson_International_Airport"
+}

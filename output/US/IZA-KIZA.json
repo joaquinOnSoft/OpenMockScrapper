@@ -1,0 +1,11 @@
+{
+  "name" : "Santa Ynez Airport",
+  "icao" : "KIZA",
+  "iata" : "IZA",
+  "isoCountryCode" : "US",
+  "elevation" : 671.0,
+  "latitude" : "34° 36' 24.55\" N",
+  "longitude" : "120° 4' 32.02\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Santa_Ynez_Airport"
+}

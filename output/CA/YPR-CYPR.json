@@ -1,0 +1,11 @@
+{
+  "name" : "Prince Rupert Airport",
+  "icao" : "CYPR",
+  "iata" : "YPR",
+  "isoCountryCode" : "CA",
+  "elevation" : 116.0,
+  "latitude" : "54° 17' 9.95\" N",
+  "longitude" : "130° 26' 42.03\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Prince_Rupert_Airport"
+}

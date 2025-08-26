@@ -1,0 +1,11 @@
+{
+  "name" : "Grove Municipal Airport",
+  "icao" : "KGMJ",
+  "iata" : "GMJ",
+  "isoCountryCode" : "US",
+  "elevation" : 831.0,
+  "latitude" : "36° 36' 24.40\" N",
+  "longitude" : "94° 44' 18.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Grove_Municipal_Airport"
+}

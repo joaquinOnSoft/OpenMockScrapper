@@ -1,0 +1,11 @@
+{
+  "name" : "Rapid City Regional Airport",
+  "icao" : "KRAP",
+  "iata" : "RAP",
+  "isoCountryCode" : "US",
+  "elevation" : 3.204,
+  "latitude" : "44° 2' 43.20\" N",
+  "longitude" : "103° 3' 26.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rapid_City_Regional_Airport"
+}

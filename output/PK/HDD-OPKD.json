@@ -1,0 +1,11 @@
+{
+  "name" : "Hyderabad Airport",
+  "icao" : "OPKD",
+  "iata" : "HDD",
+  "isoCountryCode" : "PK",
+  "elevation" : 0.0,
+  "latitude" : "25° 19' 5.16\" N",
+  "longitude" : "68° 21' 57.95\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hyderabad_Airport_(Sindh)"
+}

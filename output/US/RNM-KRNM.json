@@ -1,0 +1,11 @@
+{
+  "name" : "Ramona Airport",
+  "icao" : "KRNM",
+  "iata" : "RNM",
+  "isoCountryCode" : "US",
+  "elevation" : 1.395,
+  "latitude" : "33° 2' 21.00\" N",
+  "longitude" : "116° 54' 54.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ramona_Airport"
+}

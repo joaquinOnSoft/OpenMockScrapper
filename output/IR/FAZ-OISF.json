@@ -1,0 +1,11 @@
+{
+  "name" : "Fasa Airport",
+  "icao" : "OISF",
+  "iata" : "FAZ",
+  "isoCountryCode" : "IR",
+  "elevation" : 0.0,
+  "latitude" : "28° 53' 30.48\" N",
+  "longitude" : "53° 43' 23.88\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fasa_Airport"
+}

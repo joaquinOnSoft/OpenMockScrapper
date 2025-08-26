@@ -1,0 +1,11 @@
+{
+  "name" : "Esperance Airport",
+  "icao" : "YESP",
+  "iata" : "EPR",
+  "isoCountryCode" : "AU",
+  "elevation" : 470.0,
+  "latitude" : "33° 41' 3.84\" S",
+  "longitude" : "121° 49' 22.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Esperance_Airport"
+}

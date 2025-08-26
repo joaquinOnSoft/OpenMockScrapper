@@ -1,0 +1,11 @@
+{
+  "name" : "Felker AAF",
+  "icao" : "KFAF",
+  "iata" : "FAF",
+  "isoCountryCode" : "US",
+  "elevation" : 12.0,
+  "latitude" : "37° 7' 57.00\" N",
+  "longitude" : "76° 36' 31.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Joint_Base_Langley-Eustis"
+}

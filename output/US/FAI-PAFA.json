@@ -1,0 +1,11 @@
+{
+  "name" : "Fairbanks International Airport",
+  "icao" : "PAFA",
+  "iata" : "FAI",
+  "isoCountryCode" : "US",
+  "elevation" : 434.0,
+  "latitude" : "64° 48' 54.37\" N",
+  "longitude" : "147° 51' 21.61\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fairbanks_International_Airport"
+}

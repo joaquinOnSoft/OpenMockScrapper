@@ -1,0 +1,11 @@
+{
+  "name" : "St. Cloud Regional Airport",
+  "icao" : "KSTC",
+  "iata" : "STC",
+  "isoCountryCode" : "US",
+  "elevation" : 1.031,
+  "latitude" : "45° 32' 47.60\" N",
+  "longitude" : "94° 3' 35.56\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Cloud_Regional_Airport"
+}

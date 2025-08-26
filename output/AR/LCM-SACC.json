@@ -1,0 +1,11 @@
+{
+  "name" : "La Cumbre Airport",
+  "icao" : "SACC",
+  "iata" : "LCM",
+  "isoCountryCode" : "AR",
+  "elevation" : 0.0,
+  "latitude" : "31° 0' 20.88\" S",
+  "longitude" : "64° 31' 54.83\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/La_Cumbre_Airport"
+}

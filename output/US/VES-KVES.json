@@ -1,0 +1,11 @@
+{
+  "name" : "Darke County Airport",
+  "icao" : "KVES",
+  "iata" : "VES",
+  "isoCountryCode" : "US",
+  "elevation" : 1.007,
+  "latitude" : "40° 12' 15.90\" N",
+  "longitude" : "84° 31' 54.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Darke_County_Airport"
+}

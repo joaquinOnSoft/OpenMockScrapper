@@ -1,0 +1,11 @@
+{
+  "name" : "Aeroporto Cristoforo Colombo",
+  "icao" : "LIMJ",
+  "iata" : "GOA",
+  "isoCountryCode" : "IT",
+  "elevation" : 13.0,
+  "latitude" : "44° 24' 47.88\" N",
+  "longitude" : "8° 50' 15.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Genoa_Cristoforo_Colombo_Airport"
+}

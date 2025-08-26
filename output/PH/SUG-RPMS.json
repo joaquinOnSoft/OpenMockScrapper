@@ -1,0 +1,11 @@
+{
+  "name" : "Surigao Airport",
+  "icao" : "RPMS",
+  "iata" : "SUG",
+  "isoCountryCode" : "PH",
+  "elevation" : 0.0,
+  "latitude" : "9° 45' 21.02\" N",
+  "longitude" : "125° 28' 51.41\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Surigao_Airport"
+}

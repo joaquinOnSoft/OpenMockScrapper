@@ -1,0 +1,11 @@
+{
+  "name" : "DeKalb-Peachtree Airport",
+  "icao" : "KPDK",
+  "iata" : "PDK",
+  "isoCountryCode" : "US",
+  "elevation" : 1.003,
+  "latitude" : "33° 52' 32.20\" N",
+  "longitude" : "84° 18' 7.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/DeKalb-Peachtree_Airport"
+}

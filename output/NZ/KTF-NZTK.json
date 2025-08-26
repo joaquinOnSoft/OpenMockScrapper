@@ -1,0 +1,11 @@
+{
+  "name" : "Takaka Airport",
+  "icao" : "NZTK",
+  "iata" : "KTF",
+  "isoCountryCode" : "NZ",
+  "elevation" : 0.0,
+  "latitude" : "40° 48' 47.88\" S",
+  "longitude" : "172° 46' 29.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Takaka_Aerodrome"
+}

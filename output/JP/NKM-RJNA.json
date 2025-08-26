@@ -1,0 +1,11 @@
+{
+  "name" : "Nagoya Airfield 名古屋飛行場 Nagoya Hikōjō 小牧空港 Komaki Kūkō",
+  "icao" : "RJNA",
+  "iata" : "NKM",
+  "isoCountryCode" : "JP",
+  "elevation" : 52.0,
+  "latitude" : "35° 15' 18.00\" N",
+  "longitude" : "136° 55' 26.39\" E",
+  "website" : "http://www.nagoya-airport-bldg.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nagoya_Airfield"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Wiarton Airport",
+  "icao" : "CYVV",
+  "iata" : "YVV",
+  "isoCountryCode" : "CA",
+  "elevation" : 729.0,
+  "latitude" : "44° 44' 44.88\" N",
+  "longitude" : "81° 6' 25.92\" W",
+  "website" : "http://www.flywiarton.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wiarton_Airport"
+}

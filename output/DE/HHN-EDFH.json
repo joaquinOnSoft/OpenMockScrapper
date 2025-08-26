@@ -1,0 +1,11 @@
+{
+  "name" : "Frankfurt-Hahn Airport",
+  "icao" : "EDFH",
+  "iata" : "HHN",
+  "isoCountryCode" : "DE",
+  "elevation" : 1.649,
+  "latitude" : "49° 56' 55.32\" N",
+  "longitude" : "7° 15' 50.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Frankfurt-Hahn_Airport"
+}

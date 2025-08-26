@@ -1,0 +1,11 @@
+{
+  "name" : "Chevak Airport",
+  "icao" : "PAVA",
+  "iata" : "VAK",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "61° 32' 27.24\" N",
+  "longitude" : "165° 36' 1.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chevak_Airport"
+}

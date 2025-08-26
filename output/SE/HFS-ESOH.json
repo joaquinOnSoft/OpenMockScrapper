@@ -1,0 +1,11 @@
+{
+  "name" : "Hagfors Airport",
+  "icao" : "ESOH",
+  "iata" : "HFS",
+  "isoCountryCode" : "SE",
+  "elevation" : 0.0,
+  "latitude" : "60° 1' 12.36\" N",
+  "longitude" : "13° 34' 44.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hagfors_Airport"
+}

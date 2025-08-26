@@ -1,0 +1,11 @@
+{
+  "name" : "Hamilton Airport",
+  "icao" : "CYHM",
+  "iata" : "YHM",
+  "isoCountryCode" : "CA",
+  "elevation" : 780.0,
+  "latitude" : "43° 10' 24.96\" N",
+  "longitude" : "79° 56' 5.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/John_C._Munro_Hamilton_International_Airport"
+}

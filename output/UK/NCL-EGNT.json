@@ -1,0 +1,11 @@
+{
+  "name" : "Newcastle International Airport",
+  "icao" : "EGNT",
+  "iata" : "NCL",
+  "isoCountryCode" : "UK",
+  "elevation" : 266.0,
+  "latitude" : "55° 2' 14.99\" N",
+  "longitude" : "1° 41' 30.01\" W",
+  "website" : "https://www.newcastleairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Newcastle_International_Airport"
+}

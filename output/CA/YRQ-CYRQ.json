@@ -1,0 +1,11 @@
+{
+  "name" : "Trois-Rivières Airport",
+  "icao" : "CYRQ",
+  "iata" : "YRQ",
+  "isoCountryCode" : "CA",
+  "elevation" : 199.0,
+  "latitude" : "46° 21' 10.07\" N",
+  "longitude" : "72° 40' 45.83\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Trois-Rivières_Airport"
+}

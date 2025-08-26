@@ -1,0 +1,11 @@
+{
+  "name" : "Split Airport",
+  "icao" : "LDSP",
+  "iata" : "SPU",
+  "isoCountryCode" : "HR",
+  "elevation" : 79.0,
+  "latitude" : "43° 32' 20.03\" N",
+  "longitude" : "16° 17' 52.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Split_Airport"
+}

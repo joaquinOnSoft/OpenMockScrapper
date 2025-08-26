@@ -1,0 +1,11 @@
+{
+  "name" : "Erhac Airport",
+  "icao" : "LTAT",
+  "iata" : "MLX",
+  "isoCountryCode" : "TR",
+  "elevation" : 2.828,
+  "latitude" : "38° 26' 7.08\" N",
+  "longitude" : "38° 5' 27.60\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Malatya_Erhaç_Airport"
+}

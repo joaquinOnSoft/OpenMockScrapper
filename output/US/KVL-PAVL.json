@@ -1,0 +1,11 @@
+{
+  "name" : "Kivalina Airport",
+  "icao" : "PAVL",
+  "iata" : "KVL",
+  "isoCountryCode" : "US",
+  "elevation" : 13.0,
+  "latitude" : "67° 44' 10.31\" N",
+  "longitude" : "164° 33' 46.81\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kivalina_Airport"
+}

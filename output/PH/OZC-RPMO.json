@@ -1,0 +1,11 @@
+{
+  "name" : "Labo Airport",
+  "icao" : "RPMO",
+  "iata" : "OZC",
+  "isoCountryCode" : "PH",
+  "elevation" : 0.0,
+  "latitude" : "8° 10' 42.63\" N",
+  "longitude" : "123° 50' 31.21\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Labo_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Vance AFB",
+  "icao" : "KEND",
+  "iata" : "END",
+  "isoCountryCode" : "US",
+  "elevation" : 1.307,
+  "latitude" : "36° 20' 21.00\" N",
+  "longitude" : "97° 54' 59.40\" W",
+  "website" : "http://www.vance.af.mil",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vance_Air_Force_Base"
+}

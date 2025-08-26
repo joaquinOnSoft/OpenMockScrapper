@@ -1,0 +1,11 @@
+{
+  "name" : "San Cristóbal Airport",
+  "icao" : "SEST",
+  "iata" : "SCY",
+  "isoCountryCode" : "EC",
+  "elevation" : 62.0,
+  "latitude" : "0° 54' 36.74\" S",
+  "longitude" : "89° 37' 2.64\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Cristóbal_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Shaw AFB",
+  "icao" : "KSSC",
+  "iata" : "SSC",
+  "isoCountryCode" : "US",
+  "elevation" : 242.0,
+  "latitude" : "33° 58' 21.79\" N",
+  "longitude" : "80° 28' 14.03\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shaw_Air_Force_Base"
+}

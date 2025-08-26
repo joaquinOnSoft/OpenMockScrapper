@@ -1,0 +1,11 @@
+{
+  "name" : "Rostov-on-Don Airport",
+  "icao" : "URRR",
+  "iata" : "ROV",
+  "isoCountryCode" : "RU",
+  "elevation" : 280.0,
+  "latitude" : "47° 15' 29.53\" N",
+  "longitude" : "39° 49' 5.16\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rostov-on-Don_Airport"
+}

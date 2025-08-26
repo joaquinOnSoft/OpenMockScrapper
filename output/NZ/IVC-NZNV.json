@@ -1,0 +1,11 @@
+{
+  "name" : "Invercargill Airport",
+  "icao" : "NZNV",
+  "iata" : "IVC",
+  "isoCountryCode" : "NZ",
+  "elevation" : 5.0,
+  "latitude" : "46° 24' 44.64\" S",
+  "longitude" : "168° 18' 46.81\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Invercargill_Airport"
+}

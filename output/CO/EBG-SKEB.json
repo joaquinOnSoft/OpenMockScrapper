@@ -1,0 +1,11 @@
+{
+  "name" : "El Bagre Airport",
+  "icao" : "SKEB",
+  "iata" : "EBG",
+  "isoCountryCode" : "CO",
+  "elevation" : 75.0,
+  "latitude" : "7° 35' 47.29\" N",
+  "longitude" : "74° 48' 32.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/El_Bagre_Airport"
+}

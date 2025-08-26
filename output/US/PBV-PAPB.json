@@ -1,0 +1,11 @@
+{
+  "name" : "St George Airport",
+  "icao" : "PAPB",
+  "iata" : "PBV",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "56° 34' 41.88\" N",
+  "longitude" : "169° 39' 43.21\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._George_Airport_(Alaska)"
+}

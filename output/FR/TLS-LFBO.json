@@ -1,0 +1,11 @@
+{
+  "name" : "Toulouse Blagnac International Airport",
+  "icao" : "LFBO",
+  "iata" : "TLS",
+  "isoCountryCode" : "FR",
+  "elevation" : 499.0,
+  "latitude" : "43° 37' 44.76\" N",
+  "longitude" : "1° 21' 49.75\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Toulouse–Blagnac_Airport"
+}

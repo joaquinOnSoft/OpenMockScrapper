@@ -1,0 +1,11 @@
+{
+  "name" : "Lamidanda Airport",
+  "icao" : "VNLD",
+  "iata" : "LDN",
+  "isoCountryCode" : "NP",
+  "elevation" : 4.1,
+  "latitude" : "27° 15' 11.16\" N",
+  "longitude" : "86° 40' 11.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lamidanda_Airport"
+}

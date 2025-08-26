@@ -1,0 +1,11 @@
+{
+  "name" : "Havre St-Pierre Airport",
+  "icao" : "CYGV",
+  "iata" : "YGV",
+  "isoCountryCode" : "CA",
+  "elevation" : 124.0,
+  "latitude" : "50° 16' 54.83\" N",
+  "longitude" : "63° 36' 41.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Havre_Saint-Pierre_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Key West International Airport",
+  "icao" : "KEYW",
+  "iata" : "EYW",
+  "isoCountryCode" : "US",
+  "elevation" : 3.0,
+  "latitude" : "24° 33' 22.00\" N",
+  "longitude" : "81° 45' 34.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Key_West_International_Airport"
+}

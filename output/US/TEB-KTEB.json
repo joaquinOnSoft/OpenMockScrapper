@@ -1,0 +1,11 @@
+{
+  "name" : "Teterboro Airport",
+  "icao" : "KTEB",
+  "iata" : "TEB",
+  "isoCountryCode" : "US",
+  "elevation" : 9.0,
+  "latitude" : "40° 51' 0.37\" N",
+  "longitude" : "74° 3' 39.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Teterboro_Airport"
+}

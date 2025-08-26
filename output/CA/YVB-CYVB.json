@@ -1,0 +1,11 @@
+{
+  "name" : "Bonaventure Airport",
+  "icao" : "CYVB",
+  "iata" : "YVB",
+  "isoCountryCode" : "CA",
+  "elevation" : 123.0,
+  "latitude" : "48° 4' 15.95\" N",
+  "longitude" : "65° 27' 37.07\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bonaventure_Airport"
+}

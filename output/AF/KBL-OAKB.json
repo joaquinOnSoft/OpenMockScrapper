@@ -1,0 +1,11 @@
+{
+  "name" : "Kabul International Airport",
+  "icao" : "OAKB",
+  "iata" : "KBL",
+  "isoCountryCode" : "AF",
+  "elevation" : 5.877,
+  "latitude" : "34° 33' 57.24\" N",
+  "longitude" : "69° 12' 44.29\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kabul_International_Airport"
+}

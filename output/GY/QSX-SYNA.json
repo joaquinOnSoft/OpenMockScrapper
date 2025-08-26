@@ -1,0 +1,11 @@
+{
+  "name" : "New Amsterdam Airport",
+  "icao" : "SYNA",
+  "iata" : "QSX",
+  "isoCountryCode" : "GY",
+  "elevation" : 0.0,
+  "latitude" : "6° 15' 0.00\" N",
+  "longitude" : "57° 31' 0.12\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_Amsterdam_Airport"
+}

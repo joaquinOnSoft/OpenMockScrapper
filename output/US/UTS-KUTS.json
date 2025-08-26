@@ -1,0 +1,11 @@
+{
+  "name" : "Huntsville Municipal Airport",
+  "icao" : "KUTS",
+  "iata" : "UTS",
+  "isoCountryCode" : "US",
+  "elevation" : 363.0,
+  "latitude" : "30° 44' 48.80\" N",
+  "longitude" : "95° 35' 13.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Huntsville_Regional_Airport"
+}

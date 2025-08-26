@@ -1,0 +1,11 @@
+{
+  "name" : "Shannon Airport",
+  "icao" : "KEZF",
+  "iata" : "EZF",
+  "isoCountryCode" : "US",
+  "elevation" : 85.0,
+  "latitude" : "38° 15' 58.40\" N",
+  "longitude" : "77° 26' 57.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shannon_Airport_(Virginia)"
+}

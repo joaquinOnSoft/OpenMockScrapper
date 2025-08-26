@@ -1,0 +1,11 @@
+{
+  "name" : "Hamburg Finkenwerder Airport",
+  "icao" : "EDHI",
+  "iata" : "XFW",
+  "isoCountryCode" : "DE",
+  "elevation" : 22.0,
+  "latitude" : "53° 32' 7.00\" N",
+  "longitude" : "9° 50' 8.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Airbus_Hamburg-Finkenwerder"
+}

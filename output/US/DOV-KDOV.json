@@ -1,0 +1,11 @@
+{
+  "name" : "Dover Air Force Base",
+  "icao" : "KDOV",
+  "iata" : "DOV",
+  "isoCountryCode" : "US",
+  "elevation" : 24.0,
+  "latitude" : "39° 7' 46.34\" N",
+  "longitude" : "75° 27' 57.45\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dover_Air_Force_Base"
+}

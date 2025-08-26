@@ -1,0 +1,11 @@
+{
+  "name" : "NAS Meridian (McCain Field)",
+  "icao" : "KNMM",
+  "iata" : "NMM",
+  "isoCountryCode" : "US",
+  "elevation" : 317.0,
+  "latitude" : "32° 33' 7.50\" N",
+  "longitude" : "88° 33' 20.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Naval_Air_Station_Meridian"
+}

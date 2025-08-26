@@ -1,0 +1,11 @@
+{
+  "name" : "Pickle Lake Airport",
+  "icao" : "CYPL",
+  "iata" : "YPL",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.267,
+  "latitude" : "51° 26' 47.04\" N",
+  "longitude" : "90° 12' 51.13\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pickle_Lake_Airport"
+}

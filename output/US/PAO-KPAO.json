@@ -1,0 +1,11 @@
+{
+  "name" : "Palo Alto Airport",
+  "icao" : "KPAO",
+  "iata" : "PAO",
+  "isoCountryCode" : "US",
+  "elevation" : 4.0,
+  "latitude" : "37° 27' 40.00\" N",
+  "longitude" : "122° 6' 54.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Palo_Alto_Airport"
+}

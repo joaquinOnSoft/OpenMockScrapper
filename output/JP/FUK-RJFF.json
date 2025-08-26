@@ -1,0 +1,11 @@
+{
+  "name" : "Fukuoka Airport 福岡空港 Fukuoka Kūkō",
+  "icao" : "RJFF",
+  "iata" : "FUK",
+  "isoCountryCode" : "JP",
+  "elevation" : 32.0,
+  "latitude" : "33° 35' 9.24\" N",
+  "longitude" : "130° 27' 3.61\" E",
+  "website" : "http://www.fuk-ab.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fukuoka_Airport"
+}

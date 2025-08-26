@@ -1,0 +1,11 @@
+{
+  "name" : "Bowerman Airport",
+  "icao" : "KHQM",
+  "iata" : "HQM",
+  "isoCountryCode" : "US",
+  "elevation" : 18.0,
+  "latitude" : "46° 58' 16.30\" N",
+  "longitude" : "123° 56' 11.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bowerman_Airport"
+}

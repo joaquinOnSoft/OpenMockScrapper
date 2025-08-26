@@ -1,0 +1,11 @@
+{
+  "name" : "Charlo Airport",
+  "icao" : "CYCL",
+  "iata" : "YCL",
+  "isoCountryCode" : "CA",
+  "elevation" : 132.0,
+  "latitude" : "47° 59' 26.88\" N",
+  "longitude" : "66° 19' 49.08\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Charlo_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bagdogra Airport",
+  "icao" : "VEBD",
+  "iata" : "IXB",
+  "isoCountryCode" : "IN",
+  "elevation" : 412.0,
+  "latitude" : "26° 40' 52.32\" N",
+  "longitude" : "88° 19' 42.95\" E",
+  "website" : "https://www.aai.aero/en/airports/bagdogra",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bagdogra_Airport"
+}

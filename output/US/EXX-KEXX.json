@@ -1,0 +1,11 @@
+{
+  "name" : "Davidson County Airport",
+  "icao" : "KEXX",
+  "iata" : "EXX",
+  "isoCountryCode" : "US",
+  "elevation" : 733.0,
+  "latitude" : "35° 46' 52.10\" N",
+  "longitude" : "80° 18' 13.62\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Davidson_County_Airport"
+}

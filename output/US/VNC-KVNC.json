@@ -1,0 +1,11 @@
+{
+  "name" : "Venice Municipal Airport",
+  "icao" : "KVNC",
+  "iata" : "VNC",
+  "isoCountryCode" : "US",
+  "elevation" : 18.0,
+  "latitude" : "27° 4' 17.80\" N",
+  "longitude" : "82° 26' 25.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Venice_Municipal_Airport"
+}

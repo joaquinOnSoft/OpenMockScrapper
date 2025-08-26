@@ -1,0 +1,11 @@
+{
+  "name" : "Haifa Airport",
+  "icao" : "LLHA",
+  "iata" : "HFA",
+  "isoCountryCode" : "IL",
+  "elevation" : 28.0,
+  "latitude" : "32° 48' 33.84\" N",
+  "longitude" : "35° 2' 35.15\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Haifa_Airport"
+}

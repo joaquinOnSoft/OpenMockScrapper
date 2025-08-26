@@ -1,0 +1,11 @@
+{
+  "name" : "Mercedita Airport",
+  "icao" : "TJPS",
+  "iata" : "PSE",
+  "isoCountryCode" : "PR",
+  "elevation" : 26.0,
+  "latitude" : "18° 0' 29.88\" N",
+  "longitude" : "66° 33' 46.81\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mercedita_International_Airport"
+}

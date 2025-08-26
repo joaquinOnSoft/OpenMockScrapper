@@ -1,0 +1,11 @@
+{
+  "name" : "Huron Regional Airport",
+  "icao" : "KHON",
+  "iata" : "HON",
+  "isoCountryCode" : "US",
+  "elevation" : 1.289,
+  "latitude" : "44° 23' 6.72\" N",
+  "longitude" : "98° 13' 42.75\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Huron_Regional_Airport"
+}

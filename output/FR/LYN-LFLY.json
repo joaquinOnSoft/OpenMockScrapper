@@ -1,0 +1,11 @@
+{
+  "name" : "Lyon-Bron Airport",
+  "icao" : "LFLY",
+  "iata" : "LYN",
+  "isoCountryCode" : "FR",
+  "elevation" : 0.0,
+  "latitude" : "45° 43' 37.92\" N",
+  "longitude" : "4° 56' 39.37\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lyon–Bron_Airport"
+}

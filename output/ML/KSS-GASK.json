@@ -1,0 +1,11 @@
+{
+  "name" : "Sikasso Airport",
+  "icao" : "GASK",
+  "iata" : "KSS",
+  "isoCountryCode" : "ML",
+  "elevation" : 0.0,
+  "latitude" : "11° 19' 58.80\" N",
+  "longitude" : "5° 41' 60.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sikasso_Airport"
+}

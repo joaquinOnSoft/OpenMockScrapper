@@ -1,0 +1,11 @@
+{
+  "name" : "Charleston Executive Airport",
+  "icao" : "KJZI",
+  "iata" : "JZI",
+  "isoCountryCode" : "US",
+  "elevation" : 17.0,
+  "latitude" : "32° 42' 3.10\" N",
+  "longitude" : "80° 0' 10.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Charleston_Executive_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Warsaw Chopin Airport Lotnisko Chopina w Warszawie",
+  "icao" : "EPWA",
+  "iata" : "WAW",
+  "isoCountryCode" : "PL",
+  "elevation" : 362.0,
+  "latitude" : "52° 9' 56.52\" N",
+  "longitude" : "20° 58' 1.56\" E",
+  "website" : "https://www.lotnisko-chopina.pl",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Warsaw_Chopin_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Las Palmas Airport",
+  "icao" : "SPLP",
+  "iata" : "LIM",
+  "isoCountryCode" : "PE",
+  "elevation" : 0.0,
+  "latitude" : "12° 9' 38.52\" S",
+  "longitude" : "76° 59' 56.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Las_Palmas_Air_Base"
+}

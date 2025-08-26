@@ -1,0 +1,11 @@
+{
+  "name" : "Orly International Airport",
+  "icao" : "LFPO",
+  "iata" : "ORY",
+  "isoCountryCode" : "FR",
+  "elevation" : 291.0,
+  "latitude" : "48° 43' 31.08\" N",
+  "longitude" : "2° 21' 33.98\" E",
+  "website" : "https://www.parisaeroport.fr",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Orly_Airport"
+}

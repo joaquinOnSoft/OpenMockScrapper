@@ -1,0 +1,11 @@
+{
+  "name" : "Kanpur Airport",
+  "icao" : "VIKA",
+  "iata" : "KNU",
+  "isoCountryCode" : "IN",
+  "elevation" : 411.0,
+  "latitude" : "26° 26' 29.04\" N",
+  "longitude" : "80° 21' 53.64\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kanpur_Airport"
+}

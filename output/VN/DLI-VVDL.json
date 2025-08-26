@@ -1,0 +1,11 @@
+{
+  "name" : "Lien Khuong Airport",
+  "icao" : "VVDL",
+  "iata" : "DLI",
+  "isoCountryCode" : "VN",
+  "elevation" : 3.156,
+  "latitude" : "11° 45' 10.99\" N",
+  "longitude" : "108° 21' 42.61\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lien_Khuong_Airport"
+}

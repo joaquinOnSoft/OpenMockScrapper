@@ -1,0 +1,11 @@
+{
+  "name" : "Dalaman Airport",
+  "icao" : "LTBS",
+  "iata" : "DLM",
+  "isoCountryCode" : "TR",
+  "elevation" : 20.0,
+  "latitude" : "36° 42' 47.16\" N",
+  "longitude" : "28° 47' 33.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dalaman_Airport"
+}

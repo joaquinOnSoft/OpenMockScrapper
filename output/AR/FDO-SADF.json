@@ -1,0 +1,11 @@
+{
+  "name" : "San Fernando Airport",
+  "icao" : "SADF",
+  "iata" : "FDO",
+  "isoCountryCode" : "AR",
+  "elevation" : 10.0,
+  "latitude" : "34° 27' 11.52\" S",
+  "longitude" : "58° 35' 22.56\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Fernando_Airport_(Argentina)"
+}

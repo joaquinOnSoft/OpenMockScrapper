@@ -1,0 +1,11 @@
+{
+  "name" : "Pike County Airport",
+  "icao" : "KEOP",
+  "iata" : "EOP",
+  "isoCountryCode" : "US",
+  "elevation" : 660.0,
+  "latitude" : "39° 10' 0.96\" N",
+  "longitude" : "82° 55' 41.43\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pike_County_Airport_(Ohio)"
+}

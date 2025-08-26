@@ -1,0 +1,11 @@
+{
+  "name" : "Glentanner Airport",
+  "icao" : "NZGT",
+  "iata" : "GTN",
+  "isoCountryCode" : "NZ",
+  "elevation" : 0.0,
+  "latitude" : "43° 54' 24.12\" S",
+  "longitude" : "170° 7' 40.82\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Glentanner_Aerodrome"
+}

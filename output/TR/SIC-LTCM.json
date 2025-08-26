@@ -1,0 +1,11 @@
+{
+  "name" : "Sinop Airport",
+  "icao" : "LTCM",
+  "iata" : "SIC",
+  "isoCountryCode" : "TR",
+  "elevation" : 24.0,
+  "latitude" : "42° 1' 8.42\" N",
+  "longitude" : "35° 4' 45.09\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sinop_Airport"
+}

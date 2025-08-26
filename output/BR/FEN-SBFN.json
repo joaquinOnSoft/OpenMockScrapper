@@ -1,0 +1,11 @@
+{
+  "name" : "Fernando de Noronha Airport",
+  "icao" : "SBFN",
+  "iata" : "FEN",
+  "isoCountryCode" : "BR",
+  "elevation" : 193.0,
+  "latitude" : "3° 51' 17.75\" S",
+  "longitude" : "32° 25' 23.89\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fernando_de_Noronha_Airport"
+}

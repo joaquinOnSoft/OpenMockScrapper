@@ -1,0 +1,11 @@
+{
+  "name" : "Montréal/St-Hubert Airport",
+  "icao" : "CYHU",
+  "iata" : "YHU",
+  "isoCountryCode" : "CA",
+  "elevation" : 90.0,
+  "latitude" : "45° 31' 3.01\" N",
+  "longitude" : "73° 25' 0.84\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Montreal_Saint-Hubert_Longueuil_Airport"
+}

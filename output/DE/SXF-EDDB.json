@@ -1,0 +1,11 @@
+{
+  "name" : "Berlin-Schönefeld International Airport",
+  "icao" : "EDDB",
+  "iata" : "SXF",
+  "isoCountryCode" : "DE",
+  "elevation" : 157.0,
+  "latitude" : "52° 22' 48.00\" N",
+  "longitude" : "13° 31' 21.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Berlin_Brandenburg_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Valladolid Airport",
+  "icao" : "LEVD",
+  "iata" : "VLL",
+  "isoCountryCode" : "ES",
+  "elevation" : 2.775,
+  "latitude" : "41° 42' 21.96\" N",
+  "longitude" : "4° 51' 6.98\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Valladolid_Airport"
+}

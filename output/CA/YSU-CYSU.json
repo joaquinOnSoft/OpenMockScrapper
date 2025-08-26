@@ -1,0 +1,11 @@
+{
+  "name" : "Summerside Airport",
+  "icao" : "CYSU",
+  "iata" : "YSU",
+  "isoCountryCode" : "CA",
+  "elevation" : 56.0,
+  "latitude" : "46° 26' 26.16\" N",
+  "longitude" : "63° 50' 0.96\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Summerside_Airport"
+}

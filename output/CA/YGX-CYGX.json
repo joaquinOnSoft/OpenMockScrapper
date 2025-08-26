@@ -1,0 +1,11 @@
+{
+  "name" : "Gillam Airport",
+  "icao" : "CYGX",
+  "iata" : "YGX",
+  "isoCountryCode" : "CA",
+  "elevation" : 0.0,
+  "latitude" : "56° 21' 26.99\" N",
+  "longitude" : "94° 42' 38.17\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gillam_Airport"
+}

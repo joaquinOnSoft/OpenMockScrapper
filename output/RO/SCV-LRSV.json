@@ -1,0 +1,11 @@
+{
+  "name" : "Suceava Airport",
+  "icao" : "LRSV",
+  "iata" : "SCV",
+  "isoCountryCode" : "RO",
+  "elevation" : 1.375,
+  "latitude" : "47° 41' 15.00\" N",
+  "longitude" : "26° 21' 14.76\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Suceava_International_Airport"
+}

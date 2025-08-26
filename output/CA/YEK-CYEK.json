@@ -1,0 +1,11 @@
+{
+  "name" : "Arviat Airport",
+  "icao" : "CYEK",
+  "iata" : "YEK",
+  "isoCountryCode" : "CA",
+  "elevation" : 32.0,
+  "latitude" : "61° 5' 39.12\" N",
+  "longitude" : "94° 4' 14.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Arviat_Airport"
+}

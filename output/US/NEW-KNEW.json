@@ -1,0 +1,11 @@
+{
+  "name" : "Lakefront Airport",
+  "icao" : "KNEW",
+  "iata" : "NEW",
+  "isoCountryCode" : "US",
+  "elevation" : 8.0,
+  "latitude" : "30° 2' 32.70\" N",
+  "longitude" : "90° 1' 41.70\" W",
+  "website" : "http://www.lakefrontairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_Orleans_Lakefront_Airport"
+}

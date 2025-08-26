@@ -1,0 +1,11 @@
+{
+  "name" : "Pskov Airport",
+  "icao" : "ULOO",
+  "iata" : "PKV",
+  "isoCountryCode" : "RU",
+  "elevation" : 0.0,
+  "latitude" : "57° 47' 2.04\" N",
+  "longitude" : "28° 23' 44.16\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pskov_Airport"
+}

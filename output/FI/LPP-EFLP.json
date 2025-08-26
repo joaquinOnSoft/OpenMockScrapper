@@ -1,0 +1,11 @@
+{
+  "name" : "Lappeenranta Airport",
+  "icao" : "EFLP",
+  "iata" : "LPP",
+  "isoCountryCode" : "FI",
+  "elevation" : 349.0,
+  "latitude" : "61° 2' 40.57\" N",
+  "longitude" : "28° 8' 39.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lappeenranta_Airport"
+}

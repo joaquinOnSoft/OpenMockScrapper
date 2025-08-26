@@ -1,0 +1,11 @@
+{
+  "name" : "Naha Airport 那覇空港 Naha Kūkō",
+  "icao" : "ROAH",
+  "iata" : "OKA",
+  "isoCountryCode" : "JP",
+  "elevation" : 12.0,
+  "latitude" : "26° 11' 44.88\" N",
+  "longitude" : "127° 38' 45.61\" E",
+  "website" : "https://www.naha-airport.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Naha_Airport"
+}

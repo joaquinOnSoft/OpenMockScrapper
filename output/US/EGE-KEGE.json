@@ -1,0 +1,11 @@
+{
+  "name" : "Eagle County Regional Airport",
+  "icao" : "KEGE",
+  "iata" : "EGE",
+  "isoCountryCode" : "US",
+  "elevation" : 6.54,
+  "latitude" : "39° 38' 33.20\" N",
+  "longitude" : "106° 55' 3.70\" W",
+  "website" : "https://www.flyvail.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Eagle_County_Regional_Airport"
+}

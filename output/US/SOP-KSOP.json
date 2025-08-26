@@ -1,0 +1,11 @@
+{
+  "name" : "Moore County Airport",
+  "icao" : "KSOP",
+  "iata" : "SOP",
+  "isoCountryCode" : "US",
+  "elevation" : 455.0,
+  "latitude" : "35° 14' 15.40\" N",
+  "longitude" : "79° 23' 19.67\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Moore_County_Airport_(North_Carolina)"
+}

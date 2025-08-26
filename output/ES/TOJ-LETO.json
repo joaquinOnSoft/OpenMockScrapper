@@ -1,0 +1,11 @@
+{
+  "name" : "Madrid-Torrejón Airport",
+  "icao" : "LETO",
+  "iata" : "TOJ",
+  "isoCountryCode" : "ES",
+  "elevation" : 2.026,
+  "latitude" : "40° 29' 48.12\" N",
+  "longitude" : "3° 26' 45.13\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Madrid–Torrejón_Airport"
+}

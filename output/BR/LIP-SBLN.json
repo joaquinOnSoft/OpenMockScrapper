@@ -1,0 +1,11 @@
+{
+  "name" : "Lins Airport",
+  "icao" : "SBLN",
+  "iata" : "LIP",
+  "isoCountryCode" : "BR",
+  "elevation" : 0.0,
+  "latitude" : "21° 39' 50.40\" S",
+  "longitude" : "49° 43' 49.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lins_Airport"
+}

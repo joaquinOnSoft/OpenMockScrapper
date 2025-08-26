@@ -1,0 +1,11 @@
+{
+  "name" : "Lincoln Regional Airport",
+  "icao" : "KLRG",
+  "iata" : "LRG",
+  "isoCountryCode" : "US",
+  "elevation" : 208.0,
+  "latitude" : "45° 21' 43.78\" N",
+  "longitude" : "68° 32' 5.09\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lincoln_Regional_Airport_(Maine)"
+}

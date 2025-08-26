@@ -1,0 +1,11 @@
+{
+  "name" : "Stawell Airport",
+  "icao" : "YSWL",
+  "iata" : "SWC",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "37° 4' 18.12\" S",
+  "longitude" : "142° 44' 27.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Stawell_Airport"
+}

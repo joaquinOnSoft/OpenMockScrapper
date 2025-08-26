@@ -1,0 +1,11 @@
+{
+  "name" : "Linate Airport",
+  "icao" : "LIML",
+  "iata" : "LIN",
+  "isoCountryCode" : "IT",
+  "elevation" : 353.0,
+  "latitude" : "45° 26' 42.36\" N",
+  "longitude" : "9° 16' 36.26\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Linate_Airport"
+}

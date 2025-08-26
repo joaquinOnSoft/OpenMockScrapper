@@ -1,0 +1,11 @@
+{
+  "name" : "Dubai International Airport",
+  "icao" : "OMDB",
+  "iata" : "DXB",
+  "isoCountryCode" : "AE",
+  "elevation" : 34.0,
+  "latitude" : "25° 15' 10.08\" N",
+  "longitude" : "55° 21' 51.84\" E",
+  "website" : "https://www.dubaiairports.ae",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dubai_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Monroe County Airport",
+  "icao" : "KMVC",
+  "iata" : "MVC",
+  "isoCountryCode" : "US",
+  "elevation" : 419.0,
+  "latitude" : "31° 27' 29.00\" N",
+  "longitude" : "87° 21' 3.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Monroe_County_Airport_(Alabama)"
+}

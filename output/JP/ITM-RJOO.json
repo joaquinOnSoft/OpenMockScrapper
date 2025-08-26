@@ -1,0 +1,11 @@
+{
+  "name" : "Osaka International Airport 大阪国際空港 Ōsaka Kokusai Kūkō 伊丹空港 Itami Kūkō",
+  "icao" : "RJOO",
+  "iata" : "ITM",
+  "isoCountryCode" : "JP",
+  "elevation" : 50.0,
+  "latitude" : "34° 47' 7.80\" N",
+  "longitude" : "135° 26' 16.81\" E",
+  "website" : "https://www.osaka-airport.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Osaka_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Mangochi Airport",
+  "icao" : "FWMG",
+  "iata" : "MAI",
+  "isoCountryCode" : "MW",
+  "elevation" : 110.0,
+  "latitude" : "14° 28' 58.80\" S",
+  "longitude" : "35° 16' 1.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mangochi_Airport"
+}

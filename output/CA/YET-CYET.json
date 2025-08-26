@@ -1,0 +1,11 @@
+{
+  "name" : "Edson Airport",
+  "icao" : "CYET",
+  "iata" : "YET",
+  "isoCountryCode" : "CA",
+  "elevation" : 3.041,
+  "latitude" : "53° 34' 44.04\" N",
+  "longitude" : "116° 27' 53.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Edson_Airport"
+}

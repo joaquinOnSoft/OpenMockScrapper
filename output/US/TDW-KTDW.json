@@ -1,0 +1,11 @@
+{
+  "name" : "Tradewind Airport",
+  "icao" : "KTDW",
+  "iata" : "TDW",
+  "isoCountryCode" : "US",
+  "elevation" : 3.649,
+  "latitude" : "35° 10' 11.60\" N",
+  "longitude" : "101° 49' 33.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tradewind_Airport"
+}

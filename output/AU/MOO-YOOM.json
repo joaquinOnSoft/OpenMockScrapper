@@ -1,0 +1,11 @@
+{
+  "name" : "Moomba Airport",
+  "icao" : "YOOM",
+  "iata" : "MOO",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "28° 5' 57.84\" S",
+  "longitude" : "140° 11' 49.22\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Moomba_Airport"
+}

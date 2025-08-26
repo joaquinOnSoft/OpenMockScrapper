@@ -1,0 +1,11 @@
+{
+  "name" : "Perito Moreno Airport",
+  "icao" : "SAWP",
+  "iata" : "PMQ",
+  "isoCountryCode" : "AR",
+  "elevation" : 1.41,
+  "latitude" : "46° 32' 16.44\" S",
+  "longitude" : "70° 58' 43.32\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Perito_Moreno_Airport"
+}

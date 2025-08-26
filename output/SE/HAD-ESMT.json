@@ -1,0 +1,11 @@
+{
+  "name" : "Halmstad Airport",
+  "icao" : "ESMT",
+  "iata" : "HAD",
+  "isoCountryCode" : "SE",
+  "elevation" : 5.37,
+  "latitude" : "56° 41' 27.96\" N",
+  "longitude" : "12° 49' 12.72\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Halmstad_Airport"
+}

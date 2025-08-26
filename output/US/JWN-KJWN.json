@@ -1,0 +1,11 @@
+{
+  "name" : "John C. Tune Airport",
+  "icao" : "KJWN",
+  "iata" : "JWN",
+  "isoCountryCode" : "US",
+  "elevation" : 495.0,
+  "latitude" : "36° 10' 56.50\" N",
+  "longitude" : "86° 53' 12.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/John_C._Tune_Airport"
+}

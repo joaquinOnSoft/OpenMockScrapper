@@ -1,0 +1,11 @@
+{
+  "name" : "Forrest Airport",
+  "icao" : "YFRT",
+  "iata" : "FOS",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "30° 50' 17.16\" S",
+  "longitude" : "128° 6' 54.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Forrest_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "John F. Kennedy International Airport",
+  "icao" : "KJFK",
+  "iata" : "JFK",
+  "isoCountryCode" : "US",
+  "elevation" : 13.0,
+  "latitude" : "40° 38' 23.10\" N",
+  "longitude" : "73° 46' 44.13\" W",
+  "website" : "http://www.panynj.gov/CommutingTravel/airports/html/kennedy.html",
+  "wikipedia" : "https://en.wikipedia.org/wiki/JFK_Airport"
+}

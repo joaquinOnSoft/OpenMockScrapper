@@ -1,0 +1,11 @@
+{
+  "name" : "Wanaka Airport",
+  "icao" : "NZWF",
+  "iata" : "WKA",
+  "isoCountryCode" : "NZ",
+  "elevation" : 1.142,
+  "latitude" : "44° 43' 19.91\" S",
+  "longitude" : "169° 14' 45.61\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wanaka_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Sacramento Executive Airport",
+  "icao" : "KSAC",
+  "iata" : "SAC",
+  "isoCountryCode" : "US",
+  "elevation" : 24.0,
+  "latitude" : "38° 30' 45.09\" N",
+  "longitude" : "121° 29' 36.49\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sacramento_Executive_Airport"
+}

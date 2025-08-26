@@ -1,0 +1,11 @@
+{
+  "name" : "Ben Gurion International Airport",
+  "icao" : "LLBG",
+  "iata" : "TLV",
+  "isoCountryCode" : "IL",
+  "elevation" : 135.0,
+  "latitude" : "32° 0' 41.03\" N",
+  "longitude" : "34° 53' 12.12\" E",
+  "website" : "http://www.iaa.gov.il/Rashat/en-US/Airports/BenGurion/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ben_Gurion_Airport"
+}

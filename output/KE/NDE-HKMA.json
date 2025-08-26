@@ -1,0 +1,11 @@
+{
+  "name" : "Mandera Airport",
+  "icao" : "HKMA",
+  "iata" : "NDE",
+  "isoCountryCode" : "KE",
+  "elevation" : 0.0,
+  "latitude" : "3° 55' 58.80\" N",
+  "longitude" : "41° 50' 59.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mandera_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Leeds Bradford Airport",
+  "icao" : "EGNM",
+  "iata" : "LBA",
+  "isoCountryCode" : "UK",
+  "elevation" : 681.0,
+  "latitude" : "53° 51' 57.23\" N",
+  "longitude" : "1° 39' 38.05\" W",
+  "website" : "https://www.leedsbradfordairport.co.uk",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Leeds_Bradford_Airport"
+}

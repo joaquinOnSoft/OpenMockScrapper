@@ -1,0 +1,11 @@
+{
+  "name" : "Dundee Airport",
+  "icao" : "EGPN",
+  "iata" : "DND",
+  "isoCountryCode" : "UK",
+  "elevation" : 17.0,
+  "latitude" : "56° 27' 9.00\" N",
+  "longitude" : "3° 1' 32.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dundee_Airport"
+}

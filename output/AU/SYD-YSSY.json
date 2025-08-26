@@ -1,0 +1,11 @@
+{
+  "name" : "Sydney Airport Kingsford Smith International Airport",
+  "icao" : "YSSY",
+  "iata" : "SYD",
+  "isoCountryCode" : "AU",
+  "elevation" : 21.0,
+  "latitude" : "33° 56' 45.95\" S",
+  "longitude" : "151° 10' 37.21\" E",
+  "website" : "https://www.sydneyairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sydney_Airport"
+}

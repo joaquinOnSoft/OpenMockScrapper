@@ -1,0 +1,11 @@
+{
+  "name" : "Dallas-Fort Worth International Airport",
+  "icao" : "KDFW",
+  "iata" : "DFW",
+  "isoCountryCode" : "US",
+  "elevation" : 607.0,
+  "latitude" : "32° 53' 48.58\" N",
+  "longitude" : "97° 2' 16.79\" W",
+  "website" : "https://www.dfwairport.com/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dallas-Fort_Worth_International_Airport"
+}

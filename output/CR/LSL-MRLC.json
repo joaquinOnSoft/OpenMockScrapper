@@ -1,0 +1,11 @@
+{
+  "name" : "Los Chiles Airport",
+  "icao" : "MRLC",
+  "iata" : "LSL",
+  "isoCountryCode" : "CR",
+  "elevation" : 131.0,
+  "latitude" : "11° 2' 7.08\" N",
+  "longitude" : "84° 42' 21.96\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Los_Chiles_Airport"
+}

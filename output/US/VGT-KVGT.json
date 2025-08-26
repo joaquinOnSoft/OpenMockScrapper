@@ -1,0 +1,11 @@
+{
+  "name" : "North Las Vegas Airport",
+  "icao" : "KVGT",
+  "iata" : "VGT",
+  "isoCountryCode" : "US",
+  "elevation" : 2.205,
+  "latitude" : "36° 12' 38.50\" N",
+  "longitude" : "115° 11' 40.00\" W",
+  "website" : "https://www.vgt.aero",
+  "wikipedia" : "https://en.wikipedia.org/wiki/North_Las_Vegas_Airport"
+}

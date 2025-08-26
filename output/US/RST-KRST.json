@@ -1,0 +1,11 @@
+{
+  "name" : "Rochester International Airport",
+  "icao" : "KRST",
+  "iata" : "RST",
+  "isoCountryCode" : "US",
+  "elevation" : 1.317,
+  "latitude" : "43° 54' 29.82\" N",
+  "longitude" : "92° 30' 0.05\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rochester_International_Airport"
+}

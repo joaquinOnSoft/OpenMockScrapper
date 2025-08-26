@@ -1,0 +1,11 @@
+{
+  "name" : "Smith Field",
+  "icao" : "KSMD",
+  "iata" : "SMD",
+  "isoCountryCode" : "US",
+  "elevation" : 835.0,
+  "latitude" : "41° 8' 36.10\" N",
+  "longitude" : "85° 9' 10.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Smith_Field_(Indiana)"
+}

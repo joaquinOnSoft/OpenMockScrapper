@@ -1,0 +1,11 @@
+{
+  "name" : "Chapecó Airport",
+  "icao" : "SBCH",
+  "iata" : "XAP",
+  "isoCountryCode" : "BR",
+  "elevation" : 2.146,
+  "latitude" : "27° 8' 3.12\" S",
+  "longitude" : "52° 39' 23.76\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chapecó_Airport"
+}

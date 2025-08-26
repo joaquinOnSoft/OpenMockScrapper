@@ -1,0 +1,11 @@
+{
+  "name" : "Vernon Airport",
+  "icao" : "CYVK",
+  "iata" : "YVE",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.14,
+  "latitude" : "50° 14' 53.16\" N",
+  "longitude" : "119° 19' 51.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vernon_Regional_Airport"
+}

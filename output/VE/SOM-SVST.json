@@ -1,0 +1,11 @@
+{
+  "name" : "San Tomé Airport",
+  "icao" : "SVST",
+  "iata" : "SOM",
+  "isoCountryCode" : "VE",
+  "elevation" : 837.0,
+  "latitude" : "8° 56' 42.53\" N",
+  "longitude" : "64° 9' 3.91\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Tomé_Airport"
+}

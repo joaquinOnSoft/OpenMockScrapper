@@ -1,0 +1,11 @@
+{
+  "name" : "Victoria Falls Airport",
+  "icao" : "FVFA",
+  "iata" : "VFA",
+  "isoCountryCode" : "ZW",
+  "elevation" : 3.49,
+  "latitude" : "18° 5' 45.24\" S",
+  "longitude" : "25° 50' 20.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Victoria_Falls_Airport"
+}

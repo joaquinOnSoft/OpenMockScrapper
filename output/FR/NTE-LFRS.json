@@ -1,0 +1,11 @@
+{
+  "name" : "Nantes Atlantique Airport",
+  "icao" : "LFRS",
+  "iata" : "NTE",
+  "isoCountryCode" : "FR",
+  "elevation" : 90.0,
+  "latitude" : "47° 9' 11.51\" N",
+  "longitude" : "1° 36' 38.63\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nantes_Atlantique_Airport"
+}

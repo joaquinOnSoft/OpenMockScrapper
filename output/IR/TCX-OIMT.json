@@ -1,0 +1,11 @@
+{
+  "name" : "Tabas Airport",
+  "icao" : "OIMT",
+  "iata" : "TCX",
+  "isoCountryCode" : "IR",
+  "elevation" : 0.0,
+  "latitude" : "33° 40' 4.08\" N",
+  "longitude" : "56° 53' 33.72\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tabas_Airport"
+}

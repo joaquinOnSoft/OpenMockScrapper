@@ -1,0 +1,11 @@
+{
+  "name" : "Soldotna Airport",
+  "icao" : "PASX",
+  "iata" : "SXQ",
+  "isoCountryCode" : "US",
+  "elevation" : 113.0,
+  "latitude" : "60° 28' 32.52\" N",
+  "longitude" : "151° 2' 2.39\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Soldotna_Airport"
+}

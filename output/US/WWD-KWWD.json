@@ -1,0 +1,11 @@
+{
+  "name" : "Cape May Airport",
+  "icao" : "KWWD",
+  "iata" : "WWD",
+  "isoCountryCode" : "US",
+  "elevation" : 23.0,
+  "latitude" : "39° 0' 30.63\" N",
+  "longitude" : "74° 54' 29.79\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cape_May_Airport"
+}

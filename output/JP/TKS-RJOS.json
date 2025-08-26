@@ -1,0 +1,11 @@
+{
+  "name" : "Tokushima Airport 徳島空港",
+  "icao" : "RJOS",
+  "iata" : "TKS",
+  "isoCountryCode" : "JP",
+  "elevation" : 26.0,
+  "latitude" : "34° 7' 58.08\" N",
+  "longitude" : "134° 36' 25.18\" E",
+  "website" : "http://www.tokushima-airport.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tokushima_Airport"
+}

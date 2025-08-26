@@ -1,0 +1,11 @@
+{
+  "name" : "Gode Airport",
+  "icao" : "HAGO",
+  "iata" : "GDE",
+  "isoCountryCode" : "ET",
+  "elevation" : 0.0,
+  "latitude" : "5° 56' 6.47\" N",
+  "longitude" : "43° 34' 42.97\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gode_Airport"
+}

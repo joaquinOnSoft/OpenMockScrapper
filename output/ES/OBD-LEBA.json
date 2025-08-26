@@ -1,0 +1,11 @@
+{
+  "name" : "Córdoba Airport",
+  "icao" : "LEBA",
+  "iata" : "OBD",
+  "isoCountryCode" : "ES",
+  "elevation" : 297.0,
+  "latitude" : "37° 50' 31.20\" N",
+  "longitude" : "4° 50' 55.97\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Córdoba_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Nuuk Airport",
+  "icao" : "BGGH",
+  "iata" : "GOH",
+  "isoCountryCode" : "GL",
+  "elevation" : 283.0,
+  "latitude" : "64° 11' 27.25\" N",
+  "longitude" : "51° 40' 41.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nuuk_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "San Diego International Airport",
+  "icao" : "KSAN",
+  "iata" : "SAN",
+  "isoCountryCode" : "US",
+  "elevation" : 17.0,
+  "latitude" : "32° 44' 0.80\" N",
+  "longitude" : "117° 11' 22.80\" W",
+  "website" : "https://www.san.org",
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Diego_International_Airport"
+}

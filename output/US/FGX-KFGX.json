@@ -1,0 +1,11 @@
+{
+  "name" : "Fleming-Mason Airport",
+  "icao" : "KFGX",
+  "iata" : "FGX",
+  "isoCountryCode" : "US",
+  "elevation" : 913.0,
+  "latitude" : "38° 32' 30.50\" N",
+  "longitude" : "83° 44' 36.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fleming-Mason_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Southampton Airport",
+  "icao" : "EGHI",
+  "iata" : "SOU",
+  "isoCountryCode" : "UK",
+  "elevation" : 44.0,
+  "latitude" : "50° 57' 1.07\" N",
+  "longitude" : "1° 21' 24.48\" W",
+  "website" : "https://www.southamptonairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Southampton_Airport"
+}

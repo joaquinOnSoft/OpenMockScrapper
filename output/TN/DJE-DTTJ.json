@@ -1,0 +1,11 @@
+{
+  "name" : "Zarzis Airport",
+  "icao" : "DTTJ",
+  "iata" : "DJE",
+  "isoCountryCode" : "TN",
+  "elevation" : 19.0,
+  "latitude" : "33° 52' 30.00\" N",
+  "longitude" : "10° 46' 31.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Djerba_-_Zarzis_International_Airport"
+}

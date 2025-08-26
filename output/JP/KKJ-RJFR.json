@@ -1,0 +1,11 @@
+{
+  "name" : "New Kitakyushu Airport 新北九州空港 Shin Kitakyūshū Kūkō",
+  "icao" : "RJFR",
+  "iata" : "KKJ",
+  "isoCountryCode" : "JP",
+  "elevation" : 21.0,
+  "latitude" : "33° 50' 45.39\" N",
+  "longitude" : "131° 2' 4.88\" E",
+  "website" : "http://www.kitakyu-air.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_Kitakyushu_Airport"
+}

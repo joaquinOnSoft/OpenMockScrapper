@@ -1,0 +1,11 @@
+{
+  "name" : "Yelizovo Airport",
+  "icao" : "UHPP",
+  "iata" : "PKC",
+  "isoCountryCode" : "RU",
+  "elevation" : 131.0,
+  "latitude" : "53° 10' 4.44\" N",
+  "longitude" : "158° 27' 14.38\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Elizovo_Airport"
+}

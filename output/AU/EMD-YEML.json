@@ -1,0 +1,11 @@
+{
+  "name" : "Emerald Airport",
+  "icao" : "YEML",
+  "iata" : "EMD",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "23° 34' 3.00\" S",
+  "longitude" : "148° 10' 44.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Emerald_Airport"
+}

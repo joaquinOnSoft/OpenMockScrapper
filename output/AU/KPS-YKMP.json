@@ -1,0 +1,11 @@
+{
+  "name" : "Kempsey Airport",
+  "icao" : "YKMP",
+  "iata" : "KPS",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "31° 4' 27.84\" S",
+  "longitude" : "152° 46' 12.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kempsey_Airport"
+}

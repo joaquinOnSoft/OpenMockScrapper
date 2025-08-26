@@ -1,0 +1,11 @@
+{
+  "name" : "Maquehue Airport",
+  "icao" : "SCTC",
+  "iata" : "ZCO",
+  "isoCountryCode" : "CL",
+  "elevation" : 304.0,
+  "latitude" : "38° 46' 0.48\" S",
+  "longitude" : "72° 38' 13.56\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Temuco_Maquehue_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Tirupati Airport",
+  "icao" : "VOTP",
+  "iata" : "TIR",
+  "isoCountryCode" : "IN",
+  "elevation" : 350.0,
+  "latitude" : "13° 37' 57.00\" N",
+  "longitude" : "79° 32' 35.87\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tirupati_Airport"
+}

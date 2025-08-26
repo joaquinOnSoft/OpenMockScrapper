@@ -1,0 +1,11 @@
+{
+  "name" : "Vernal Airport",
+  "icao" : "KVEL",
+  "iata" : "VEL",
+  "isoCountryCode" : "US",
+  "elevation" : 5.278,
+  "latitude" : "40° 26' 27.30\" N",
+  "longitude" : "109° 30' 35.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vernal_Regional_Airport"
+}

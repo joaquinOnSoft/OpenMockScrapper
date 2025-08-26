@@ -1,0 +1,11 @@
+{
+  "name" : "De Kooy Airport",
+  "icao" : "EHKD",
+  "iata" : "DHR",
+  "isoCountryCode" : "NL",
+  "elevation" : 3.0,
+  "latitude" : "52° 55' 24.24\" N",
+  "longitude" : "4° 46' 50.23\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/De_Kooy_Airfield"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Terrace Airport",
+  "icao" : "CYXT",
+  "iata" : "YXT",
+  "isoCountryCode" : "CA",
+  "elevation" : 713.0,
+  "latitude" : "54° 28' 6.59\" N",
+  "longitude" : "128° 34' 33.61\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Northwest_Regional_Airport_Terrace-Kitimat"
+}

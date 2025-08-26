@@ -1,0 +1,11 @@
+{
+  "name" : "Millington Regional Jetport",
+  "icao" : "KNQA",
+  "iata" : "NQA",
+  "isoCountryCode" : "US",
+  "elevation" : 320.0,
+  "latitude" : "35° 21' 24.00\" N",
+  "longitude" : "89° 52' 13.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Millington-Memphis_Airport"
+}

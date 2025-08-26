@@ -1,0 +1,11 @@
+{
+  "name" : "Kobe Airport 神戸空港 Kōbe Kūkō",
+  "icao" : "RJBE",
+  "iata" : "UKB",
+  "isoCountryCode" : "JP",
+  "elevation" : 22.0,
+  "latitude" : "34° 37' 58.08\" N",
+  "longitude" : "135° 13' 26.40\" E",
+  "website" : "https://www.kairport.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kobe_Airport"
+}

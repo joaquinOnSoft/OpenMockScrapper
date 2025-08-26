@@ -1,0 +1,11 @@
+{
+  "name" : "Gran Canaria International Airport",
+  "icao" : "GCLP",
+  "iata" : "LPA",
+  "isoCountryCode" : "ES",
+  "elevation" : 78.0,
+  "latitude" : "27° 55' 54.84\" N",
+  "longitude" : "15° 23' 11.76\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gran_Canaria_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Rotorua Airport",
+  "icao" : "NZRO",
+  "iata" : "ROT",
+  "isoCountryCode" : "NZ",
+  "elevation" : 935.0,
+  "latitude" : "38° 6' 33.12\" S",
+  "longitude" : "176° 19' 1.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rotorua_Airport"
+}

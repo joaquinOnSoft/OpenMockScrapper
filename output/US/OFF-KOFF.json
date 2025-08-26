@@ -1,0 +1,11 @@
+{
+  "name" : "Offutt AFB",
+  "icao" : "KOFF",
+  "iata" : "OFF",
+  "isoCountryCode" : "US",
+  "elevation" : 1.052,
+  "latitude" : "41° 7' 6.00\" N",
+  "longitude" : "95° 54' 45.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Offutt_Air_Force_Base"
+}

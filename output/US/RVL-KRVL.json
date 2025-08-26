@@ -1,0 +1,11 @@
+{
+  "name" : "Mifflin County Airport",
+  "icao" : "KRVL",
+  "iata" : "RVL",
+  "isoCountryCode" : "US",
+  "elevation" : 819.0,
+  "latitude" : "40° 40' 38.60\" N",
+  "longitude" : "77° 37' 36.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mifflin_County_Airport"
+}

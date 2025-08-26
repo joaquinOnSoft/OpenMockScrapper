@@ -1,0 +1,11 @@
+{
+  "name" : "O'Hare International Airport",
+  "icao" : "KORD",
+  "iata" : "ORD",
+  "isoCountryCode" : "US",
+  "elevation" : 672.0,
+  "latitude" : "41° 58' 42.97\" N",
+  "longitude" : "87° 54' 17.43\" W",
+  "website" : "https://www.flychicago.com/ohare/home/pages/default.aspx",
+  "wikipedia" : "https://en.wikipedia.org/wiki/O'Hare_International_Airport"
+}

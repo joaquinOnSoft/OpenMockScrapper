@@ -1,0 +1,11 @@
+{
+  "name" : "Mora Airport",
+  "icao" : "ESKM",
+  "iata" : "MXX",
+  "isoCountryCode" : "SE",
+  "elevation" : 634.0,
+  "latitude" : "60° 57' 28.44\" N",
+  "longitude" : "14° 30' 41.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mora-Siljan_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Ouagadougou Airport",
+  "icao" : "DFFD",
+  "iata" : "OUA",
+  "isoCountryCode" : "BF",
+  "elevation" : 1.037,
+  "latitude" : "12° 21' 11.52\" N",
+  "longitude" : "1° 30' 44.71\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Thomas_Sankara_International_Airport_Ouagadougou"
+}

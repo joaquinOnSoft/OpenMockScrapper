@@ -1,0 +1,11 @@
+{
+  "name" : "McClellan Airfield",
+  "icao" : "KMCC",
+  "iata" : "MCC",
+  "isoCountryCode" : "US",
+  "elevation" : 75.0,
+  "latitude" : "38° 40' 3.50\" N",
+  "longitude" : "121° 24' 2.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sacramento_McClellan_Airport"
+}

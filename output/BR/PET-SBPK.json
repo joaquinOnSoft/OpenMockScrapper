@@ -1,0 +1,11 @@
+{
+  "name" : "Aeroporto Internacional de Pelotas",
+  "icao" : "SBPK",
+  "iata" : "PET",
+  "isoCountryCode" : "BR",
+  "elevation" : 59.0,
+  "latitude" : "31° 43' 6.24\" S",
+  "longitude" : "52° 19' 39.73\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pelotas_International_Airport"
+}

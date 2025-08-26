@@ -1,0 +1,11 @@
+{
+  "name" : "Taoyuan International Airport 桃園國際機場",
+  "icao" : "RCTP",
+  "iata" : "TPE",
+  "isoCountryCode" : "TW",
+  "elevation" : 108.0,
+  "latitude" : "25° 4' 39.72\" N",
+  "longitude" : "121° 13' 58.81\" E",
+  "website" : "https://www.taoyuan-airport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Taoyuan_International_Airport"
+}

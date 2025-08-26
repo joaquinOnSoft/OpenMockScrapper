@@ -1,0 +1,11 @@
+{
+  "name" : "Hervey Bay Airport",
+  "icao" : "YHBA",
+  "iata" : "HVB",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "25° 19' 8.04\" S",
+  "longitude" : "152° 52' 48.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hervey_Bay_Airport"
+}
