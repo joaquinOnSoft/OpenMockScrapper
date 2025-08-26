@@ -1,0 +1,11 @@
+{
+  "name" : "Cape Girardeau Regional Airport",
+  "icao" : "KCGI",
+  "iata" : "CGI",
+  "isoCountryCode" : "US",
+  "elevation" : 342.0,
+  "latitude" : "37° 13' 31.14\" N",
+  "longitude" : "89° 34' 14.71\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cape_Girardeau_Regional_Airport"
+}

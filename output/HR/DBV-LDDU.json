@@ -1,0 +1,11 @@
+{
+  "name" : "Dubrovnik Airport",
+  "icao" : "LDDU",
+  "iata" : "DBV",
+  "isoCountryCode" : "HR",
+  "elevation" : 527.0,
+  "latitude" : "42° 33' 41.04\" N",
+  "longitude" : "18° 16' 5.52\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dubrovnik_Airport"
+}

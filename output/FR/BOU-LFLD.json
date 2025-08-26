@@ -1,0 +1,11 @@
+{
+  "name" : "Bourges Airport",
+  "icao" : "LFLD",
+  "iata" : "BOU",
+  "isoCountryCode" : "FR",
+  "elevation" : 529.0,
+  "latitude" : "47° 3' 29.17\" N",
+  "longitude" : "2° 22' 13.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bourges_Airport"
+}

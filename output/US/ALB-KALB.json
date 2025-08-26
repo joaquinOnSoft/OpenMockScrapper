@@ -1,0 +1,11 @@
+{
+  "name" : "Albany International Airport",
+  "icao" : "KALB",
+  "iata" : "ALB",
+  "isoCountryCode" : "US",
+  "elevation" : 285.0,
+  "latitude" : "42° 44' 53.76\" N",
+  "longitude" : "73° 48' 6.09\" W",
+  "website" : "http://www.albanyairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Albany_International_Airport"
+}

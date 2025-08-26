@@ -1,0 +1,11 @@
+{
+  "name" : "Naples Municipal Airport",
+  "icao" : "KAPF",
+  "iata" : "APF",
+  "isoCountryCode" : "US",
+  "elevation" : 8.0,
+  "latitude" : "26° 9' 8.23\" N",
+  "longitude" : "81° 46' 32.85\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Naples_Airport"
+}

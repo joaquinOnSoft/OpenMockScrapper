@@ -1,0 +1,11 @@
+{
+  "name" : "Bournemouth Airport",
+  "icao" : "EGHH",
+  "iata" : "BOH",
+  "isoCountryCode" : "UK",
+  "elevation" : 38.0,
+  "latitude" : "50° 46' 48.00\" N",
+  "longitude" : "1° 50' 33.00\" W",
+  "website" : "https://www.bournemouthairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bournemouth_Airport"
+}

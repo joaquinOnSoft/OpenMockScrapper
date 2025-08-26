@@ -1,0 +1,11 @@
+{
+  "name" : "Bartow Municipal Airport",
+  "icao" : "KBOW",
+  "iata" : "BOW",
+  "isoCountryCode" : "US",
+  "elevation" : 125.0,
+  "latitude" : "27° 56' 36.10\" N",
+  "longitude" : "81° 47' 0.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bartow_Executive_Airport"
+}

@@ -16,7 +16,7 @@ public class OpenNavScrapperProducer implements Runnable {
     public void run() {
         List<String> airportURLs = AirportScrapper.getAirportsURLs();
 
-        if (airportURLs != null && !airportURLs.isEmpty()) {
+        if (!airportURLs.isEmpty()) {
             for (String url : airportURLs) {
                 log.info("Airport URL: {}", url);
                 queue.add(new AirportJob(url));

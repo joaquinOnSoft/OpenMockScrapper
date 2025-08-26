@@ -1,0 +1,11 @@
+{
+  "name" : "Charles de Gaulle International Airport Roissy Airport",
+  "icao" : "LFPG",
+  "iata" : "CDG",
+  "isoCountryCode" : "FR",
+  "elevation" : 392.0,
+  "latitude" : "49° 0' 46.07\" N",
+  "longitude" : "2° 32' 60.00\" E",
+  "website" : "https://www.parisaeroport.fr",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Charles_de_Gaulle_Airport"
+}

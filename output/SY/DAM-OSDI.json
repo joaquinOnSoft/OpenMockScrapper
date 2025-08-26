@@ -1,0 +1,11 @@
+{
+  "name" : "Damascus International Airport",
+  "icao" : "OSDI",
+  "iata" : "DAM",
+  "isoCountryCode" : "SY",
+  "elevation" : 2.02,
+  "latitude" : "33° 24' 41.40\" N",
+  "longitude" : "36° 30' 56.15\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Damascus_International_Airport"
+}

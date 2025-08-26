@@ -1,0 +1,11 @@
+{
+  "name" : "El Edén Airport",
+  "icao" : "SKAR",
+  "iata" : "AXM",
+  "isoCountryCode" : "CO",
+  "elevation" : 3.99,
+  "latitude" : "4° 27' 10.01\" N",
+  "longitude" : "75° 45' 59.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/El_Edén_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Camiguin Airport",
+  "icao" : "RPMH",
+  "iata" : "CGM",
+  "isoCountryCode" : "PH",
+  "elevation" : 53.0,
+  "latitude" : "9° 15' 12.67\" N",
+  "longitude" : "124° 42' 25.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Camiguin_Airport"
+}

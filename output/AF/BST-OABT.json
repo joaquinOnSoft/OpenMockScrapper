@@ -1,0 +1,11 @@
+{
+  "name" : "Bost Airport",
+  "icao" : "OABT",
+  "iata" : "BST",
+  "isoCountryCode" : "AF",
+  "elevation" : 198.0,
+  "latitude" : "31° 33' 34.92\" N",
+  "longitude" : "64° 21' 53.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bost_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Carlisle Airport",
+  "icao" : "EGNC",
+  "iata" : "CAX",
+  "isoCountryCode" : "UK",
+  "elevation" : 190.0,
+  "latitude" : "54° 56' 15.00\" N",
+  "longitude" : "2° 48' 33.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Carlisle_Lake_District_Airport"
+}

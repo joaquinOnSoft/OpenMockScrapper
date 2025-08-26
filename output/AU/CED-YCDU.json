@@ -1,0 +1,11 @@
+{
+  "name" : "Ceduna Airport",
+  "icao" : "YCDU",
+  "iata" : "CED",
+  "isoCountryCode" : "AU",
+  "elevation" : 77.0,
+  "latitude" : "32° 7' 50.16\" S",
+  "longitude" : "133° 42' 36.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ceduna_Airport"
+}

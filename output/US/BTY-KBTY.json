@@ -1,0 +1,11 @@
+{
+  "name" : "Beatty Airport",
+  "icao" : "KBTY",
+  "iata" : "BTY",
+  "isoCountryCode" : "US",
+  "elevation" : 3.17,
+  "latitude" : "36° 51' 39.81\" N",
+  "longitude" : "116° 47' 13.21\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Beatty_Airport"
+}

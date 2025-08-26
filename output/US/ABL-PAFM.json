@@ -1,0 +1,11 @@
+{
+  "name" : "Ambler Airport",
+  "icao" : "PAFM",
+  "iata" : "ABL",
+  "isoCountryCode" : "US",
+  "elevation" : 334.0,
+  "latitude" : "67° 6' 22.68\" N",
+  "longitude" : "157° 51' 25.18\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ambler_Airport"
+}

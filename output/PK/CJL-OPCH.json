@@ -1,0 +1,11 @@
+{
+  "name" : "Chitral Airport",
+  "icao" : "OPCH",
+  "iata" : "CJL",
+  "isoCountryCode" : "PK",
+  "elevation" : 4.92,
+  "latitude" : "35° 53' 11.76\" N",
+  "longitude" : "71° 48' 2.15\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chitral_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Breves Airport",
+  "icao" : "SNVS",
+  "iata" : "BVS",
+  "isoCountryCode" : "BR",
+  "elevation" : 98.0,
+  "latitude" : "1° 38' 11.51\" S",
+  "longitude" : "50° 26' 37.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Breves_Airport"
+}

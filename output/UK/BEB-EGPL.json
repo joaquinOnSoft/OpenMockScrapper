@@ -1,0 +1,11 @@
+{
+  "name" : "Benbecula Airport",
+  "icao" : "EGPL",
+  "iata" : "BEB",
+  "isoCountryCode" : "UK",
+  "elevation" : 19.0,
+  "latitude" : "57° 28' 51.95\" N",
+  "longitude" : "7° 21' 46.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Benbecula_Airport"
+}

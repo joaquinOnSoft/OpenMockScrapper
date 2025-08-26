@@ -1,0 +1,11 @@
+{
+  "name" : "Buffalo Niagara International Airport",
+  "icao" : "KBUF",
+  "iata" : "BUF",
+  "isoCountryCode" : "US",
+  "elevation" : 728.0,
+  "latitude" : "42° 56' 25.89\" N",
+  "longitude" : "78° 43' 55.80\" W",
+  "website" : "https://www.buffaloairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Buffalo_Niagara_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bukhara Airport",
+  "icao" : "UTSB",
+  "iata" : "BHK",
+  "isoCountryCode" : "UZ",
+  "elevation" : 2.975,
+  "latitude" : "39° 46' 30.01\" N",
+  "longitude" : "64° 28' 59.88\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bukhara_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Clermont Airport",
+  "icao" : "YCMT",
+  "iata" : "CMQ",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "22° 46' 23.16\" S",
+  "longitude" : "147° 37' 15.61\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Clermont_Airport"
+}

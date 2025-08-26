@@ -1,0 +1,11 @@
+{
+  "name" : "Akulivik Airport",
+  "icao" : "CYKO",
+  "iata" : "AKV",
+  "isoCountryCode" : "CA",
+  "elevation" : 75.0,
+  "latitude" : "60° 49' 6.96\" N",
+  "longitude" : "78° 8' 54.95\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Akulivik_Airport"
+}

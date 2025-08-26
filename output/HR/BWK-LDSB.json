@@ -1,0 +1,11 @@
+{
+  "name" : "Bol Airport",
+  "icao" : "LDSB",
+  "iata" : "BWK",
+  "isoCountryCode" : "HR",
+  "elevation" : 1.776,
+  "latitude" : "43° 17' 8.53\" N",
+  "longitude" : "16° 40' 46.92\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Brač_Airport"
+}

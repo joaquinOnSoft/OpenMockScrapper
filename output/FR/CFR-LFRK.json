@@ -1,0 +1,11 @@
+{
+  "name" : "Caen - Carpiquet_Airport",
+  "icao" : "LFRK",
+  "iata" : "CFR",
+  "isoCountryCode" : "FR",
+  "elevation" : 256.0,
+  "latitude" : "49° 10' 23.89\" N",
+  "longitude" : "0° 26' 60.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Caen_–_Carpiquet_Airport"
+}

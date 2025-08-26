@@ -1,0 +1,11 @@
+{
+  "name" : "Alice International Airport",
+  "icao" : "KALI",
+  "iata" : "ALI",
+  "isoCountryCode" : "US",
+  "elevation" : 178.0,
+  "latitude" : "27° 44' 27.20\" N",
+  "longitude" : "98° 1' 37.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Alice_International_Airport"
+}

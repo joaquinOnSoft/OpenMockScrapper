@@ -1,0 +1,11 @@
+{
+  "name" : "Simon Bolivar International Airport",
+  "icao" : "SVMI",
+  "iata" : "CCS",
+  "isoCountryCode" : "VE",
+  "elevation" : 235.0,
+  "latitude" : "10° 36' 11.22\" N",
+  "longitude" : "66° 59' 26.11\" W",
+  "website" : "http://www.aeropuerto-maiquetia.com.ve",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport"
+}

@@ -5,16 +5,23 @@ import org.apache.commons.cli.*;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+
 import java.security.InvalidParameterException;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class OpenNavScrapperLauncher {
     private static final int DEFAULT_NUM_THREADS = 4;
+    private static final String DEFAULT_OUTPUT = ".";
 
     private static final String SHORT_PARAM_THREADS = "t";
     private static final String LONG_PARAM_THREADS = "threads";
 
+    private static final String SHORT_PARAM_OUTPUT = "o";
+    private static final String LONG_PARAM_OUTPUT = "output";
 
     private static final String HELP = """
             Generates multiple JSON files with airports information from opennav.com
@@ -22,6 +29,7 @@ public class OpenNavScrapperLauncher {
             Valid parameters:
             
               --threads or -t: (Optional) Number of threads used simultaneously to parse the page
+              --output or -o: (Optional) Output path (directory). Default value '.'
             
             Call example:
             
@@ -37,10 +45,12 @@ public class OpenNavScrapperLauncher {
         HelpFormatter formatter = new HelpFormatter();
         CommandLine cmd;
         int numConsumers = DEFAULT_NUM_THREADS;
+        String output = DEFAULT_OUTPUT;
 
         try {
             cmd = parser.parse(options, args);
             numConsumers = validateParamThreads(cmd);
+            output = validateParamOutput(cmd);
         } catch (ParseException | InvalidParameterException e) {
             formatter.printHelp(HELP, options);
             log.error(e.getMessage());
@@ -52,7 +62,7 @@ public class OpenNavScrapperLauncher {
 
         for (int i = 0; i < numConsumers; i++) {
             log.info(">> Consumer {} launched.", i);
-            new Thread(new OpenNavScrapperConsumer(queue)).start();
+            new Thread(new OpenNavScrapperConsumer(queue, output)).start();
         }
         log.info("# {} consumers launched in total.", numConsumers);
 
@@ -66,6 +76,10 @@ public class OpenNavScrapperLauncher {
 
         Option threadOption = new Option(SHORT_PARAM_THREADS, LONG_PARAM_THREADS, true, "(optinal) Number of thread to process simultaneously the contracts .csv file. Default value: 4");
         options.addOption(threadOption);
+
+        Option outputOption = new Option(SHORT_PARAM_OUTPUT, LONG_PARAM_OUTPUT, true, "(Optional) Output path (directory). Default value '.'");
+        options.addOption(outputOption);
+
         return options;
     }
 
@@ -91,5 +105,29 @@ public class OpenNavScrapperLauncher {
         }
 
         return numThreads;
+    }
+
+    private static String validateParamOutput(CommandLine cmd) throws InvalidParameterException {
+        String outputStr = DEFAULT_OUTPUT;
+
+        if (cmd.hasOption(LONG_PARAM_OUTPUT) || cmd.hasOption(SHORT_PARAM_OUTPUT)) {
+            outputStr = cmd.getOptionValue(LONG_PARAM_OUTPUT);
+            File outputPath = new File(outputStr);
+
+            if(outputPath.isFile()){
+                throw new InvalidParameterException("--output # should be a folder");
+            }
+
+            if(!outputPath.exists()){
+                try {
+                    Files.createDirectories(outputPath.toPath());
+                } catch (IOException e) {
+                    log.error(e);
+                    log.error("Not possible to create directory: {}", outputStr);
+                    throw new InvalidParameterException();
+                }
+            }
+        }
+        return outputStr;
     }
 }

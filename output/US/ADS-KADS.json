@@ -1,0 +1,11 @@
+{
+  "name" : "Addison Airport",
+  "icao" : "KADS",
+  "iata" : "ADS",
+  "isoCountryCode" : "US",
+  "elevation" : 644.0,
+  "latitude" : "32° 58' 6.81\" N",
+  "longitude" : "96° 50' 11.21\" W",
+  "website" : "http://www.addisonairport.net",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Addison_Airport"
+}

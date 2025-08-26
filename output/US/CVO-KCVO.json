@@ -1,0 +1,11 @@
+{
+  "name" : "Corvallis Municipal Airport",
+  "icao" : "KCVO",
+  "iata" : "CVO",
+  "isoCountryCode" : "US",
+  "elevation" : 250.0,
+  "latitude" : "44° 29' 49.90\" N",
+  "longitude" : "123° 17' 23.39\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Corvallis_Municipal_Airport"
+}

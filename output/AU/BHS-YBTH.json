@@ -1,0 +1,11 @@
+{
+  "name" : "Bathurst Airport",
+  "icao" : "YBTH",
+  "iata" : "BHS",
+  "isoCountryCode" : "AU",
+  "elevation" : 2.435,
+  "latitude" : "33° 24' 33.84\" S",
+  "longitude" : "149° 39' 7.17\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bathurst_Airport_(New_South_Wales)"
+}

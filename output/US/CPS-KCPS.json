@@ -1,0 +1,11 @@
+{
+  "name" : "St. Louis Downtown Airport",
+  "icao" : "KCPS",
+  "iata" : "CPS",
+  "isoCountryCode" : "US",
+  "elevation" : 413.0,
+  "latitude" : "38° 34' 14.61\" N",
+  "longitude" : "90° 9' 22.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Louis_Downtown_Airport"
+}

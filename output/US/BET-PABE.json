@@ -1,0 +1,11 @@
+{
+  "name" : "Bethel Airport",
+  "icao" : "PABE",
+  "iata" : "BET",
+  "isoCountryCode" : "US",
+  "elevation" : 126.0,
+  "latitude" : "60° 46' 47.28\" N",
+  "longitude" : "161° 50' 16.79\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bethel_Airport"
+}

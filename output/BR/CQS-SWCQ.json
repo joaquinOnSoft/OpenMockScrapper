@@ -1,0 +1,11 @@
+{
+  "name" : "Costa Marques Airport",
+  "icao" : "SWCQ",
+  "iata" : "CQS",
+  "isoCountryCode" : "BR",
+  "elevation" : 555.0,
+  "latitude" : "12° 25' 15.82\" S",
+  "longitude" : "64° 15' 5.92\" W",
+  "website" : null,
+  "wikipedia" : null
+}

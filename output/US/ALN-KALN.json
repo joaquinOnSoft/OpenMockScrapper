@@ -1,0 +1,11 @@
+{
+  "name" : "St. Louis Regional Airport",
+  "icao" : "KALN",
+  "iata" : "ALN",
+  "isoCountryCode" : "US",
+  "elevation" : 544.0,
+  "latitude" : "38° 53' 25.05\" N",
+  "longitude" : "90° 2' 45.76\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Louis_Regional_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cabo Rojo Airport",
+  "icao" : "MDCR",
+  "iata" : "CBJ",
+  "isoCountryCode" : "DO",
+  "elevation" : 262.0,
+  "latitude" : "17° 55' 44.40\" N",
+  "longitude" : "71° 38' 41.27\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cabo_Rojo_Airport"
+}

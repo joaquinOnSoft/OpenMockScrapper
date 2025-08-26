@@ -1,0 +1,11 @@
+{
+  "name" : "Spring Point Airport",
+  "icao" : "MYAP",
+  "iata" : "AXP",
+  "isoCountryCode" : "BS",
+  "elevation" : 11.0,
+  "latitude" : "22° 26' 30.48\" N",
+  "longitude" : "73° 58' 15.25\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Spring_Point_Airport"
+}

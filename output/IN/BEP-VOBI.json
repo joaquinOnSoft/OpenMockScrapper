@@ -1,0 +1,11 @@
+{
+  "name" : "Bellary Airport",
+  "icao" : "VOBI",
+  "iata" : "BEP",
+  "isoCountryCode" : "IN",
+  "elevation" : 30.0,
+  "latitude" : "15° 9' 46.08\" N",
+  "longitude" : "76° 52' 58.07\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bellary_Airport"
+}

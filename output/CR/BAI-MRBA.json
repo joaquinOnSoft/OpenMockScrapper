@@ -1,0 +1,11 @@
+{
+  "name" : "Buenos Aires Airport",
+  "icao" : "MRBA",
+  "iata" : "BAI",
+  "isoCountryCode" : "CR",
+  "elevation" : 1.214,
+  "latitude" : "9° 9' 49.00\" N",
+  "longitude" : "83° 19' 47.65\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Buenos_Aires_Airport_(Costa_Rica)"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cazombo Airport",
+  "icao" : "FNCZ",
+  "iata" : "CAV",
+  "isoCountryCode" : "AO",
+  "elevation" : 1.162,
+  "latitude" : "11° 53' 35.16\" S",
+  "longitude" : "22° 54' 59.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cazombo_Airport"
+}

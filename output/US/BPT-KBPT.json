@@ -1,0 +1,11 @@
+{
+  "name" : "Southeast Texas Regional Airport",
+  "icao" : "KBPT",
+  "iata" : "BPT",
+  "isoCountryCode" : "US",
+  "elevation" : 15.0,
+  "latitude" : "29° 57' 3.00\" N",
+  "longitude" : "94° 1' 14.50\" W",
+  "website" : "http://co.jefferson.tx.us/setra/frames.htm",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Southeast_Texas_Regional_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Austin Municipal Airport",
+  "icao" : "KAUM",
+  "iata" : "AUM",
+  "isoCountryCode" : "US",
+  "elevation" : 1.234,
+  "latitude" : "43° 39' 45.50\" N",
+  "longitude" : "92° 55' 58.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Austin_Municipal_Airport"
+}

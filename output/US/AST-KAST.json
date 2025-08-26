@@ -1,0 +1,11 @@
+{
+  "name" : "Astoria Regional Airport",
+  "icao" : "KAST",
+  "iata" : "AST",
+  "isoCountryCode" : "US",
+  "elevation" : 15.0,
+  "latitude" : "46° 9' 28.70\" N",
+  "longitude" : "123° 52' 43.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Astoria_Regional_Airport"
+}

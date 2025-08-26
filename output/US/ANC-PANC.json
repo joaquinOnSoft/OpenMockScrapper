@@ -1,0 +1,11 @@
+{
+  "name" : "Ted Stevens Anchorage International Airport",
+  "icao" : "PANC",
+  "iata" : "ANC",
+  "isoCountryCode" : "US",
+  "elevation" : 152.0,
+  "latitude" : "61° 10' 27.84\" N",
+  "longitude" : "149° 59' 45.61\" W",
+  "website" : "http://www.dot.state.ak.us/anc/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ted_Stevens_International_Airport"
+}

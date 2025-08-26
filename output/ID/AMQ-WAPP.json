@@ -1,0 +1,11 @@
+{
+  "name" : "Pattimura Airport",
+  "icao" : "WAPP",
+  "iata" : "AMQ",
+  "isoCountryCode" : "ID",
+  "elevation" : 33.0,
+  "latitude" : "3° 42' 36.94\" S",
+  "longitude" : "128° 5' 20.42\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pattimura_International_Airport"
+}

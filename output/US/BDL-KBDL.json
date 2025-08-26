@@ -1,0 +1,11 @@
+{
+  "name" : "Bradley International Airport",
+  "icao" : "KBDL",
+  "iata" : "BDL",
+  "isoCountryCode" : "US",
+  "elevation" : 173.0,
+  "latitude" : "41° 56' 20.00\" N",
+  "longitude" : "72° 40' 59.60\" W",
+  "website" : "https://bradleyairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bradley_International_Airport"
+}

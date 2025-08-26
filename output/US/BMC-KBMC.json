@@ -1,0 +1,11 @@
+{
+  "name" : "Brigham City Airport",
+  "icao" : "KBMC",
+  "iata" : "BMC",
+  "isoCountryCode" : "US",
+  "elevation" : 4.229,
+  "latitude" : "41° 33' 8.60\" N",
+  "longitude" : "112° 3' 44.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Brigham_City_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Chamonate Airport",
+  "icao" : "SCHA",
+  "iata" : "CPO",
+  "isoCountryCode" : "CL",
+  "elevation" : 0.0,
+  "latitude" : "27° 17' 48.84\" S",
+  "longitude" : "70° 24' 47.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chamonate_Airport"
+}

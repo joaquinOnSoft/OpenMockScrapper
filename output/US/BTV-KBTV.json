@@ -1,0 +1,11 @@
+{
+  "name" : "Burlington International Airport",
+  "icao" : "KBTV",
+  "iata" : "BTV",
+  "isoCountryCode" : "US",
+  "elevation" : 335.0,
+  "latitude" : "44° 28' 18.70\" N",
+  "longitude" : "73° 9' 11.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Burlington_International_Airport"
+}

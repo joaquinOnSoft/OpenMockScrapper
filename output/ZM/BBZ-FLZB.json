@@ -1,0 +1,11 @@
+{
+  "name" : "Zambezi Airport",
+  "icao" : "FLZB",
+  "iata" : "BBZ",
+  "isoCountryCode" : "ZM",
+  "elevation" : 0.0,
+  "latitude" : "13° 32' 9.96\" S",
+  "longitude" : "23° 6' 30.60\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Zambezi_Airport"
+}

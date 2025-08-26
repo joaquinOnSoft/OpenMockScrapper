@@ -1,0 +1,11 @@
+{
+  "name" : "Chile Chico Airport",
+  "icao" : "SCCC",
+  "iata" : "CCH",
+  "isoCountryCode" : "CL",
+  "elevation" : 1.07,
+  "latitude" : "46° 34' 59.89\" S",
+  "longitude" : "71° 41' 14.64\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chile_Chico_Airfield"
+}

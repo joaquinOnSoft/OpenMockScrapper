@@ -1,0 +1,11 @@
+{
+  "name" : "Dar Es Salaam Airport",
+  "icao" : "HTDA",
+  "iata" : "DAR",
+  "isoCountryCode" : "TZ",
+  "elevation" : 182.0,
+  "latitude" : "6° 52' 41.20\" S",
+  "longitude" : "39° 12' 9.35\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Julius_Nyerere_International_Airport"
+}

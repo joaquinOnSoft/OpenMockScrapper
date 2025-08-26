@@ -1,0 +1,11 @@
+{
+  "name" : "Boca Raton Airport",
+  "icao" : "KBCT",
+  "iata" : "BCT",
+  "isoCountryCode" : "US",
+  "elevation" : 13.0,
+  "latitude" : "26° 22' 42.60\" N",
+  "longitude" : "80° 6' 27.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Boca_Raton_Airport"
+}

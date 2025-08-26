@@ -1,0 +1,11 @@
+{
+  "name" : "Máximo Gómez Airport",
+  "icao" : "MUCA",
+  "iata" : "AVI",
+  "isoCountryCode" : "CU",
+  "elevation" : 335.0,
+  "latitude" : "22° 1' 37.56\" N",
+  "longitude" : "78° 47' 22.55\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Máximo_Gómez_Airport"
+}

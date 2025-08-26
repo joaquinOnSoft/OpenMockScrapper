@@ -1,0 +1,11 @@
+{
+  "name" : "McClellan-Palomar Airport",
+  "icao" : "KCRQ",
+  "iata" : "CLD",
+  "isoCountryCode" : "US",
+  "elevation" : 331.0,
+  "latitude" : "33° 7' 41.70\" N",
+  "longitude" : "117° 16' 48.30\" W",
+  "website" : "http://www.cannon.af.mil",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cannon_Air_Force_Base"
+}

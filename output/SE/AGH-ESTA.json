@@ -1,0 +1,11 @@
+{
+  "name" : "Ängelholm-Helsingborg Airport (former ICAO code: ESDB)",
+  "icao" : "ESTA",
+  "iata" : "AGH",
+  "isoCountryCode" : "SE",
+  "elevation" : 68.0,
+  "latitude" : "56° 17' 45.96\" N",
+  "longitude" : "12° 50' 49.56\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ängelholm-Helsingborg_Airport"
+}

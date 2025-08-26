@@ -1,0 +1,11 @@
+{
+  "name" : "Bauru Airport",
+  "icao" : "SBBU",
+  "iata" : "BAU",
+  "isoCountryCode" : "BR",
+  "elevation" : 2.025,
+  "latitude" : "22° 20' 42.00\" S",
+  "longitude" : "49° 3' 13.68\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bauru_Airport"
+}

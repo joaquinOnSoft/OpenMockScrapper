@@ -1,0 +1,11 @@
+{
+  "name" : "Cairo West Airport",
+  "icao" : "HECW",
+  "iata" : "CWE",
+  "isoCountryCode" : "EG",
+  "elevation" : 0.0,
+  "latitude" : "30° 6' 59.04\" N",
+  "longitude" : "30° 54' 55.44\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cairo_West_Air_Base"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Burke Lakefront Airport",
+  "icao" : "KBKL",
+  "iata" : "BKL",
+  "isoCountryCode" : "US",
+  "elevation" : 583.0,
+  "latitude" : "41° 31' 3.00\" N",
+  "longitude" : "81° 40' 60.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cleveland_Burke_Lakefront_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bratsk Airport",
+  "icao" : "UIBB",
+  "iata" : "BTK",
+  "isoCountryCode" : "RU",
+  "elevation" : 1.61,
+  "latitude" : "56° 22' 14.17\" N",
+  "longitude" : "101° 41' 52.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bratsk_Airport"
+}

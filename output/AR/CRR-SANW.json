@@ -1,0 +1,11 @@
+{
+  "name" : "Ceres Airport",
+  "icao" : "SANW",
+  "iata" : "CRR",
+  "isoCountryCode" : "AR",
+  "elevation" : 0.0,
+  "latitude" : "29° 51' 47.16\" S",
+  "longitude" : "61° 52' 22.08\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ceres_Airport"
+}

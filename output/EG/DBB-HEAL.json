@@ -1,0 +1,11 @@
+{
+  "name" : "El Alamein International Airport",
+  "icao" : "HEAL",
+  "iata" : "DBB",
+  "isoCountryCode" : "EG",
+  "elevation" : 0.0,
+  "latitude" : "30° 55' 28.20\" N",
+  "longitude" : "28° 27' 41.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/El_Alamein_International_Airport"
+}

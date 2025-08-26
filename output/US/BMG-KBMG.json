@@ -1,0 +1,11 @@
+{
+  "name" : "Monroe County Airport",
+  "icao" : "KBMG",
+  "iata" : "BMG",
+  "isoCountryCode" : "US",
+  "elevation" : 845.0,
+  "latitude" : "39° 8' 45.68\" N",
+  "longitude" : "86° 37' 0.06\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Monroe_County_Airport_(Indiana)"
+}

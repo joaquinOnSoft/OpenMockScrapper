@@ -1,0 +1,11 @@
+{
+  "name" : "Sindal Airport",
+  "icao" : "EKSN",
+  "iata" : "CNL",
+  "isoCountryCode" : "DK",
+  "elevation" : 92.0,
+  "latitude" : "57° 30' 12.61\" N",
+  "longitude" : "10° 13' 45.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sindal_Airport"
+}

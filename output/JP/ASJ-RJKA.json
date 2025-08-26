@@ -1,0 +1,11 @@
+{
+  "name" : "Amami-Oshima Airport 奄美大島空港 Amami Ōshima Kūkō",
+  "icao" : "RJKA",
+  "iata" : "ASJ",
+  "isoCountryCode" : "JP",
+  "elevation" : 68.0,
+  "latitude" : "28° 25' 50.16\" N",
+  "longitude" : "129° 42' 46.79\" E",
+  "website" : "http://www.kagoshima-p.go.jp/airport/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Amami_Airport"
+}

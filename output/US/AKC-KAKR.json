@@ -1,0 +1,11 @@
+{
+  "name" : "Akron Fulton International Airport",
+  "icao" : "KAKR",
+  "iata" : "AKC",
+  "isoCountryCode" : "US",
+  "elevation" : 1.067,
+  "latitude" : "41° 2' 14.99\" N",
+  "longitude" : "81° 28' 0.85\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Akron_Fulton_Executive_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cascavel Airport",
+  "icao" : "SBCA",
+  "iata" : "CAC",
+  "isoCountryCode" : "BR",
+  "elevation" : 2.473,
+  "latitude" : "25° 0' 1.08\" S",
+  "longitude" : "53° 30' 2.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cascavel_Airport"
+}

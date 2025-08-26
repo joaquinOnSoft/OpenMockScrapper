@@ -1,0 +1,11 @@
+{
+  "name" : "Alexandra Airport",
+  "icao" : "NZLX",
+  "iata" : "ALR",
+  "isoCountryCode" : "NZ",
+  "elevation" : 752.0,
+  "latitude" : "45° 12' 42.12\" S",
+  "longitude" : "169° 22' 22.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Alexandra_Aerodrome"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bielefeld Airport",
+  "icao" : "EDLI",
+  "iata" : "BFE",
+  "isoCountryCode" : "DE",
+  "elevation" : 3.264,
+  "latitude" : "51° 57' 53.00\" N",
+  "longitude" : "8° 32' 40.00\" E",
+  "website" : null,
+  "wikipedia" : null
+}

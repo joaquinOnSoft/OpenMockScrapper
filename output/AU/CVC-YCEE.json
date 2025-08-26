@@ -1,0 +1,11 @@
+{
+  "name" : "Cleve Airport",
+  "icao" : "YCEE",
+  "iata" : "CVC",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "33° 42' 34.93\" S",
+  "longitude" : "136° 30' 18.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cleve_Airport"
+}

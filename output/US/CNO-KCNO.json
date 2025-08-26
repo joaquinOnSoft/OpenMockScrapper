@@ -1,0 +1,11 @@
+{
+  "name" : "Chino Airport",
+  "icao" : "KCNO",
+  "iata" : "CNO",
+  "isoCountryCode" : "US",
+  "elevation" : 650.0,
+  "latitude" : "33° 58' 29.20\" N",
+  "longitude" : "117° 38' 11.34\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chino_Airport"
+}

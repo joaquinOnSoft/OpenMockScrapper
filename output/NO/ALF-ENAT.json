@@ -1,0 +1,11 @@
+{
+  "name" : "Alta Airport",
+  "icao" : "ENAT",
+  "iata" : "ALF",
+  "isoCountryCode" : "NO",
+  "elevation" : 9.0,
+  "latitude" : "69° 58' 33.95\" N",
+  "longitude" : "23° 22' 18.12\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Alta_Airport"
+}

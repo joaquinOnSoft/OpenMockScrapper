@@ -1,0 +1,11 @@
+{
+  "name" : "Banning Municipal Airport",
+  "icao" : "KBNG",
+  "iata" : "BNG",
+  "isoCountryCode" : "US",
+  "elevation" : 2.219,
+  "latitude" : "33° 55' 21.30\" N",
+  "longitude" : "116° 51' 1.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Banning_Municipal_Airport"
+}

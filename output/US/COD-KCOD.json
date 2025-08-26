@@ -1,0 +1,11 @@
+{
+  "name" : "Yellowstone Regional Airport",
+  "icao" : "KCOD",
+  "iata" : "COD",
+  "isoCountryCode" : "US",
+  "elevation" : 5.102,
+  "latitude" : "44° 31' 12.70\" N",
+  "longitude" : "109° 1' 25.70\" W",
+  "website" : "https://flyyra.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Yellowstone_Regional_Airport"
+}

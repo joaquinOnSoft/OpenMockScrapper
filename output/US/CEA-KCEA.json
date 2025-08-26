@@ -1,0 +1,11 @@
+{
+  "name" : "Cessna Aircraft Field",
+  "icao" : "KCEA",
+  "iata" : "CEA",
+  "isoCountryCode" : "US",
+  "elevation" : 1.378,
+  "latitude" : "37° 38' 54.95\" N",
+  "longitude" : "97° 15' 2.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cessna_Aircraft_Field"
+}

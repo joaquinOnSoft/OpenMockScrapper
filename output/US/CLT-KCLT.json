@@ -1,0 +1,11 @@
+{
+  "name" : "Charlotte Douglas International Airport",
+  "icao" : "KCLT",
+  "iata" : "CLT",
+  "isoCountryCode" : "US",
+  "elevation" : 748.0,
+  "latitude" : "35° 12' 50.40\" N",
+  "longitude" : "80° 56' 35.30\" W",
+  "website" : "https://www.cltairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Charlotte_Douglas_International_Airport"
+}

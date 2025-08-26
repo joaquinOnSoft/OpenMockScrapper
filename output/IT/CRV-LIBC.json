@@ -1,0 +1,11 @@
+{
+  "name" : "Crotone Airport",
+  "icao" : "LIBC",
+  "iata" : "CRV",
+  "isoCountryCode" : "IT",
+  "elevation" : 521.0,
+  "latitude" : "38° 59' 49.92\" N",
+  "longitude" : "17° 4' 48.72\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Crotone_Airport"
+}

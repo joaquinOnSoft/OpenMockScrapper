@@ -1,0 +1,11 @@
+{
+  "name" : "Columbus Air Force Base",
+  "icao" : "KCBM",
+  "iata" : "CBM",
+  "isoCountryCode" : "US",
+  "elevation" : 219.0,
+  "latitude" : "33° 38' 37.80\" N",
+  "longitude" : "88° 26' 37.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Columbus_Air_Force_Base"
+}

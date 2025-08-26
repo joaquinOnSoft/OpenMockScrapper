@@ -1,0 +1,11 @@
+{
+  "name" : "Bassein Airport",
+  "icao" : "VYPN",
+  "iata" : "BSX",
+  "isoCountryCode" : "MM",
+  "elevation" : 20.0,
+  "latitude" : "16° 48' 54.72\" N",
+  "longitude" : "94° 46' 47.64\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pathein_Airport"
+}

@@ -6,8 +6,6 @@ import com.fasterxml.jackson.databind.ObjectWriter;
 import lombok.Data;
 import lombok.extern.log4j.Log4j2;
 
-import java.util.Locale;
-
 @Data
 @Log4j2
 public class Airport {
@@ -25,7 +23,7 @@ public class Airport {
     /// a city's name. 2-character codes of airports are given in 1930 for the first time.
     /// Then three-character codes started to be used.
     private String iata;
-    private Locale isoCountryCode;
+    private String isoCountryCode;
     ///Airport elevation in feet
     private float elevation;
     /// Airport latitude, e.g., 40° 29' 36.96" N
@@ -34,10 +32,6 @@ public class Airport {
     private String longitude;
     private String website;
     private String wikipedia;
-
-    public void setIsoCountryCode(String isoCountryCode) {
-        this.isoCountryCode =  Locale.of("", isoCountryCode);
-    }
 
     public String toJSON() {
         String json = null;

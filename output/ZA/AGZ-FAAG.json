@@ -1,0 +1,11 @@
+{
+  "name" : "Aggeneys Airport",
+  "icao" : "FAAG",
+  "iata" : "AGZ",
+  "isoCountryCode" : "ZA",
+  "elevation" : 1.475,
+  "latitude" : "29° 16' 54.48\" S",
+  "longitude" : "18° 48' 50.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aggeneys_Airport"
+}

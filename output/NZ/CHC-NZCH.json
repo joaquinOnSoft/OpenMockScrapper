@@ -1,0 +1,11 @@
+{
+  "name" : "Christchurch International Airport",
+  "icao" : "NZCH",
+  "iata" : "CHC",
+  "isoCountryCode" : "NZ",
+  "elevation" : 123.0,
+  "latitude" : "43° 29' 21.84\" S",
+  "longitude" : "172° 31' 55.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Christchurch_Airport"
+}

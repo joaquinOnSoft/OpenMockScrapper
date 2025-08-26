@@ -1,0 +1,11 @@
+{
+  "name" : "Leipzig-Altenburg Airport",
+  "icao" : "EDAC",
+  "iata" : "AOC",
+  "isoCountryCode" : "DE",
+  "elevation" : 5.332,
+  "latitude" : "50° 58' 55.00\" N",
+  "longitude" : "12° 30' 23.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Leipzig-Altenburg_Airport"
+}

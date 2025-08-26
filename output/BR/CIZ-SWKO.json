@@ -1,0 +1,11 @@
+{
+  "name" : "Coari Airport",
+  "icao" : "SWKO",
+  "iata" : "CIZ",
+  "isoCountryCode" : "BR",
+  "elevation" : 131.0,
+  "latitude" : "4° 8' 2.60\" S",
+  "longitude" : "63° 7' 57.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Coari_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cuyahoga County Airport",
+  "icao" : "KCGF",
+  "iata" : "CGF",
+  "isoCountryCode" : "US",
+  "elevation" : 879.0,
+  "latitude" : "41° 33' 54.45\" N",
+  "longitude" : "81° 29' 10.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cuyahoga_County_Airport"
+}

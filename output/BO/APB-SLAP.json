@@ -1,0 +1,11 @@
+{
+  "name" : "Apolo Airport",
+  "icao" : "SLAP",
+  "iata" : "APB",
+  "isoCountryCode" : "BO",
+  "elevation" : 0.0,
+  "latitude" : "14° 44' 8.16\" S",
+  "longitude" : "68° 24' 42.85\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Apolo_Airport"
+}

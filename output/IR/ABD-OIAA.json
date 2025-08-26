@@ -1,0 +1,11 @@
+{
+  "name" : "Abadan Airport",
+  "icao" : "OIAA",
+  "iata" : "ABD",
+  "isoCountryCode" : "IR",
+  "elevation" : 10.0,
+  "latitude" : "30° 22' 15.96\" N",
+  "longitude" : "48° 13' 41.87\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Abadan_International_Airport"
+}

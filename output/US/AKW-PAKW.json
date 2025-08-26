@@ -1,0 +1,11 @@
+{
+  "name" : "Klawock Airport",
+  "icao" : "PAKW",
+  "iata" : "AKW",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "55° 34' 45.12\" N",
+  "longitude" : "133° 4' 33.61\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Klawock_Airport"
+}

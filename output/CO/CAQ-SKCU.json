@@ -1,0 +1,11 @@
+{
+  "name" : "Caucasia Airport",
+  "icao" : "SKCU",
+  "iata" : "CAQ",
+  "isoCountryCode" : "CO",
+  "elevation" : 174.0,
+  "latitude" : "7° 58' 6.49\" N",
+  "longitude" : "75° 11' 54.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Juan_H._White_Airport"
+}

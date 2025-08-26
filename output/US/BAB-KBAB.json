@@ -1,0 +1,11 @@
+{
+  "name" : "Beale Air Force Base",
+  "icao" : "KBAB",
+  "iata" : "BAB",
+  "isoCountryCode" : "US",
+  "elevation" : 113.0,
+  "latitude" : "39° 8' 9.92\" N",
+  "longitude" : "121° 26' 11.64\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Beale_Air_Force_Base"
+}

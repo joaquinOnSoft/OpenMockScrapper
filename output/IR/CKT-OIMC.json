@@ -1,0 +1,11 @@
+{
+  "name" : "Sarakhs Airport",
+  "icao" : "OIMC",
+  "iata" : "CKT",
+  "isoCountryCode" : "IR",
+  "elevation" : 945.0,
+  "latitude" : "36° 30' 4.33\" N",
+  "longitude" : "61° 3' 53.64\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sarakhs_Airport"
+}

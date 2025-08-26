@@ -1,0 +1,11 @@
+{
+  "name" : "Brookings Airport",
+  "icao" : "KBOK",
+  "iata" : "BOK",
+  "isoCountryCode" : "US",
+  "elevation" : 459.0,
+  "latitude" : "42° 4' 28.40\" N",
+  "longitude" : "124° 17' 24.34\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Brookings_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bairnsdale Airport",
+  "icao" : "YBNS",
+  "iata" : "BSJ",
+  "isoCountryCode" : "AU",
+  "elevation" : 165.0,
+  "latitude" : "37° 53' 15.00\" S",
+  "longitude" : "147° 34' 4.78\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bairnsdale_Airport"
+}

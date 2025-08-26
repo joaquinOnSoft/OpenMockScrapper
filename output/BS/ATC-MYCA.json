@@ -1,0 +1,11 @@
+{
+  "name" : "Arthur's Town Airport",
+  "icao" : "MYCA",
+  "iata" : "ATC",
+  "isoCountryCode" : "BS",
+  "elevation" : 18.0,
+  "latitude" : "24° 37' 45.84\" N",
+  "longitude" : "75° 40' 25.67\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Arthur's_Town_Airport"
+}

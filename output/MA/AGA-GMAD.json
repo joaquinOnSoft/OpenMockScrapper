@@ -1,0 +1,11 @@
+{
+  "name" : "Al Massira Airport",
+  "icao" : "GMAD",
+  "iata" : "AGA",
+  "isoCountryCode" : "MA",
+  "elevation" : 250.0,
+  "latitude" : "30° 19' 30.00\" N",
+  "longitude" : "9° 24' 47.05\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Agadir–Al_Massira_Airport"
+}

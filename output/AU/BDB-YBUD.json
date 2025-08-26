@@ -1,0 +1,11 @@
+{
+  "name" : "Bundaberg Airport",
+  "icao" : "YBUD",
+  "iata" : "BDB",
+  "isoCountryCode" : "AU",
+  "elevation" : 107.0,
+  "latitude" : "24° 54' 14.04\" S",
+  "longitude" : "152° 19' 8.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bundaberg_Airport"
+}

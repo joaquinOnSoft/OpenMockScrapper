@@ -1,0 +1,11 @@
+{
+  "name" : "Ararat Airport",
+  "icao" : "YARA",
+  "iata" : "ARY",
+  "isoCountryCode" : "AU",
+  "elevation" : 1.008,
+  "latitude" : "37° 18' 33.84\" S",
+  "longitude" : "142° 59' 20.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ararat_Airport"
+}

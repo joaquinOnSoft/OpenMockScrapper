@@ -1,0 +1,11 @@
+{
+  "name" : "Barth Airport",
+  "icao" : "EDBH",
+  "iata" : "BBH",
+  "isoCountryCode" : "DE",
+  "elevation" : 23.0,
+  "latitude" : "54° 20' 15.01\" N",
+  "longitude" : "12° 41' 58.92\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Stralsund-Barth_Airport"
+}

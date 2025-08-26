@@ -1,0 +1,11 @@
+{
+  "name" : "Corowa Airport",
+  "icao" : "YCOR",
+  "iata" : "CWW",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "35° 59' 40.92\" S",
+  "longitude" : "146° 21' 25.18\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Corowa_Airport"
+}

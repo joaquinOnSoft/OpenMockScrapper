@@ -1,0 +1,11 @@
+{
+  "name" : "Cancún International Airport",
+  "icao" : "MMUN",
+  "iata" : "CUN",
+  "isoCountryCode" : "MX",
+  "elevation" : 20.0,
+  "latitude" : "21° 2' 11.40\" N",
+  "longitude" : "86° 52' 37.55\" W",
+  "website" : "http://www.asur.com.mx/asur/ingles/aeropuertos/cancun/cancun.asp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Canc%C3%BAn_International_Airport"
+}

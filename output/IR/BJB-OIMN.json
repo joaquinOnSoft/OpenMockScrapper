@@ -1,0 +1,11 @@
+{
+  "name" : "Bojnord Airport",
+  "icao" : "OIMN",
+  "iata" : "BJB",
+  "isoCountryCode" : "IR",
+  "elevation" : 3.499,
+  "latitude" : "37° 29' 34.80\" N",
+  "longitude" : "57° 18' 29.52\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bojnord_Airport"
+}

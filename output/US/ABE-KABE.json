@@ -1,0 +1,11 @@
+{
+  "name" : "Lehigh Valley International Airport",
+  "icao" : "KABE",
+  "iata" : "ABE",
+  "isoCountryCode" : "US",
+  "elevation" : 393.0,
+  "latitude" : "40° 39' 7.50\" N",
+  "longitude" : "75° 26' 26.90\" W",
+  "website" : "https://www.flyabe.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lehigh_Valley_International_Airport"
+}

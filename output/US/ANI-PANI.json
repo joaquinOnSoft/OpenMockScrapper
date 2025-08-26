@@ -1,0 +1,11 @@
+{
+  "name" : "Aniak Airport",
+  "icao" : "PANI",
+  "iata" : "ANI",
+  "isoCountryCode" : "US",
+  "elevation" : 88.0,
+  "latitude" : "61° 34' 53.76\" N",
+  "longitude" : "159° 32' 34.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aniak_Airport"
+}

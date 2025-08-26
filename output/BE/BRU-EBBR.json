@@ -1,0 +1,11 @@
+{
+  "name" : "Brussels Airport Brussel Nationaal Bruxelles-National",
+  "icao" : "EBBR",
+  "iata" : "BRU",
+  "isoCountryCode" : "BE",
+  "elevation" : 184.0,
+  "latitude" : "50° 54' 5.05\" N",
+  "longitude" : "4° 29' 3.98\" E",
+  "website" : "https://www.brusselsairport.be",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Brussels_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cloncurry Airport",
+  "icao" : "YCCY",
+  "iata" : "CNJ",
+  "isoCountryCode" : "AU",
+  "elevation" : 616.0,
+  "latitude" : "20° 40' 6.96\" S",
+  "longitude" : "140° 30' 14.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cloncurry_Airport"
+}

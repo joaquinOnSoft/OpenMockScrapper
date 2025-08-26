@@ -1,0 +1,11 @@
+{
+  "name" : "Amata Airport",
+  "icao" : "YAMT",
+  "iata" : "AMT",
+  "isoCountryCode" : "AU",
+  "elevation" : 896.0,
+  "latitude" : "26° 6' 29.88\" S",
+  "longitude" : "131° 12' 25.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Amata_Airport"
+}

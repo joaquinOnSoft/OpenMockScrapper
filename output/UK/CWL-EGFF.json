@@ -1,0 +1,11 @@
+{
+  "name" : "Cardiff Airport",
+  "icao" : "EGFF",
+  "iata" : "CWL",
+  "isoCountryCode" : "UK",
+  "elevation" : 220.0,
+  "latitude" : "51° 23' 48.13\" N",
+  "longitude" : "3° 20' 35.99\" W",
+  "website" : "https://www.cardiff-airport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cardiff_Airport"
+}
