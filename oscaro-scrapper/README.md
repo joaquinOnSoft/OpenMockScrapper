@@ -1,10 +1,10 @@
-# Open Mock oscaro.com Scrapper
+# OpenMock's `oscaro.com` Scrapper
 
 ```
 Open Mock is a random data generator library for testing.
 ```
 
-This web scrapper reads vehicle brands, families, models and types from oscaro.com
+This web scrapper reads vehicle brands, families, models and types from [oscaro.com](https://www.oscaro.com)
 
 ## Execution
 
