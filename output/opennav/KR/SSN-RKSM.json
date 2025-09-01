@@ -1,0 +1,11 @@
+{
+  "name" : "Seoul Airbase",
+  "icao" : "RKSM",
+  "iata" : "SSN",
+  "isoCountryCode" : "KR",
+  "elevation" : 92.0,
+  "latitude" : "37° 26' 44.88\" N",
+  "longitude" : "127° 6' 50.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Seoul_Air_Base"
+}

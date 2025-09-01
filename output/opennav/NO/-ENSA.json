@@ -1,0 +1,11 @@
+{
+  "name" : "Svea Airport",
+  "icao" : "ENSA",
+  "iata" : null,
+  "isoCountryCode" : "NO",
+  "elevation" : 0.0,
+  "latitude" : "77° 54' 0.01\" N",
+  "longitude" : "16° 40' 59.88\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Svea_Airport"
+}

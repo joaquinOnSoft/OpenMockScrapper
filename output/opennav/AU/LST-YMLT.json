@@ -1,0 +1,11 @@
+{
+  "name" : "Launceston Airport",
+  "icao" : "YMLT",
+  "iata" : "LST",
+  "isoCountryCode" : "AU",
+  "elevation" : 562.0,
+  "latitude" : "41° 32' 43.08\" S",
+  "longitude" : "147° 12' 50.42\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Launceston_Airport"
+}

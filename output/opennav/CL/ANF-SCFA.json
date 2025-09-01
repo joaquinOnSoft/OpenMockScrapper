@@ -1,0 +1,11 @@
+{
+  "name" : "Cerro Moreno International Airport",
+  "icao" : "SCFA",
+  "iata" : "ANF",
+  "isoCountryCode" : "CL",
+  "elevation" : 455.0,
+  "latitude" : "23° 26' 40.20\" S",
+  "longitude" : "70° 26' 42.36\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cerro_Moreno_International_Airport"
+}

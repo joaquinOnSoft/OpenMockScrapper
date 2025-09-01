@@ -1,0 +1,11 @@
+{
+  "name" : "El Tor Airport",
+  "icao" : "HETR",
+  "iata" : "ELT",
+  "isoCountryCode" : "EG",
+  "elevation" : 0.0,
+  "latitude" : "28° 12' 32.40\" N",
+  "longitude" : "33° 38' 43.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/El_Tor_Airport"
+}

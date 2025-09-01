@@ -1,0 +1,11 @@
+{
+  "name" : "Coventry Airport",
+  "icao" : "EGBE",
+  "iata" : "CVT",
+  "isoCountryCode" : "UK",
+  "elevation" : 267.0,
+  "latitude" : "52° 22' 10.92\" N",
+  "longitude" : "1° 28' 46.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Coventry_Airport"
+}

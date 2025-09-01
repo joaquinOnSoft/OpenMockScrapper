@@ -1,0 +1,11 @@
+{
+  "name" : "Sveg Airport",
+  "icao" : "ESND",
+  "iata" : "EVG",
+  "isoCountryCode" : "SE",
+  "elevation" : 0.0,
+  "latitude" : "62° 2' 52.07\" N",
+  "longitude" : "14° 25' 22.44\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sveg_Airport"
+}

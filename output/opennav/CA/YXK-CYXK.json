@@ -1,0 +1,11 @@
+{
+  "name" : "Rimouski Airport",
+  "icao" : "CYXK",
+  "iata" : "YXK",
+  "isoCountryCode" : "CA",
+  "elevation" : 82.0,
+  "latitude" : "48° 28' 41.16\" N",
+  "longitude" : "68° 29' 48.85\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rimouski_Aerodrome"
+}

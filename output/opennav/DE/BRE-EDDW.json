@@ -1,0 +1,11 @@
+{
+  "name" : "Bremen Airport",
+  "icao" : "EDDW",
+  "iata" : "BRE",
+  "isoCountryCode" : "DE",
+  "elevation" : 14.0,
+  "latitude" : "53° 2' 51.00\" N",
+  "longitude" : "8° 47' 12.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bremen_Airport"
+}

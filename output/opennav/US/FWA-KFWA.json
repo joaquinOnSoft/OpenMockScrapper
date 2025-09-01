@@ -1,0 +1,11 @@
+{
+  "name" : "Fort Wayne International Airport",
+  "icao" : "KFWA",
+  "iata" : "FWA",
+  "isoCountryCode" : "US",
+  "elevation" : 815.0,
+  "latitude" : "40° 58' 42.50\" N",
+  "longitude" : "85° 11' 42.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fort_Wayne_International_Airport"
+}

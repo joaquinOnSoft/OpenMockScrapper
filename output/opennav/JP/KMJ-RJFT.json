@@ -1,0 +1,11 @@
+{
+  "name" : "Kumamoto Airport 熊本空港 Kumamoto Kūkō",
+  "icao" : "RJFT",
+  "iata" : "KMJ",
+  "isoCountryCode" : "JP",
+  "elevation" : 642.0,
+  "latitude" : "32° 50' 14.28\" N",
+  "longitude" : "130° 51' 17.98\" E",
+  "website" : "http://www.kmj-ab.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kumamoto_Airport"
+}

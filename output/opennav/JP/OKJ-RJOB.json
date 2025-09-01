@@ -1,0 +1,11 @@
+{
+  "name" : "Okayama Airport 岡山空港 Okayama Kūkō",
+  "icao" : "RJOB",
+  "iata" : "OKJ",
+  "isoCountryCode" : "JP",
+  "elevation" : 806.0,
+  "latitude" : "34° 45' 24.84\" N",
+  "longitude" : "133° 51' 17.98\" E",
+  "website" : "http://www.okayama-airport.org",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Okayama_Airport"
+}

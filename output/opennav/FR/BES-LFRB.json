@@ -1,0 +1,11 @@
+{
+  "name" : "Brest Bretagne Airport",
+  "icao" : "LFRB",
+  "iata" : "BES",
+  "isoCountryCode" : "FR",
+  "elevation" : 325.0,
+  "latitude" : "48° 26' 52.44\" N",
+  "longitude" : "4° 25' 6.74\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Brest_Bretagne_Airport"
+}

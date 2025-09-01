@@ -1,0 +1,11 @@
+{
+  "name" : "Pori Airport",
+  "icao" : "EFPO",
+  "iata" : "POR",
+  "isoCountryCode" : "FI",
+  "elevation" : 44.0,
+  "latitude" : "61° 27' 42.12\" N",
+  "longitude" : "21° 47' 60.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pori_Airport"
+}

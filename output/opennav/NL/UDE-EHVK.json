@@ -1,0 +1,11 @@
+{
+  "name" : "Volkel Airport",
+  "icao" : "EHVK",
+  "iata" : "UDE",
+  "isoCountryCode" : "NL",
+  "elevation" : 72.0,
+  "latitude" : "51° 39' 23.04\" N",
+  "longitude" : "5° 42' 31.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Volkel_Air_Base"
+}

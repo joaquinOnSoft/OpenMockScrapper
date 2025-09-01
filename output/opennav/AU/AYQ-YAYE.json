@@ -1,0 +1,11 @@
+{
+  "name" : "Ayers Rock Airport",
+  "icao" : "YAYE",
+  "iata" : "AYQ",
+  "isoCountryCode" : "AU",
+  "elevation" : 1.626,
+  "latitude" : "25° 11' 9.96\" S",
+  "longitude" : "130° 58' 33.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ayers_Rock_Airport"
+}

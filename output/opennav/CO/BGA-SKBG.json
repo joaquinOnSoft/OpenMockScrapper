@@ -1,0 +1,11 @@
+{
+  "name" : "Palonegro Airport",
+  "icao" : "SKBG",
+  "iata" : "BGA",
+  "isoCountryCode" : "CO",
+  "elevation" : 3.897,
+  "latitude" : "7° 7' 35.40\" N",
+  "longitude" : "73° 11' 5.28\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Palonegro_International_Airport"
+}

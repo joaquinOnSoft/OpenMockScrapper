@@ -1,0 +1,11 @@
+{
+  "name" : "Treviso Airport",
+  "icao" : "LIPH",
+  "iata" : "TSF",
+  "isoCountryCode" : "IT",
+  "elevation" : 59.0,
+  "latitude" : "45° 38' 54.24\" N",
+  "longitude" : "12° 11' 39.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Treviso_Airport"
+}

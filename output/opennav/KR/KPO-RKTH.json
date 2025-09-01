@@ -1,0 +1,11 @@
+{
+  "name" : "Pohang Airport",
+  "icao" : "RKTH",
+  "iata" : "KPO",
+  "isoCountryCode" : "KR",
+  "elevation" : 0.0,
+  "latitude" : "35° 59' 16.44\" N",
+  "longitude" : "129° 25' 11.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pohang_Airport"
+}

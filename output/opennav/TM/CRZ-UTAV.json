@@ -1,0 +1,11 @@
+{
+  "name" : "Turkmenabat Airport",
+  "icao" : "UTAV",
+  "iata" : "CRZ",
+  "isoCountryCode" : "TM",
+  "elevation" : 1.274,
+  "latitude" : "39° 4' 59.89\" N",
+  "longitude" : "63° 36' 47.88\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Turkmenabat_International_Airport"
+}

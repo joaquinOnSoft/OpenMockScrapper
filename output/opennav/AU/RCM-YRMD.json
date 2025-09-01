@@ -1,0 +1,11 @@
+{
+  "name" : "Richmond Airport",
+  "icao" : "YRMD",
+  "iata" : "RCM",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "20° 42' 6.84\" S",
+  "longitude" : "143° 6' 54.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Richmond_Airport_(Queensland)"
+}

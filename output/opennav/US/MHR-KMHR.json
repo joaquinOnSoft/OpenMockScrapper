@@ -1,0 +1,11 @@
+{
+  "name" : "Sacramento Mather Airport",
+  "icao" : "KMHR",
+  "iata" : "MHR",
+  "isoCountryCode" : "US",
+  "elevation" : 99.0,
+  "latitude" : "38° 33' 18.95\" N",
+  "longitude" : "121° 17' 50.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sacramento_Mather_Airport"
+}

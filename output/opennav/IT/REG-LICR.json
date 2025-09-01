@@ -1,0 +1,11 @@
+{
+  "name" : "Reggio Calabria Airport",
+  "icao" : "LICR",
+  "iata" : "REG",
+  "isoCountryCode" : "IT",
+  "elevation" : 96.0,
+  "latitude" : "38° 4' 16.32\" N",
+  "longitude" : "15° 39' 5.76\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Reggio_Calabria_Airport"
+}

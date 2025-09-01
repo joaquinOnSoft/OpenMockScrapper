@@ -1,0 +1,11 @@
+{
+  "name" : "Lancaster Airport",
+  "icao" : "KLNS",
+  "iata" : "LNS",
+  "isoCountryCode" : "US",
+  "elevation" : 403.0,
+  "latitude" : "40° 7' 18.18\" N",
+  "longitude" : "76° 17' 45.95\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lancaster_Airport_(Pennsylvania)"
+}

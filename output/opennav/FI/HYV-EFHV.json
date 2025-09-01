@@ -1,0 +1,11 @@
+{
+  "name" : "Hyvinkaa Airport",
+  "icao" : "EFHV",
+  "iata" : "HYV",
+  "isoCountryCode" : "FI",
+  "elevation" : 0.0,
+  "latitude" : "60° 39' 15.84\" N",
+  "longitude" : "24° 52' 51.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hyvinkää_Airport"
+}

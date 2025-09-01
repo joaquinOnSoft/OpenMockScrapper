@@ -1,0 +1,11 @@
+{
+  "name" : "Vila Real Airport",
+  "icao" : "LPVR",
+  "iata" : "VRL",
+  "isoCountryCode" : "PT",
+  "elevation" : 0.0,
+  "latitude" : "41° 16' 27.48\" N",
+  "longitude" : "7° 43' 13.69\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vila_Real_Airport"
+}

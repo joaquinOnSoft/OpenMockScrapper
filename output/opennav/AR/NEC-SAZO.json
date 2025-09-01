@@ -1,0 +1,11 @@
+{
+  "name" : "Necochea Airport",
+  "icao" : "SAZO",
+  "iata" : "NEC",
+  "isoCountryCode" : "AR",
+  "elevation" : 72.0,
+  "latitude" : "38° 28' 59.16\" S",
+  "longitude" : "58° 49' 1.92\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Necochea_Airport"
+}

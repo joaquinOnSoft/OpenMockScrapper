@@ -1,0 +1,11 @@
+{
+  "name" : "Miquelon Airport",
+  "icao" : "LFVM",
+  "iata" : "MQC",
+  "isoCountryCode" : "PM",
+  "elevation" : 0.0,
+  "latitude" : "47° 5' 43.80\" N",
+  "longitude" : "56° 22' 49.08\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Miquelon_Airport"
+}

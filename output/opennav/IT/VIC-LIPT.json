@@ -1,0 +1,11 @@
+{
+  "name" : "Vicenza Airport",
+  "icao" : "LIPT",
+  "iata" : "VIC",
+  "isoCountryCode" : "IT",
+  "elevation" : 0.0,
+  "latitude" : "45° 34' 24.23\" N",
+  "longitude" : "11° 31' 46.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vicenza_Airport"
+}

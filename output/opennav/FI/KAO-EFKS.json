@@ -1,0 +1,11 @@
+{
+  "name" : "Kuusamo Airport",
+  "icao" : "EFKS",
+  "iata" : "KAO",
+  "isoCountryCode" : "FI",
+  "elevation" : 866.0,
+  "latitude" : "65° 59' 15.37\" N",
+  "longitude" : "29° 14' 21.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kuusamo_Airport"
+}

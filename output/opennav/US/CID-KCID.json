@@ -1,0 +1,11 @@
+{
+  "name" : "The Eastern Iowa Airport",
+  "icao" : "KCID",
+  "iata" : "CID",
+  "isoCountryCode" : "US",
+  "elevation" : 869.0,
+  "latitude" : "41° 53' 4.90\" N",
+  "longitude" : "91° 42' 38.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/The_Eastern_Iowa_Airport"
+}

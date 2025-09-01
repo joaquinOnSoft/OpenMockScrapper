@@ -1,0 +1,11 @@
+{
+  "name" : "Hesa Airport",
+  "icao" : "OIFE",
+  "iata" : "IFH",
+  "isoCountryCode" : "IR",
+  "elevation" : 0.0,
+  "latitude" : "32° 55' 44.05\" N",
+  "longitude" : "51° 33' 39.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hesa_Air_Base"
+}

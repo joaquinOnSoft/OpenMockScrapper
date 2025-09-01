@@ -1,0 +1,11 @@
+{
+  "name" : "Ravenna Airport",
+  "icao" : "LIDR",
+  "iata" : "RAN",
+  "isoCountryCode" : "IT",
+  "elevation" : 0.0,
+  "latitude" : "44° 21' 51.48\" N",
+  "longitude" : "12° 13' 29.64\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ravenna_Airport"
+}

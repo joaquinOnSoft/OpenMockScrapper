@@ -1,0 +1,11 @@
+{
+  "name" : "Andrew Municipal Airport",
+  "icao" : "KDTA",
+  "iata" : "DTA",
+  "isoCountryCode" : "US",
+  "elevation" : 4.759,
+  "latitude" : "39° 22' 50.30\" N",
+  "longitude" : "112° 30' 27.77\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Delta_Municipal_Airport"
+}

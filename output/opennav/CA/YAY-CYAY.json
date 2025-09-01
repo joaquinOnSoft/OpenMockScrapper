@@ -1,0 +1,11 @@
+{
+  "name" : "St. Anthony Airport",
+  "icao" : "CYAY",
+  "iata" : "YAY",
+  "isoCountryCode" : "CA",
+  "elevation" : 108.0,
+  "latitude" : "51° 23' 30.84\" N",
+  "longitude" : "56° 4' 59.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Anthony_Airport"
+}

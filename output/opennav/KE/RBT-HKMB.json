@@ -1,0 +1,11 @@
+{
+  "name" : "Segel Airport",
+  "icao" : "HKMB",
+  "iata" : "RBT",
+  "isoCountryCode" : "KE",
+  "elevation" : 0.0,
+  "latitude" : "2° 20' 60.00\" N",
+  "longitude" : "37° 58' 58.81\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Marsabit_Airport"
+}

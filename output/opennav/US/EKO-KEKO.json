@@ -1,0 +1,11 @@
+{
+  "name" : "Elko Regional Airport",
+  "icao" : "KEKO",
+  "iata" : "EKO",
+  "isoCountryCode" : "US",
+  "elevation" : 5.14,
+  "latitude" : "40° 49' 29.70\" N",
+  "longitude" : "115° 47' 30.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Elko_Regional_Airport"
+}

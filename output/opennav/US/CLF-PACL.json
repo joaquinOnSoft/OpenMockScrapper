@@ -1,0 +1,11 @@
+{
+  "name" : "Clear Sky Lodge Airport",
+  "icao" : "PACL",
+  "iata" : "CLF",
+  "isoCountryCode" : "US",
+  "elevation" : 650.0,
+  "latitude" : "64° 18' 4.32\" N",
+  "longitude" : "149° 7' 11.98\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Clear_Airport"
+}

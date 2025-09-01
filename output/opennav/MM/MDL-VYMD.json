@@ -1,0 +1,11 @@
+{
+  "name" : "Mandalay International Airport",
+  "icao" : "VYMD",
+  "iata" : "MDL",
+  "isoCountryCode" : "MM",
+  "elevation" : 300.0,
+  "latitude" : "21° 42' 7.92\" N",
+  "longitude" : "95° 58' 40.43\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mandalay_International_Airport"
+}

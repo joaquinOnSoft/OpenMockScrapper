@@ -1,0 +1,11 @@
+{
+  "name" : "Nelson Airport",
+  "icao" : "NZNS",
+  "iata" : "NSN",
+  "isoCountryCode" : "NZ",
+  "elevation" : 17.0,
+  "latitude" : "41° 17' 53.89\" S",
+  "longitude" : "173° 13' 15.57\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nelson_Airport_(New_Zealand)"
+}

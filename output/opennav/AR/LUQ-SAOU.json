@@ -1,0 +1,11 @@
+{
+  "name" : "San Luis Airport",
+  "icao" : "SAOU",
+  "iata" : "LUQ",
+  "isoCountryCode" : "AR",
+  "elevation" : 2.329,
+  "latitude" : "33° 16' 23.52\" S",
+  "longitude" : "66° 21' 23.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Luis_Airport_(Argentina)"
+}

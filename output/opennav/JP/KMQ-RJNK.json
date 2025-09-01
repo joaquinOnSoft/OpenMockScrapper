@@ -1,0 +1,11 @@
+{
+  "name" : "Komatsu Airport 小松飛行場 Komatsu Hikōjō",
+  "icao" : "RJNK",
+  "iata" : "KMQ",
+  "isoCountryCode" : "JP",
+  "elevation" : 36.0,
+  "latitude" : "36° 23' 40.60\" N",
+  "longitude" : "136° 24' 23.56\" E",
+  "website" : "http://www.komatsuairport.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Komatsu_Airport"
+}

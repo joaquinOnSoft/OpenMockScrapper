@@ -1,0 +1,11 @@
+{
+  "name" : "Stuttgart Airport Flughafen Stuttgart",
+  "icao" : "EDDS",
+  "iata" : "STR",
+  "isoCountryCode" : "DE",
+  "elevation" : 1.276,
+  "latitude" : "48° 41' 23.64\" N",
+  "longitude" : "9° 13' 19.06\" E",
+  "website" : "https://www.stuttgart-airport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Stuttgart_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bandara International Lombok Airport",
+  "icao" : "WADL",
+  "iata" : "BIL",
+  "isoCountryCode" : "ID",
+  "elevation" : 0.0,
+  "latitude" : "8° 45' 26.36\" S",
+  "longitude" : "116° 16' 36.03\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lombok_International_Airport"
+}

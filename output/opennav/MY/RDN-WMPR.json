@@ -1,0 +1,11 @@
+{
+  "name" : "LTS Pulau Redang Airport",
+  "icao" : "WMPR",
+  "iata" : "RDN",
+  "isoCountryCode" : "MY",
+  "elevation" : 0.0,
+  "latitude" : "5° 45' 55.01\" N",
+  "longitude" : "103° 0' 25.21\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Redang_Airport"
+}

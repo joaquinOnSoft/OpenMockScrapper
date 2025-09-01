@@ -1,0 +1,11 @@
+{
+  "name" : "Antoine De St Exupery Airport",
+  "icao" : "SAVN",
+  "iata" : "OES",
+  "isoCountryCode" : "AR",
+  "elevation" : 0.0,
+  "latitude" : "40° 45' 4.32\" S",
+  "longitude" : "65° 2' 3.48\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Antoine_de_Saint_Exupéry_Airport_(Argentina)"
+}

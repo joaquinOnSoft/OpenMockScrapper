@@ -1,0 +1,11 @@
+{
+  "name" : "Wayne County Airport",
+  "icao" : "KBJJ",
+  "iata" : "BJJ",
+  "isoCountryCode" : "US",
+  "elevation" : 1.136,
+  "latitude" : "40° 52' 29.40\" N",
+  "longitude" : "81° 53' 17.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wayne_County_Airport_(Ohio)"
+}

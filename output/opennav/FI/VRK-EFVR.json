@@ -1,0 +1,11 @@
+{
+  "name" : "Varkaus Airport",
+  "icao" : "EFVR",
+  "iata" : "VRK",
+  "isoCountryCode" : "FI",
+  "elevation" : 286.0,
+  "latitude" : "62° 10' 15.96\" N",
+  "longitude" : "27° 52' 6.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Varkaus_Airport"
+}

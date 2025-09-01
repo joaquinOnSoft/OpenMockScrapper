@@ -1,0 +1,11 @@
+{
+  "name" : "Deir ez-Zor Airport",
+  "icao" : "OSDZ",
+  "iata" : "DEZ",
+  "isoCountryCode" : "SY",
+  "elevation" : 700.0,
+  "latitude" : "35° 17' 7.44\" N",
+  "longitude" : "40° 10' 33.60\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Deir_ez-Zor_Airport"
+}

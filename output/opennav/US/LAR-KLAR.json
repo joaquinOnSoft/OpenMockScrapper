@@ -1,0 +1,11 @@
+{
+  "name" : "Laramie Regional Airport",
+  "icao" : "KLAR",
+  "iata" : "LAR",
+  "isoCountryCode" : "US",
+  "elevation" : 7.284,
+  "latitude" : "41° 18' 43.40\" N",
+  "longitude" : "105° 40' 30.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Laramie_Regional_Airport"
+}

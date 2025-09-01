@@ -1,0 +1,11 @@
+{
+  "name" : "Kerema Airport",
+  "icao" : "AYKM",
+  "iata" : "KMA",
+  "isoCountryCode" : "PG",
+  "elevation" : 0.0,
+  "latitude" : "7° 57' 49.00\" S",
+  "longitude" : "145° 46' 15.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kerema_Airport"
+}

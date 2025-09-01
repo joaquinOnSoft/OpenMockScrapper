@@ -1,0 +1,11 @@
+{
+  "name" : "Guapi Airport",
+  "icao" : "SKGP",
+  "iata" : "GPI",
+  "isoCountryCode" : "CO",
+  "elevation" : 2.977,
+  "latitude" : "2° 34' 12.47\" N",
+  "longitude" : "77° 53' 54.96\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Guapi_Airport"
+}

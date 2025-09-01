@@ -1,0 +1,11 @@
+{
+  "name" : "Woodbourne Airport",
+  "icao" : "NZWB",
+  "iata" : "BHE",
+  "isoCountryCode" : "NZ",
+  "elevation" : 109.0,
+  "latitude" : "41° 31' 5.88\" S",
+  "longitude" : "173° 52' 11.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Woodbourne_Airport"
+}

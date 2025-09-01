@@ -1,0 +1,11 @@
+{
+  "name" : "Kearney Regional Airport",
+  "icao" : "KEAR",
+  "iata" : "EAR",
+  "isoCountryCode" : "US",
+  "elevation" : 2.131,
+  "latitude" : "40° 43' 37.30\" N",
+  "longitude" : "99° 0' 24.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kearney_Regional_Airport"
+}

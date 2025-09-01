@@ -1,0 +1,11 @@
+{
+  "name" : "Samarkand Airport",
+  "icao" : "UTSS",
+  "iata" : "SKD",
+  "isoCountryCode" : "UZ",
+  "elevation" : 0.0,
+  "latitude" : "39° 42' 1.80\" N",
+  "longitude" : "66° 59' 1.69\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Samarkand_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Pearson Field",
+  "icao" : "KVUO",
+  "iata" : "VUO",
+  "isoCountryCode" : "US",
+  "elevation" : 25.0,
+  "latitude" : "45° 37' 13.63\" N",
+  "longitude" : "122° 39' 23.36\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pearson_Field"
+}

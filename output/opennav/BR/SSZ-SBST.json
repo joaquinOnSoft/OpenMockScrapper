@@ -1,0 +1,11 @@
+{
+  "name" : "Santos Air Base",
+  "icao" : "SBST",
+  "iata" : "SSZ",
+  "isoCountryCode" : "BR",
+  "elevation" : 10.0,
+  "latitude" : "23° 55' 41.00\" S",
+  "longitude" : "46° 17' 58.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Santos_Air_Force_Base"
+}

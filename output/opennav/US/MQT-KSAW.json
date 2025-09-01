@@ -1,0 +1,11 @@
+{
+  "name" : "Sawyer International Airport",
+  "icao" : "KSAW",
+  "iata" : "MQT",
+  "isoCountryCode" : "US",
+  "elevation" : 1.221,
+  "latitude" : "46° 21' 12.96\" N",
+  "longitude" : "87° 23' 43.44\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sawyer_International_Airport"
+}

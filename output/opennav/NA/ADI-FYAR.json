@@ -1,0 +1,11 @@
+{
+  "name" : "Arandis Airport",
+  "icao" : "FYAR",
+  "iata" : "ADI",
+  "isoCountryCode" : "NA",
+  "elevation" : 1.905,
+  "latitude" : "22° 27' 43.92\" S",
+  "longitude" : "14° 58' 48.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Arandis_Airport"
+}

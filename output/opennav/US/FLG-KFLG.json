@@ -1,0 +1,11 @@
+{
+  "name" : "Flagstaff Pulliam Airport",
+  "icao" : "KFLG",
+  "iata" : "FLG",
+  "isoCountryCode" : "US",
+  "elevation" : 7.015,
+  "latitude" : "35° 8' 18.43\" N",
+  "longitude" : "111° 40' 16.39\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Flagstaff_Pulliam_Airport"
+}

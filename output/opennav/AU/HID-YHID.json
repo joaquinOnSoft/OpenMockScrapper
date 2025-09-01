@@ -1,0 +1,11 @@
+{
+  "name" : "Horn Island Airport",
+  "icao" : "YHID",
+  "iata" : "HID",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "10° 35' 11.04\" S",
+  "longitude" : "142° 17' 23.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Horn_Island_Airport"
+}

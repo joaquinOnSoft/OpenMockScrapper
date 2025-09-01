@@ -1,0 +1,11 @@
+{
+  "name" : "George Airport",
+  "icao" : "FAGG",
+  "iata" : "GRJ",
+  "isoCountryCode" : "ZA",
+  "elevation" : 648.0,
+  "latitude" : "34° 0' 20.16\" S",
+  "longitude" : "22° 22' 44.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/George_Airport"
+}

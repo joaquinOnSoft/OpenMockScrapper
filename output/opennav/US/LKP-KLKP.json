@@ -1,0 +1,11 @@
+{
+  "name" : "Lake Placid Airport",
+  "icao" : "KLKP",
+  "iata" : "LKP",
+  "isoCountryCode" : "US",
+  "elevation" : 1.747,
+  "latitude" : "44° 15' 52.11\" N",
+  "longitude" : "73° 57' 42.72\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lake_Placid_Airport"
+}

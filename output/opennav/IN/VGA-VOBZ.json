@@ -1,0 +1,11 @@
+{
+  "name" : "Vijayawada Airport",
+  "icao" : "VOBZ",
+  "iata" : "VGA",
+  "isoCountryCode" : "IN",
+  "elevation" : 82.0,
+  "latitude" : "16° 31' 49.44\" N",
+  "longitude" : "80° 47' 48.48\" E",
+  "website" : "https://www.aai.aero/en/airports/vijayawada",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vijayawada_Airport"
+}

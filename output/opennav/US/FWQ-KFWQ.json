@@ -1,0 +1,11 @@
+{
+  "name" : "Rostraver Airport",
+  "icao" : "KFWQ",
+  "iata" : "FWQ",
+  "isoCountryCode" : "US",
+  "elevation" : 1.228,
+  "latitude" : "40° 12' 35.00\" N",
+  "longitude" : "79° 49' 53.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rostraver_Airport"
+}

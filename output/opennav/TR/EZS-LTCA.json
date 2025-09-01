@@ -1,0 +1,11 @@
+{
+  "name" : "Elazığ Airport",
+  "icao" : "LTCA",
+  "iata" : "EZS",
+  "isoCountryCode" : "TR",
+  "elevation" : 813.0,
+  "latitude" : "38° 36' 24.84\" N",
+  "longitude" : "39° 17' 29.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Elazığ_Airport"
+}

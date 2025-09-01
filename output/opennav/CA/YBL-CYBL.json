@@ -1,0 +1,11 @@
+{
+  "name" : "Campbell River Airport",
+  "icao" : "CYBL",
+  "iata" : "YBL",
+  "isoCountryCode" : "CA",
+  "elevation" : 346.0,
+  "latitude" : "49° 57' 2.89\" N",
+  "longitude" : "125° 16' 15.61\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Campbell_River_Airport"
+}

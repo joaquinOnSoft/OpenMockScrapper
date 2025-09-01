@@ -1,0 +1,11 @@
+{
+  "name" : "Challis Airport",
+  "icao" : "KLLJ",
+  "iata" : "CHL",
+  "isoCountryCode" : "US",
+  "elevation" : 5.072,
+  "latitude" : "44° 31' 24.90\" N",
+  "longitude" : "114° 13' 4.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Challis_Airport"
+}

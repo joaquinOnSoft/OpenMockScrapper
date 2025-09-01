@@ -1,0 +1,11 @@
+{
+  "name" : "St George Airport",
+  "icao" : "YSGE",
+  "iata" : "SGO",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "28° 2' 58.92\" S",
+  "longitude" : "148° 35' 42.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St_George_Airport_(Queensland)"
+}

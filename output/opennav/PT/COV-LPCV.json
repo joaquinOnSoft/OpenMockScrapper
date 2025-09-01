@@ -1,0 +1,11 @@
+{
+  "name" : "Covilha Airport",
+  "icao" : "LPCV",
+  "iata" : "COV",
+  "isoCountryCode" : "PT",
+  "elevation" : 1.572,
+  "latitude" : "40° 15' 53.28\" N",
+  "longitude" : "7° 28' 47.86\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Covilhã_Airport"
+}

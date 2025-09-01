@@ -1,0 +1,11 @@
+{
+  "name" : "Ontario International Airport",
+  "icao" : "KONT",
+  "iata" : "ONT",
+  "isoCountryCode" : "US",
+  "elevation" : 944.0,
+  "latitude" : "34° 3' 21.60\" N",
+  "longitude" : "117° 36' 4.30\" W",
+  "website" : "https://www.flyontario.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ontario_International_Airport"
+}

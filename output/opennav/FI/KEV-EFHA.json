@@ -1,0 +1,11 @@
+{
+  "name" : "Halli Airport",
+  "icao" : "EFHA",
+  "iata" : "KEV",
+  "isoCountryCode" : "FI",
+  "elevation" : 0.0,
+  "latitude" : "61° 51' 21.60\" N",
+  "longitude" : "24° 47' 11.76\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Halli_Airport"
+}

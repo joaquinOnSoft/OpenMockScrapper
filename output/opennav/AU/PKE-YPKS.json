@@ -1,0 +1,11 @@
+{
+  "name" : "Parkes Airport",
+  "icao" : "YPKS",
+  "iata" : "PKE",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "33° 7' 53.04\" S",
+  "longitude" : "148° 14' 20.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Parkes_Airport"
+}

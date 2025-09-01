@@ -1,0 +1,11 @@
+{
+  "name" : "Eielson Air Force Base",
+  "icao" : "PAEI",
+  "iata" : "EIL",
+  "isoCountryCode" : "US",
+  "elevation" : 547.0,
+  "latitude" : "64° 39' 56.53\" N",
+  "longitude" : "147° 6' 7.22\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Eielson_Air_Force_Base"
+}

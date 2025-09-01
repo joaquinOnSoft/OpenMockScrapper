@@ -1,0 +1,11 @@
+{
+  "name" : "Port Said Airport",
+  "icao" : "HEPS",
+  "iata" : "PSD",
+  "isoCountryCode" : "EG",
+  "elevation" : 0.0,
+  "latitude" : "31° 16' 45.84\" N",
+  "longitude" : "32° 14' 24.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Port_Said_Airport"
+}

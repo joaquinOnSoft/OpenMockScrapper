@@ -1,0 +1,11 @@
+{
+  "name" : "Chaves Airport",
+  "icao" : "LPCH",
+  "iata" : "CHV",
+  "isoCountryCode" : "PT",
+  "elevation" : 0.0,
+  "latitude" : "41° 43' 20.37\" N",
+  "longitude" : "7° 27' 47.34\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chaves_Airport"
+}

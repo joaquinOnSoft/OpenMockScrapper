@@ -1,0 +1,11 @@
+{
+  "name" : "Shirak Airport",
+  "icao" : "UDSG",
+  "iata" : "LWN",
+  "isoCountryCode" : "AM",
+  "elevation" : 5.0,
+  "latitude" : "40° 45' 1.44\" N",
+  "longitude" : "43° 51' 33.48\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shirak_International_Airport"
+}

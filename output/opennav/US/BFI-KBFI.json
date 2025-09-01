@@ -1,0 +1,11 @@
+{
+  "name" : "Boeing Field/King County International Airport",
+  "icao" : "KBFI",
+  "iata" : "BFI",
+  "isoCountryCode" : "US",
+  "elevation" : 21.0,
+  "latitude" : "47° 31' 48.00\" N",
+  "longitude" : "122° 18' 7.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Boeing_Field"
+}

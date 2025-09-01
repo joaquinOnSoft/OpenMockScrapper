@@ -1,0 +1,11 @@
+{
+  "name" : "Harrison County Airport",
+  "icao" : "KASL",
+  "iata" : "ASL",
+  "isoCountryCode" : "US",
+  "elevation" : 357.0,
+  "latitude" : "32° 31' 13.80\" N",
+  "longitude" : "94° 18' 28.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Harrison_County_Airport_(Texas)"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Afyon Airport",
+  "icao" : "LTAH",
+  "iata" : "AFY",
+  "isoCountryCode" : "TR",
+  "elevation" : 3.31,
+  "latitude" : "38° 43' 35.03\" N",
+  "longitude" : "30° 36' 3.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Afyon_Airport"
+}

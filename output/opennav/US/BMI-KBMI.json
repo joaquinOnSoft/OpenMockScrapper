@@ -1,0 +1,11 @@
+{
+  "name" : "Central Illinois Regional Airport",
+  "icao" : "KBMI",
+  "iata" : "BMI",
+  "isoCountryCode" : "US",
+  "elevation" : 871.0,
+  "latitude" : "40° 28' 37.60\" N",
+  "longitude" : "88° 54' 57.30\" W",
+  "website" : "http://www.cira.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Central_Illinois_Regional_Airport"
+}

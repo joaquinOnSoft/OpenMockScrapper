@@ -1,0 +1,11 @@
+{
+  "name" : "Bourke Airport",
+  "icao" : "YBKE",
+  "iata" : "BRK",
+  "isoCountryCode" : "AU",
+  "elevation" : 352.0,
+  "latitude" : "30° 2' 21.12\" S",
+  "longitude" : "145° 57' 7.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bourke_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Altay Airport",
+  "icao" : "ZWAT",
+  "iata" : "AAT",
+  "isoCountryCode" : "CN",
+  "elevation" : 4.378,
+  "latitude" : "47° 44' 59.59\" N",
+  "longitude" : "88° 5' 8.91\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Altay_Airport"
+}

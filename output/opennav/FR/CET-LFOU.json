@@ -1,0 +1,11 @@
+{
+  "name" : "Le Pontreau Airport",
+  "icao" : "LFOU",
+  "iata" : "CET",
+  "isoCountryCode" : "FR",
+  "elevation" : 443.0,
+  "latitude" : "47° 4' 55.56\" N",
+  "longitude" : "0° 52' 37.43\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cholet_Le_Pontreau_Airport"
+}

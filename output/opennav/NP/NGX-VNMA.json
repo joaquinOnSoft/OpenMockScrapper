@@ -1,0 +1,11 @@
+{
+  "name" : "Manang Airport",
+  "icao" : "VNMA",
+  "iata" : "NGX",
+  "isoCountryCode" : "NP",
+  "elevation" : 11.093,
+  "latitude" : "28° 38' 29.04\" N",
+  "longitude" : "84° 5' 21.13\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Manang_Airport"
+}

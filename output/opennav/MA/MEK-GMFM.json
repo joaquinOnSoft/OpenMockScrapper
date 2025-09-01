@@ -1,0 +1,11 @@
+{
+  "name" : "Bassatine Airport",
+  "icao" : "GMFM",
+  "iata" : "MEK",
+  "isoCountryCode" : "MA",
+  "elevation" : 0.0,
+  "latitude" : "33° 52' 44.76\" N",
+  "longitude" : "5° 30' 54.43\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bassatine_Air_Base"
+}

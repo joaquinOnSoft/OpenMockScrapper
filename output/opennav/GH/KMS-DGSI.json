@@ -1,0 +1,11 @@
+{
+  "name" : "Kumasi Airport",
+  "icao" : "DGSI",
+  "iata" : "KMS",
+  "isoCountryCode" : "GH",
+  "elevation" : 942.0,
+  "latitude" : "6° 42' 52.42\" N",
+  "longitude" : "1° 35' 26.95\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kumasi_Airport"
+}

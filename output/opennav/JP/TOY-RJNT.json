@@ -1,0 +1,11 @@
+{
+  "name" : "Toyama Airport 富山空港 Toyama Kūkō",
+  "icao" : "RJNT",
+  "iata" : "TOY",
+  "isoCountryCode" : "JP",
+  "elevation" : 95.0,
+  "latitude" : "36° 38' 53.88\" N",
+  "longitude" : "137° 11' 16.81\" E",
+  "website" : "http://www.toyama-airport.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Toyama_Airport"
+}

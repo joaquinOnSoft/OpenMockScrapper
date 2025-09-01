@@ -1,0 +1,11 @@
+{
+  "name" : "Denver International Airport",
+  "icao" : "KDEN",
+  "iata" : "DEN",
+  "isoCountryCode" : "US",
+  "elevation" : 5.431,
+  "latitude" : "39° 51' 41.96\" N",
+  "longitude" : "104° 40' 23.44\" W",
+  "website" : "https://www.flydenver.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Denver_International_Airport"
+}

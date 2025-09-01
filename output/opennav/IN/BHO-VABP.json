@@ -1,0 +1,11 @@
+{
+  "name" : "Bhopal Airport",
+  "icao" : "VABP",
+  "iata" : "BHO",
+  "isoCountryCode" : "IN",
+  "elevation" : 1.719,
+  "latitude" : "23° 17' 15.00\" N",
+  "longitude" : "77° 20' 14.65\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Raja_Bhoj_Airport"
+}

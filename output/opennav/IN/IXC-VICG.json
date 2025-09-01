@@ -1,0 +1,11 @@
+{
+  "name" : "Chandigarh Airport",
+  "icao" : "VICG",
+  "iata" : "IXC",
+  "isoCountryCode" : "IN",
+  "elevation" : 1.012,
+  "latitude" : "30° 40' 24.60\" N",
+  "longitude" : "76° 47' 18.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chandigarh_Airport"
+}

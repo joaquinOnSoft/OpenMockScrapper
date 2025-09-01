@@ -1,0 +1,11 @@
+{
+  "name" : "Mallacoota Airport",
+  "icao" : "YMCO",
+  "iata" : "XMC",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "37° 35' 53.88\" S",
+  "longitude" : "149° 43' 12.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mallacoota_Airport"
+}

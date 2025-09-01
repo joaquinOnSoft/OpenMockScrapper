@@ -1,0 +1,11 @@
+{
+  "name" : "St. Clair County Airport",
+  "icao" : "KPLR",
+  "iata" : "PLR",
+  "isoCountryCode" : "US",
+  "elevation" : 485.0,
+  "latitude" : "33° 33' 31.80\" N",
+  "longitude" : "86° 14' 56.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Clair_County_Airport"
+}

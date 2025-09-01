@@ -1,0 +1,11 @@
+{
+  "name" : "Ivalo Airport",
+  "icao" : "EFIV",
+  "iata" : "IVL",
+  "isoCountryCode" : "FI",
+  "elevation" : 481.0,
+  "latitude" : "68° 36' 26.28\" N",
+  "longitude" : "27° 24' 19.08\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ivalo_Airport"
+}

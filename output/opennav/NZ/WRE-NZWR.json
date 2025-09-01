@@ -1,0 +1,11 @@
+{
+  "name" : "Whangarei Airport",
+  "icao" : "NZWR",
+  "iata" : "WRE",
+  "isoCountryCode" : "NZ",
+  "elevation" : 133.0,
+  "latitude" : "35° 46' 5.88\" S",
+  "longitude" : "174° 21' 54.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Whangarei_Airport"
+}

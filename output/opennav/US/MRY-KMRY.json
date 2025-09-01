@@ -1,0 +1,11 @@
+{
+  "name" : "Monterey Peninsula Airport",
+  "icao" : "KMRY",
+  "iata" : "MRY",
+  "isoCountryCode" : "US",
+  "elevation" : 257.0,
+  "latitude" : "36° 35' 13.20\" N",
+  "longitude" : "121° 50' 34.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Monterey_Regional_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Ibadan Airport",
+  "icao" : "DNIB",
+  "iata" : "IBA",
+  "isoCountryCode" : "NG",
+  "elevation" : 0.0,
+  "latitude" : "7° 21' 44.86\" N",
+  "longitude" : "3° 58' 41.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ibadan_Airport"
+}

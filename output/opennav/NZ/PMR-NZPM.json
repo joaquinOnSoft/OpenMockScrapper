@@ -1,0 +1,11 @@
+{
+  "name" : "Palmerston North International Airport",
+  "icao" : "NZPM",
+  "iata" : "PMR",
+  "isoCountryCode" : "NZ",
+  "elevation" : 151.0,
+  "latitude" : "40° 19' 14.15\" S",
+  "longitude" : "175° 37' 1.22\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Palmerston_North_Airport"
+}

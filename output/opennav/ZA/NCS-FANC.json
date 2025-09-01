@@ -1,0 +1,11 @@
+{
+  "name" : "Newcastle Airport",
+  "icao" : "FANC",
+  "iata" : "NCS",
+  "isoCountryCode" : "ZA",
+  "elevation" : 0.0,
+  "latitude" : "27° 46' 14.16\" S",
+  "longitude" : "29° 58' 36.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Newcastle_Airport_(South_Africa)"
+}

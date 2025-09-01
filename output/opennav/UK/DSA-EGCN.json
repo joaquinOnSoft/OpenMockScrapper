@@ -1,0 +1,11 @@
+{
+  "name" : "Doncaster Sheffield Airport",
+  "icao" : "EGCN",
+  "iata" : "DSA",
+  "isoCountryCode" : "UK",
+  "elevation" : 55.0,
+  "latitude" : "53° 28' 49.94\" N",
+  "longitude" : "1° 0' 38.36\" W",
+  "website" : "https://www.flydsa.co.uk",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Doncaster_Sheffield_Airport"
+}

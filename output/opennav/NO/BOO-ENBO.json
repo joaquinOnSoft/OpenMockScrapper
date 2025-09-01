@@ -1,0 +1,11 @@
+{
+  "name" : "Bodø Airport",
+  "icao" : "ENBO",
+  "iata" : "BOO",
+  "isoCountryCode" : "NO",
+  "elevation" : 42.0,
+  "latitude" : "67° 16' 9.13\" N",
+  "longitude" : "14° 21' 55.08\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bodø_Airport"
+}

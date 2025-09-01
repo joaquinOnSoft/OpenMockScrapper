@@ -1,0 +1,11 @@
+{
+  "name" : "Aqtobe Airport",
+  "icao" : "UATT",
+  "iata" : "AKX",
+  "isoCountryCode" : "KZ",
+  "elevation" : 738.0,
+  "latitude" : "50° 14' 44.88\" N",
+  "longitude" : "57° 12' 24.12\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aktobe_International_Airport"
+}

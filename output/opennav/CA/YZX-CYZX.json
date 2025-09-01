@@ -1,0 +1,11 @@
+{
+  "name" : "Greenwood Airport",
+  "icao" : "CYZX",
+  "iata" : "YZX",
+  "isoCountryCode" : "CA",
+  "elevation" : 92.0,
+  "latitude" : "44° 59' 3.85\" N",
+  "longitude" : "64° 55' 0.84\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/CFB_Greenwood"
+}

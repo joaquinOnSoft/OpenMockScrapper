@@ -1,0 +1,11 @@
+{
+  "name" : "Luleå Airport",
+  "icao" : "ESPA",
+  "iata" : "LLA",
+  "isoCountryCode" : "SE",
+  "elevation" : 65.0,
+  "latitude" : "65° 32' 37.68\" N",
+  "longitude" : "22° 7' 19.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Luleå_Airport"
+}

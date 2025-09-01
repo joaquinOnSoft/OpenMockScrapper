@@ -1,0 +1,11 @@
+{
+  "name" : "Coffey County Airport",
+  "icao" : "KUKL",
+  "iata" : "UKL",
+  "isoCountryCode" : "US",
+  "elevation" : 1.173,
+  "latitude" : "38° 18' 8.95\" N",
+  "longitude" : "95° 43' 29.85\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Coffey_County_Airport"
+}

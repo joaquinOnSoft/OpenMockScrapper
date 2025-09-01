@@ -1,0 +1,11 @@
+{
+  "name" : "Mercer County Airport",
+  "icao" : "KBLF",
+  "iata" : "BLF",
+  "isoCountryCode" : "US",
+  "elevation" : 2.857,
+  "latitude" : "37° 17' 44.90\" N",
+  "longitude" : "81° 12' 27.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mercer_County_Airport_(West_Virginia)"
+}

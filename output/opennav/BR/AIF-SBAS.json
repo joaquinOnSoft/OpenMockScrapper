@@ -1,0 +1,11 @@
+{
+  "name" : "Assis Airport",
+  "icao" : "SBAS",
+  "iata" : "AIF",
+  "isoCountryCode" : "BR",
+  "elevation" : 1.85,
+  "latitude" : "22° 38' 24.00\" S",
+  "longitude" : "50° 27' 11.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Assis_Airport"
+}

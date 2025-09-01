@@ -1,0 +1,11 @@
+{
+  "name" : "Tezpur Airport",
+  "icao" : "VETZ",
+  "iata" : "TEZ",
+  "isoCountryCode" : "IN",
+  "elevation" : 240.0,
+  "latitude" : "26° 42' 32.76\" N",
+  "longitude" : "92° 47' 4.91\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tezpur_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Paro Airport",
+  "icao" : "VQPR",
+  "iata" : "PBH",
+  "isoCountryCode" : "BT",
+  "elevation" : 7.332,
+  "latitude" : "27° 24' 11.52\" N",
+  "longitude" : "89° 25' 28.56\" E",
+  "website" : "https://www.paroairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Paro_Airport"
+}

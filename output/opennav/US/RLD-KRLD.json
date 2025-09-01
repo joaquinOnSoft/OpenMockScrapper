@@ -1,0 +1,11 @@
+{
+  "name" : "Richland Airport",
+  "icao" : "KRLD",
+  "iata" : "RLD",
+  "isoCountryCode" : "US",
+  "elevation" : 394.0,
+  "latitude" : "46° 18' 20.30\" N",
+  "longitude" : "119° 18' 15.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Richland_Airport_(Washington)"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Billy Mitchell Airport",
+  "icao" : "KHSE",
+  "iata" : "HSE",
+  "isoCountryCode" : "US",
+  "elevation" : 17.0,
+  "latitude" : "35° 13' 58.04\" N",
+  "longitude" : "75° 37' 4.06\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Billy_Mitchell_Airport"
+}

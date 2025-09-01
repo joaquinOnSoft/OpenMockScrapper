@@ -1,0 +1,11 @@
+{
+  "name" : "Midway International Airport",
+  "icao" : "KMDW",
+  "iata" : "MDW",
+  "isoCountryCode" : "US",
+  "elevation" : 620.0,
+  "latitude" : "41° 47' 9.50\" N",
+  "longitude" : "87° 45' 8.70\" W",
+  "website" : "https://www.flychicago.com/midway/pages/default.aspx",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chicago_Midway_Airport"
+}

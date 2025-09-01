@@ -1,0 +1,11 @@
+{
+  "name" : "Bangor International Airport",
+  "icao" : "KBGR",
+  "iata" : "BGR",
+  "isoCountryCode" : "US",
+  "elevation" : 192.0,
+  "latitude" : "44° 48' 26.80\" N",
+  "longitude" : "68° 49' 41.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bangor_International_Airport"
+}

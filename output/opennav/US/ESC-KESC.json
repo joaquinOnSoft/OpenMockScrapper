@@ -1,0 +1,11 @@
+{
+  "name" : "Delta County Airport",
+  "icao" : "KESC",
+  "iata" : "ESC",
+  "isoCountryCode" : "US",
+  "elevation" : 609.0,
+  "latitude" : "45° 43' 21.60\" N",
+  "longitude" : "87° 5' 37.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Delta_County_Airport"
+}

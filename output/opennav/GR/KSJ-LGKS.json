@@ -1,0 +1,11 @@
+{
+  "name" : "Kasos Airport",
+  "icao" : "LGKS",
+  "iata" : "KSJ",
+  "isoCountryCode" : "GR",
+  "elevation" : 0.0,
+  "latitude" : "35° 25' 17.03\" N",
+  "longitude" : "26° 54' 36.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kasos_Island_Public_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "East Midlands Airport",
+  "icao" : "EGNX",
+  "iata" : "EMA",
+  "isoCountryCode" : "UK",
+  "elevation" : 306.0,
+  "latitude" : "52° 49' 51.96\" N",
+  "longitude" : "1° 19' 41.02\" W",
+  "website" : "https://www.eastmidlandsairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/East_Midlands_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Eureka Airport",
+  "icao" : "CYEU",
+  "iata" : "YEU",
+  "isoCountryCode" : "CA",
+  "elevation" : 0.0,
+  "latitude" : "79° 59' 40.91\" N",
+  "longitude" : "85° 48' 51.12\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Eureka_Aerodrome"
+}

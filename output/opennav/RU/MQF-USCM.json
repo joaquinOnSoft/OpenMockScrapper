@@ -1,0 +1,11 @@
+{
+  "name" : "Magnitogorsk Airport",
+  "icao" : "USCM",
+  "iata" : "MQF",
+  "isoCountryCode" : "RU",
+  "elevation" : 1.43,
+  "latitude" : "53° 23' 35.16\" N",
+  "longitude" : "58° 45' 20.52\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Magnitogorsk_International_Airport"
+}

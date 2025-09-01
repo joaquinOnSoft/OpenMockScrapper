@@ -1,0 +1,11 @@
+{
+  "name" : "Trujillo Airport",
+  "icao" : "MHTJ",
+  "iata" : "TJI",
+  "isoCountryCode" : "HN",
+  "elevation" : 0.0,
+  "latitude" : "15° 55' 36.48\" N",
+  "longitude" : "85° 56' 17.53\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Trujillo_Airport"
+}

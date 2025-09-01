@@ -1,0 +1,11 @@
+{
+  "name" : "Port Columbus International Airport",
+  "icao" : "KCMH",
+  "iata" : "CMH",
+  "isoCountryCode" : "US",
+  "elevation" : 815.0,
+  "latitude" : "39° 59' 52.70\" N",
+  "longitude" : "82° 53' 30.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/John_Glenn_Columbus_International_Airport"
+}

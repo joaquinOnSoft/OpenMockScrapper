@@ -1,0 +1,11 @@
+{
+  "name" : "Tonopah Test Range Airport",
+  "icao" : "KTNX",
+  "iata" : "XSD",
+  "isoCountryCode" : "US",
+  "elevation" : 5.549,
+  "latitude" : "37° 47' 55.93\" N",
+  "longitude" : "116° 46' 50.64\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tonopah_Test_Range_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Düsseldorf-Mönchengladbach Airport",
+  "icao" : "EDLN",
+  "iata" : "MGL",
+  "isoCountryCode" : "DE",
+  "elevation" : 125.0,
+  "latitude" : "51° 13' 49.00\" N",
+  "longitude" : "6° 30' 16.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Düsseldorf-Mönchengladbach_Airport"
+}

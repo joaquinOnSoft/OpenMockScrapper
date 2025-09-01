@@ -1,0 +1,11 @@
+{
+  "name" : "Fort Smith Regional Airport",
+  "icao" : "KFSM",
+  "iata" : "FSM",
+  "isoCountryCode" : "US",
+  "elevation" : 469.0,
+  "latitude" : "35° 20' 11.70\" N",
+  "longitude" : "94° 22' 2.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fort_Smith_Regional_Airport"
+}

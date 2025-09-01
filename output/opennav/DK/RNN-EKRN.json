@@ -1,0 +1,11 @@
+{
+  "name" : "Bornholm Airport",
+  "icao" : "EKRN",
+  "iata" : "RNN",
+  "isoCountryCode" : "DK",
+  "elevation" : 52.0,
+  "latitude" : "55° 3' 47.88\" N",
+  "longitude" : "14° 45' 34.56\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bornholm_Airport"
+}

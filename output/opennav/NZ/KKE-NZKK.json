@@ -1,0 +1,11 @@
+{
+  "name" : "Bay of Islands Airport",
+  "icao" : "NZKK",
+  "iata" : "KKE",
+  "isoCountryCode" : "NZ",
+  "elevation" : 492.0,
+  "latitude" : "35° 15' 46.07\" S",
+  "longitude" : "173° 54' 43.21\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kerikeri_Airport"
+}

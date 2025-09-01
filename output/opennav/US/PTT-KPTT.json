@@ -1,0 +1,11 @@
+{
+  "name" : "Pratt Industrial Airport",
+  "icao" : "KPTT",
+  "iata" : "PTT",
+  "isoCountryCode" : "US",
+  "elevation" : 1.953,
+  "latitude" : "37° 42' 9.10\" N",
+  "longitude" : "98° 44' 49.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pratt_Regional_Airport"
+}

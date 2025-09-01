@@ -1,0 +1,11 @@
+{
+  "name" : "Melilla Airport",
+  "icao" : "GEML",
+  "iata" : "MLN",
+  "isoCountryCode" : "ES",
+  "elevation" : 156.0,
+  "latitude" : "35° 16' 47.28\" N",
+  "longitude" : "2° 57' 22.54\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Melilla_Airport"
+}

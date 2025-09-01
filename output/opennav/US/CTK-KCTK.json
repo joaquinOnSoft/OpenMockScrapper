@@ -1,0 +1,11 @@
+{
+  "name" : "Ingersoll Airport",
+  "icao" : "KCTK",
+  "iata" : "CTK",
+  "isoCountryCode" : "US",
+  "elevation" : 684.0,
+  "latitude" : "40° 34' 8.74\" N",
+  "longitude" : "90° 4' 29.42\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ingersoll_Airport"
+}

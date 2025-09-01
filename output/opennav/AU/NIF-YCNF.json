@@ -1,0 +1,11 @@
+{
+  "name" : "Camp Nifty Airport",
+  "icao" : "YCNF",
+  "iata" : "NIF",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "21° 40' 18.12\" S",
+  "longitude" : "121° 35' 13.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nifty_Airport"
+}

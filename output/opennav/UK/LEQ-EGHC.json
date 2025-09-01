@@ -1,0 +1,11 @@
+{
+  "name" : "Land's End Airport",
+  "icao" : "EGHC",
+  "iata" : "LEQ",
+  "isoCountryCode" : "UK",
+  "elevation" : 0.0,
+  "latitude" : "50° 6' 10.07\" N",
+  "longitude" : "5° 40' 14.02\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Land's_End_Airport"
+}

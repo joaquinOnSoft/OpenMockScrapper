@@ -1,0 +1,11 @@
+{
+  "name" : "Sault Ste. Marie Airport",
+  "icao" : "CYAM",
+  "iata" : "YAM",
+  "isoCountryCode" : "CA",
+  "elevation" : 630.0,
+  "latitude" : "46° 29' 6.00\" N",
+  "longitude" : "84° 30' 33.84\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sault_Ste._Marie_Airport"
+}

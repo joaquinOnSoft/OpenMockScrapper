@@ -1,0 +1,11 @@
+{
+  "name" : "Rolla National Airport",
+  "icao" : "KVIH",
+  "iata" : "VIH",
+  "isoCountryCode" : "US",
+  "elevation" : 1.148,
+  "latitude" : "38° 7' 38.70\" N",
+  "longitude" : "91° 46' 10.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rolla_National_Airport"
+}

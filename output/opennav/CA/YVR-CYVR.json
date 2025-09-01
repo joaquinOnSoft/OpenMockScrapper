@@ -1,0 +1,11 @@
+{
+  "name" : "Vancouver International Airport",
+  "icao" : "CYVR",
+  "iata" : "YVR",
+  "isoCountryCode" : "CA",
+  "elevation" : 14.0,
+  "latitude" : "49° 11' 38.04\" N",
+  "longitude" : "123° 11' 2.39\" W",
+  "website" : "http://www.yvr.ca",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vancouver_International_Airport"
+}

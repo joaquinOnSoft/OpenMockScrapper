@@ -1,0 +1,11 @@
+{
+  "name" : "Coonamble Airport",
+  "icao" : "YCNM",
+  "iata" : "CNB",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "30° 58' 59.88\" S",
+  "longitude" : "148° 22' 33.63\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Coonamble_Airport"
+}

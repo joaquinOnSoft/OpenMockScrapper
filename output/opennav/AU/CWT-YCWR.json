@@ -1,0 +1,11 @@
+{
+  "name" : "Cowra Airport",
+  "icao" : "YCWR",
+  "iata" : "CWT",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "33° 50' 40.92\" S",
+  "longitude" : "148° 38' 56.41\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cowra_Airport"
+}

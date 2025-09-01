@@ -1,0 +1,11 @@
+{
+  "name" : "Manchester Airport",
+  "icao" : "EGCC",
+  "iata" : "MAN",
+  "isoCountryCode" : "UK",
+  "elevation" : 257.0,
+  "latitude" : "53° 21' 13.32\" N",
+  "longitude" : "2° 16' 29.82\" W",
+  "website" : "https://www.manchesterairport.co.uk",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Manchester_Airport"
+}

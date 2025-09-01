@@ -1,0 +1,11 @@
+{
+  "name" : "Dubbo Airport",
+  "icao" : "YSDU",
+  "iata" : "DBO",
+  "isoCountryCode" : "AU",
+  "elevation" : 935.0,
+  "latitude" : "32° 13' 0.13\" S",
+  "longitude" : "148° 34' 29.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dubbo_City_Regional_Airport"
+}

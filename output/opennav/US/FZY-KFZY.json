@@ -1,0 +1,11 @@
+{
+  "name" : "Oswego County Airport",
+  "icao" : "KFZY",
+  "iata" : "FZY",
+  "isoCountryCode" : "US",
+  "elevation" : 475.0,
+  "latitude" : "43° 21' 2.79\" N",
+  "longitude" : "76° 23' 16.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Oswego_County_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Borroloola Airport",
+  "icao" : "YBRL",
+  "iata" : "BOX",
+  "isoCountryCode" : "AU",
+  "elevation" : 55.0,
+  "latitude" : "16° 4' 31.08\" S",
+  "longitude" : "136° 18' 7.21\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Borroloola_Airport"
+}

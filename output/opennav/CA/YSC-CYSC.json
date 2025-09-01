@@ -1,0 +1,11 @@
+{
+  "name" : "Sherbrooke Airport",
+  "icao" : "CYSC",
+  "iata" : "YSC",
+  "isoCountryCode" : "CA",
+  "elevation" : 792.0,
+  "latitude" : "45° 26' 18.96\" N",
+  "longitude" : "71° 41' 29.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sherbrooke_Airport"
+}

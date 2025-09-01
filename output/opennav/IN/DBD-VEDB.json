@@ -1,0 +1,11 @@
+{
+  "name" : "Dhanbad Airport",
+  "icao" : "VEDB",
+  "iata" : "DBD",
+  "isoCountryCode" : "IN",
+  "elevation" : 847.0,
+  "latitude" : "23° 50' 2.40\" N",
+  "longitude" : "86° 25' 31.08\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dhanbad_Airport"
+}

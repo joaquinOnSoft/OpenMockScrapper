@@ -1,0 +1,11 @@
+{
+  "name" : "Allegheny County Airport",
+  "icao" : "KAGC",
+  "iata" : "AGC",
+  "isoCountryCode" : "US",
+  "elevation" : 1.252,
+  "latitude" : "40° 21' 15.85\" N",
+  "longitude" : "79° 55' 48.61\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Allegheny_County_Airport"
+}

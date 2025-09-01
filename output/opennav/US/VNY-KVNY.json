@@ -1,0 +1,11 @@
+{
+  "name" : "Van Nuys Airport",
+  "icao" : "KVNY",
+  "iata" : "VNY",
+  "isoCountryCode" : "US",
+  "elevation" : 802.0,
+  "latitude" : "34° 12' 35.30\" N",
+  "longitude" : "118° 29' 23.90\" W",
+  "website" : "https://www.iflyvny.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Van_Nuys_Airport"
+}

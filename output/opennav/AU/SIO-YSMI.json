@@ -1,0 +1,11 @@
+{
+  "name" : "Smithton Airport",
+  "icao" : "YSMI",
+  "iata" : "SIO",
+  "isoCountryCode" : "AU",
+  "elevation" : 31.0,
+  "latitude" : "40° 50' 6.00\" S",
+  "longitude" : "145° 5' 2.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Smithton_Airport"
+}

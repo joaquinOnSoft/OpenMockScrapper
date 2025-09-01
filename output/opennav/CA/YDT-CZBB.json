@@ -1,0 +1,11 @@
+{
+  "name" : "Boundary Bay Airport",
+  "icao" : "CZBB",
+  "iata" : "YDT",
+  "isoCountryCode" : "CA",
+  "elevation" : 5.0,
+  "latitude" : "49° 4' 27.12\" N",
+  "longitude" : "123° 0' 43.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Boundary_Bay_Airport"
+}

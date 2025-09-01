@@ -1,0 +1,11 @@
+{
+  "name" : "Gorgan Airport",
+  "icao" : "OING",
+  "iata" : "GBT",
+  "isoCountryCode" : "IR",
+  "elevation" : 0.0,
+  "latitude" : "36° 54' 33.84\" N",
+  "longitude" : "54° 24' 4.67\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gorgan_Airport"
+}

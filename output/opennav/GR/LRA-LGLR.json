@@ -1,0 +1,11 @@
+{
+  "name" : "Larisa Airport",
+  "icao" : "LGLR",
+  "iata" : "LRA",
+  "isoCountryCode" : "GR",
+  "elevation" : 0.0,
+  "latitude" : "39° 39' 22.62\" N",
+  "longitude" : "22° 20' 24.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Larissa_National_Airport"
+}

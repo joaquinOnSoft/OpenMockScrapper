@@ -1,0 +1,11 @@
+{
+  "name" : "Tucson International Airport",
+  "icao" : "KTUS",
+  "iata" : "TUS",
+  "isoCountryCode" : "US",
+  "elevation" : 2.643,
+  "latitude" : "32° 6' 57.90\" N",
+  "longitude" : "110° 56' 27.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tucson_International_Airport"
+}

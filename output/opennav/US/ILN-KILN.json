@@ -1,0 +1,11 @@
+{
+  "name" : "Airborne Airpark",
+  "icao" : "KILN",
+  "iata" : "ILN",
+  "isoCountryCode" : "US",
+  "elevation" : 1.077,
+  "latitude" : "39° 25' 40.51\" N",
+  "longitude" : "83° 47' 31.63\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wilmington_Air_Park"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Mount Cook Airport",
+  "icao" : "NZMC",
+  "iata" : "MON",
+  "isoCountryCode" : "NZ",
+  "elevation" : 0.0,
+  "latitude" : "43° 45' 54.00\" S",
+  "longitude" : "170° 7' 58.78\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mount_Cook_Aerodrome"
+}

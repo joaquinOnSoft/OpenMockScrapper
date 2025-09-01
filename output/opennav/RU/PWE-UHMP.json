@@ -1,0 +1,11 @@
+{
+  "name" : "Pevek Airport",
+  "icao" : "UHMP",
+  "iata" : "PWE",
+  "isoCountryCode" : "RU",
+  "elevation" : 11.0,
+  "latitude" : "69° 46' 59.89\" N",
+  "longitude" : "170° 35' 49.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pevek_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Wrangell Airport",
+  "icao" : "PAWG",
+  "iata" : "WRG",
+  "isoCountryCode" : "US",
+  "elevation" : 44.0,
+  "latitude" : "56° 29' 3.48\" N",
+  "longitude" : "132° 22' 11.98\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wrangell_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Borba Airport",
+  "icao" : "SWBR",
+  "iata" : "RBB",
+  "isoCountryCode" : "BR",
+  "elevation" : 295.0,
+  "latitude" : "4° 24' 22.83\" S",
+  "longitude" : "59° 36' 8.53\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Borba_Airport"
+}

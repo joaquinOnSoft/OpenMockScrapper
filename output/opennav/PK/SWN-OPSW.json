@@ -1,0 +1,11 @@
+{
+  "name" : "Sahiwal Airport",
+  "icao" : "OPSW",
+  "iata" : "SWN",
+  "isoCountryCode" : "PK",
+  "elevation" : 0.0,
+  "latitude" : "31° 53' 22.00\" N",
+  "longitude" : "72° 23' 30.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/List_of_airports_in_Pakistan"
+}

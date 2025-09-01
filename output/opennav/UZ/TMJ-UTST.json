@@ -1,0 +1,11 @@
+{
+  "name" : "Termez Airport",
+  "icao" : "UTST",
+  "iata" : "TMJ",
+  "isoCountryCode" : "UZ",
+  "elevation" : 0.0,
+  "latitude" : "37° 17' 12.12\" N",
+  "longitude" : "67° 18' 35.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Termez_Airport"
+}

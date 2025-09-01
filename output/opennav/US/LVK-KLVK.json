@@ -1,0 +1,11 @@
+{
+  "name" : "Livermore Municipal Airport",
+  "icao" : "KLVK",
+  "iata" : "LVK",
+  "isoCountryCode" : "US",
+  "elevation" : 400.0,
+  "latitude" : "37° 41' 36.20\" N",
+  "longitude" : "121° 49' 13.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Livermore_Municipal_Airport"
+}

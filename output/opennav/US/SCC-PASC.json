@@ -1,0 +1,11 @@
+{
+  "name" : "Deadhorse Airport",
+  "icao" : "PASC",
+  "iata" : "SCC",
+  "isoCountryCode" : "US",
+  "elevation" : 65.0,
+  "latitude" : "70° 11' 40.93\" N",
+  "longitude" : "148° 27' 53.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Deadhorse_Airport"
+}

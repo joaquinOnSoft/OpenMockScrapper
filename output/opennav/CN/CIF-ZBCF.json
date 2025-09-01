@@ -1,0 +1,11 @@
+{
+  "name" : "Chifeng Airport",
+  "icao" : "ZBCF",
+  "iata" : "CIF",
+  "isoCountryCode" : "CN",
+  "elevation" : 0.0,
+  "latitude" : "42° 14' 6.00\" N",
+  "longitude" : "118° 54' 28.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chifeng_Yulong_Airport"
+}

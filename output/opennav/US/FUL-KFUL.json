@@ -1,0 +1,11 @@
+{
+  "name" : "Fullerton Municipal Airport",
+  "icao" : "KFUL",
+  "iata" : "FUL",
+  "isoCountryCode" : "US",
+  "elevation" : 96.0,
+  "latitude" : "33° 52' 19.25\" N",
+  "longitude" : "117° 58' 47.22\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fullerton_Municipal_Airport"
+}

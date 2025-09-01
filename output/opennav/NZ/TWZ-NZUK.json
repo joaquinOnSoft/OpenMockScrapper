@@ -1,0 +1,11 @@
+{
+  "name" : "Pukaki Airport",
+  "icao" : "NZUK",
+  "iata" : "TWZ",
+  "isoCountryCode" : "NZ",
+  "elevation" : 0.0,
+  "latitude" : "44° 14' 6.00\" S",
+  "longitude" : "170° 7' 4.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pukaki_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Daru Airport",
+  "icao" : "AYDU",
+  "iata" : "DAU",
+  "isoCountryCode" : "PG",
+  "elevation" : 20.0,
+  "latitude" : "9° 5' 12.33\" S",
+  "longitude" : "143° 12' 28.77\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Daru_Airport"
+}

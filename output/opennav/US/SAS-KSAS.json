@@ -1,0 +1,11 @@
+{
+  "name" : "Salton Sea Airport",
+  "icao" : "KSAS",
+  "iata" : "SAS",
+  "isoCountryCode" : "US",
+  "elevation" : -84.0,
+  "latitude" : "33° 14' 28.30\" N",
+  "longitude" : "115° 57' 9.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Salton_Sea_Airport"
+}

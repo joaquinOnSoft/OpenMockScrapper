@@ -1,0 +1,11 @@
+{
+  "name" : "Stillwater Regional Airport",
+  "icao" : "KSWO",
+  "iata" : "SWO",
+  "isoCountryCode" : "US",
+  "elevation" : 1.0,
+  "latitude" : "36° 9' 40.40\" N",
+  "longitude" : "97° 5' 8.50\" W",
+  "website" : "http://stillwater.org/airport/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Stillwater_Regional_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Macon Downtown Airport",
+  "icao" : "KMAC",
+  "iata" : "MAC",
+  "isoCountryCode" : "US",
+  "elevation" : 437.0,
+  "latitude" : "32° 49' 19.74\" N",
+  "longitude" : "83° 33' 43.25\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Macon_Downtown_Airport"
+}

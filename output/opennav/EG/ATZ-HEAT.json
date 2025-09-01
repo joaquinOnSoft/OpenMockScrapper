@@ -1,0 +1,11 @@
+{
+  "name" : "Assiut Airport",
+  "icao" : "HEAT",
+  "iata" : "ATZ",
+  "isoCountryCode" : "EG",
+  "elevation" : 772.0,
+  "latitude" : "27° 2' 47.40\" N",
+  "longitude" : "31° 0' 43.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Assiut_Airport"
+}

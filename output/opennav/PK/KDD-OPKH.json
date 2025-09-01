@@ -1,0 +1,11 @@
+{
+  "name" : "Khuzdar Airport",
+  "icao" : "OPKH",
+  "iata" : "KDD",
+  "isoCountryCode" : "PK",
+  "elevation" : 0.0,
+  "latitude" : "27° 47' 26.16\" N",
+  "longitude" : "66° 38' 50.28\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Khuzdar_Airport"
+}

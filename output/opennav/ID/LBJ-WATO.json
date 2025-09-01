@@ -1,0 +1,11 @@
+{
+  "name" : "Komodo Airport",
+  "icao" : "WATO",
+  "iata" : "LBJ",
+  "isoCountryCode" : "ID",
+  "elevation" : 66.0,
+  "latitude" : "8° 29' 11.98\" S",
+  "longitude" : "119° 53' 20.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Komodo_Airport"
+}

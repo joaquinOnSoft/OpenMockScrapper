@@ -1,4 +1,4 @@
-# Open Mock seatguru.com Scrapper
+# OpenMock's `seatguru.com` Scrapper
 
 ```
 Open Mock is a random data generator library for testing.

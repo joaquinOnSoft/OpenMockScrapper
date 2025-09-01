@@ -1,0 +1,11 @@
+{
+  "name" : "Sigonella Airport",
+  "icao" : "LICZ",
+  "iata" : "NSY",
+  "isoCountryCode" : "IT",
+  "elevation" : 0.0,
+  "latitude" : "37° 24' 6.12\" N",
+  "longitude" : "14° 55' 20.64\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Naval_Air_Station_Sigonella"
+}

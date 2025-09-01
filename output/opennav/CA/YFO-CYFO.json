@@ -1,0 +1,11 @@
+{
+  "name" : "Flin Flon Airport",
+  "icao" : "CYFO",
+  "iata" : "YFO",
+  "isoCountryCode" : "CA",
+  "elevation" : 997.0,
+  "latitude" : "54° 40' 41.16\" N",
+  "longitude" : "101° 40' 55.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Flin_Flon_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Gratiot Community Airport",
+  "icao" : "KAMN",
+  "iata" : "AMN",
+  "isoCountryCode" : "US",
+  "elevation" : 754.0,
+  "latitude" : "43° 19' 19.71\" N",
+  "longitude" : "84° 41' 16.62\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gratiot_Community_Airport"
+}

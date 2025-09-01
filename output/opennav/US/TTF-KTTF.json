@@ -1,0 +1,11 @@
+{
+  "name" : "Custer Airport",
+  "icao" : "KTTF",
+  "iata" : "TTF",
+  "isoCountryCode" : "US",
+  "elevation" : 616.0,
+  "latitude" : "41° 56' 23.60\" N",
+  "longitude" : "83° 26' 4.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Custer_Airport"
+}

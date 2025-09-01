@@ -1,0 +1,11 @@
+{
+  "name" : "Grayson County Airport",
+  "icao" : "KGYI",
+  "iata" : "GYI",
+  "isoCountryCode" : "US",
+  "elevation" : 749.0,
+  "latitude" : "33° 42' 50.80\" N",
+  "longitude" : "96° 40' 25.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/North_Texas_Regional_Airport"
+}

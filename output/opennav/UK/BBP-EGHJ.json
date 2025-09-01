@@ -1,0 +1,11 @@
+{
+  "name" : "Bembridge Airport",
+  "icao" : "EGHJ",
+  "iata" : "BBP",
+  "isoCountryCode" : "UK",
+  "elevation" : 147.0,
+  "latitude" : "50° 40' 41.16\" N",
+  "longitude" : "1° 6' 33.98\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bembridge_Airport"
+}

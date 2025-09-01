@@ -1,0 +1,11 @@
+{
+  "name" : "Hokitika Airport",
+  "icao" : "NZHK",
+  "iata" : "HKK",
+  "isoCountryCode" : "NZ",
+  "elevation" : 146.0,
+  "latitude" : "42° 42' 48.96\" S",
+  "longitude" : "170° 59' 6.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hokitika_Airport"
+}

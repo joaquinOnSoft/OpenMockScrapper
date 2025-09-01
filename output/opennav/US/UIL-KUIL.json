@@ -1,0 +1,11 @@
+{
+  "name" : "Quillayute Airport",
+  "icao" : "KUIL",
+  "iata" : "UIL",
+  "isoCountryCode" : "US",
+  "elevation" : 194.0,
+  "latitude" : "47° 56' 11.70\" N",
+  "longitude" : "124° 33' 45.48\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Quillayute_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Napa County Airport",
+  "icao" : "KAPC",
+  "iata" : "APC",
+  "isoCountryCode" : "US",
+  "elevation" : 35.0,
+  "latitude" : "38° 12' 47.50\" N",
+  "longitude" : "122° 16' 50.50\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Napa_County_Airport"
+}

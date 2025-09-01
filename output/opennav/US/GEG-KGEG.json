@@ -1,0 +1,11 @@
+{
+  "name" : "Spokane International Airport",
+  "icao" : "KGEG",
+  "iata" : "GEG",
+  "isoCountryCode" : "US",
+  "elevation" : 2.376,
+  "latitude" : "47° 37' 11.50\" N",
+  "longitude" : "117° 32' 1.80\" W",
+  "website" : "http://spokaneairports.net",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Spokane_International_Airport"
+}

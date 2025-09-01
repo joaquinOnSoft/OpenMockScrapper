@@ -1,0 +1,11 @@
+{
+  "name" : "Las Breas Airport",
+  "icao" : "SCTT",
+  "iata" : "TTC",
+  "isoCountryCode" : "CL",
+  "elevation" : 0.0,
+  "latitude" : "25° 33' 51.48\" S",
+  "longitude" : "70° 22' 33.24\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Las_Breas_Airport"
+}

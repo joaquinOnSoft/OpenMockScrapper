@@ -1,0 +1,11 @@
+{
+  "name" : "Hay Airport",
+  "icao" : "YHAY",
+  "iata" : "HXX",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "34° 31' 53.04\" S",
+  "longitude" : "144° 49' 48.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hay_Airport"
+}

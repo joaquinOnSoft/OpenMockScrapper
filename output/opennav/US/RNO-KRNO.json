@@ -1,0 +1,11 @@
+{
+  "name" : "Reno-Tahoe International Airport",
+  "icao" : "KRNO",
+  "iata" : "RNO",
+  "isoCountryCode" : "US",
+  "elevation" : 4.415,
+  "latitude" : "39° 29' 56.79\" N",
+  "longitude" : "119° 46' 5.19\" W",
+  "website" : "http://www.renoairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Reno-Tahoe_International_Airport"
+}

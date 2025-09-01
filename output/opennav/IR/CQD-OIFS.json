@@ -1,0 +1,11 @@
+{
+  "name" : "Shahre-Kord Airport",
+  "icao" : "OIFS",
+  "iata" : "CQD",
+  "isoCountryCode" : "IR",
+  "elevation" : 6.723,
+  "latitude" : "32° 17' 49.92\" N",
+  "longitude" : "50° 50' 31.92\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shahrekord_Airport"
+}

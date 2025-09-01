@@ -1,0 +1,11 @@
+{
+  "name" : "Sacheon Airport",
+  "icao" : "RKPS",
+  "iata" : "HIN",
+  "isoCountryCode" : "KR",
+  "elevation" : 25.0,
+  "latitude" : "35° 5' 18.60\" N",
+  "longitude" : "128° 4' 12.03\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sacheon_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Adıyaman Airport",
+  "icao" : "LTCP",
+  "iata" : "ADF",
+  "isoCountryCode" : "TR",
+  "elevation" : 2.216,
+  "latitude" : "37° 43' 53.04\" N",
+  "longitude" : "38° 28' 8.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Adıyaman_Airport"
+}

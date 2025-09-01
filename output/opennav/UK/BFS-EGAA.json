@@ -1,0 +1,11 @@
+{
+  "name" : "Belfast International Airport",
+  "icao" : "EGAA",
+  "iata" : "BFS",
+  "isoCountryCode" : "UK",
+  "elevation" : 268.0,
+  "latitude" : "54° 39' 27.00\" N",
+  "longitude" : "6° 12' 56.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Belfast_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Rankin Inlet Airport",
+  "icao" : "CYRT",
+  "iata" : "YRT",
+  "isoCountryCode" : "CA",
+  "elevation" : 94.0,
+  "latitude" : "62° 48' 41.04\" N",
+  "longitude" : "92° 6' 56.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rankin_Inlet_Airport"
+}

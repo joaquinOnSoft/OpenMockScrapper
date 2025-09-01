@@ -1,0 +1,11 @@
+{
+  "name" : "Resende Airport",
+  "icao" : "SDRS",
+  "iata" : "QRZ",
+  "isoCountryCode" : "BR",
+  "elevation" : 0.0,
+  "latitude" : "22° 28' 42.60\" S",
+  "longitude" : "44° 28' 49.08\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Resende_Airport"
+}

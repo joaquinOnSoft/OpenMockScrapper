@@ -1,0 +1,11 @@
+{
+  "name" : "St. Paul Island Airport",
+  "icao" : "PASN",
+  "iata" : "SNP",
+  "isoCountryCode" : "US",
+  "elevation" : 63.0,
+  "latitude" : "57° 10' 2.28\" N",
+  "longitude" : "170° 13' 12.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/St._Paul_Island_Airport"
+}

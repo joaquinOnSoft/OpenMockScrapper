@@ -1,0 +1,11 @@
+{
+  "name" : "Los Alamos Airport",
+  "icao" : "KLAM",
+  "iata" : "LAM",
+  "isoCountryCode" : "US",
+  "elevation" : 7.171,
+  "latitude" : "35° 52' 47.29\" N",
+  "longitude" : "106° 16' 9.89\" W",
+  "website" : "http://web.mac.com/spearingdane/Site/Home.html",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Los_Alamos_Airport"
+}

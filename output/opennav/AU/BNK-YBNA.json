@@ -1,0 +1,11 @@
+{
+  "name" : "Ballina Airport",
+  "icao" : "YBNA",
+  "iata" : "BNK",
+  "isoCountryCode" : "AU",
+  "elevation" : 7.0,
+  "latitude" : "28° 50' 2.04\" S",
+  "longitude" : "153° 33' 43.19\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ballina_Byron_Gateway_Airport"
+}

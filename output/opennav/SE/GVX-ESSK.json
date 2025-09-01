@@ -1,0 +1,11 @@
+{
+  "name" : "Gävle Sandviken Airport",
+  "icao" : "ESSK",
+  "iata" : "GVX",
+  "isoCountryCode" : "SE",
+  "elevation" : 0.0,
+  "latitude" : "60° 35' 35.88\" N",
+  "longitude" : "16° 57' 5.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gävle-Sandviken_Airport"
+}

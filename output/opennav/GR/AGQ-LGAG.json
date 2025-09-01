@@ -1,0 +1,11 @@
+{
+  "name" : "Agrinion Airport",
+  "icao" : "LGAG",
+  "iata" : "AGQ",
+  "isoCountryCode" : "GR",
+  "elevation" : 154.0,
+  "latitude" : "38° 36' 7.20\" N",
+  "longitude" : "21° 21' 4.32\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Agrinion_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bucharest \"Aurel Vlaicu\" Airport Bucharest City Airport",
+  "icao" : "LRBS",
+  "iata" : "BBU",
+  "isoCountryCode" : "RO",
+  "elevation" : 297.0,
+  "latitude" : "44° 30' 11.52\" N",
+  "longitude" : "26° 6' 7.56\" E",
+  "website" : "http://www.baneasa-airport.ro",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport"
+}

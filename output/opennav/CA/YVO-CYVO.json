@@ -1,0 +1,11 @@
+{
+  "name" : "Val-d'Or Airport",
+  "icao" : "CYVO",
+  "iata" : "YVO",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.107,
+  "latitude" : "48° 3' 11.88\" N",
+  "longitude" : "77° 46' 58.08\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Val-d'Or_Airport"
+}

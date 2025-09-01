@@ -1,0 +1,11 @@
+{
+  "name" : "Dole/Tavaux Airport",
+  "icao" : "LFGJ",
+  "iata" : "DLE",
+  "isoCountryCode" : "FR",
+  "elevation" : 645.0,
+  "latitude" : "47° 2' 20.41\" N",
+  "longitude" : "5° 25' 38.10\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dole-Jura_Airport"
+}

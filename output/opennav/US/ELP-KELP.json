@@ -1,0 +1,11 @@
+{
+  "name" : "El Paso International Airport",
+  "icao" : "KELP",
+  "iata" : "ELP",
+  "isoCountryCode" : "US",
+  "elevation" : 3.959,
+  "latitude" : "31° 48' 26.10\" N",
+  "longitude" : "106° 22' 39.30\" W",
+  "website" : "http://www.elpasointernationalairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/El_Paso_Airport"
+}

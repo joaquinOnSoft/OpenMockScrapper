@@ -1,0 +1,11 @@
+{
+  "name" : "Ruby Airport",
+  "icao" : "PARY",
+  "iata" : "RBY",
+  "isoCountryCode" : "US",
+  "elevation" : 658.0,
+  "latitude" : "64° 43' 37.93\" N",
+  "longitude" : "155° 28' 12.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ruby_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "St. Leonard Airport",
+  "icao" : "CYSL",
+  "iata" : "YSL",
+  "isoCountryCode" : "CA",
+  "elevation" : 793.0,
+  "latitude" : "47° 9' 27.00\" N",
+  "longitude" : "67° 50' 4.93\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Saint-Léonard_Aerodrome"
+}

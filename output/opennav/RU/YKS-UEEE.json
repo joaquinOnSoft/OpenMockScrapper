@@ -1,0 +1,11 @@
+{
+  "name" : "Yakutsk Airport",
+  "icao" : "UEEE",
+  "iata" : "YKS",
+  "isoCountryCode" : "RU",
+  "elevation" : 325.0,
+  "latitude" : "62° 5' 35.88\" N",
+  "longitude" : "129° 46' 15.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Yakutsk_Airport"
+}

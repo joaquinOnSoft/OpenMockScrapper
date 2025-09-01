@@ -1,0 +1,11 @@
+{
+  "name" : "Muskoka Airport",
+  "icao" : "CYQA",
+  "iata" : "YQA",
+  "isoCountryCode" : "CA",
+  "elevation" : 925.0,
+  "latitude" : "44° 58' 28.92\" N",
+  "longitude" : "79° 18' 11.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Muskoka_Airport"
+}

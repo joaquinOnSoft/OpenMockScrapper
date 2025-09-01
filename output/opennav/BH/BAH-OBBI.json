@@ -1,0 +1,11 @@
+{
+  "name" : "Bahrain International Airport",
+  "icao" : "OBBI",
+  "iata" : "BAH",
+  "isoCountryCode" : "BH",
+  "elevation" : 6.0,
+  "latitude" : "26° 16' 14.88\" N",
+  "longitude" : "50° 38' 0.95\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bahrain_International_Airport"
+}

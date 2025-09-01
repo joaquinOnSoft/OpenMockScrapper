@@ -1,0 +1,11 @@
+{
+  "name" : "Cunnamulla Airport",
+  "icao" : "YCMU",
+  "iata" : "CMA",
+  "isoCountryCode" : "AU",
+  "elevation" : 77.0,
+  "latitude" : "28° 1' 48.00\" S",
+  "longitude" : "145° 37' 19.18\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cunnamulla_Airport"
+}

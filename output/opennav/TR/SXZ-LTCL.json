@@ -1,0 +1,11 @@
+{
+  "name" : "Siirt Airport",
+  "icao" : "LTCL",
+  "iata" : "SXZ",
+  "isoCountryCode" : "TR",
+  "elevation" : 2.001,
+  "latitude" : "37° 58' 44.04\" N",
+  "longitude" : "41° 50' 25.44\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Siirt_Airport"
+}

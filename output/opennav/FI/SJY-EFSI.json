@@ -1,0 +1,11 @@
+{
+  "name" : "Seinäjoki Airport",
+  "icao" : "EFSI",
+  "iata" : "SJY",
+  "isoCountryCode" : "FI",
+  "elevation" : 302.0,
+  "latitude" : "62° 41' 31.56\" N",
+  "longitude" : "22° 49' 56.28\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Seinäjoki_Airport"
+}

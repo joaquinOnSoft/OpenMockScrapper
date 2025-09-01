@@ -1,0 +1,11 @@
+{
+  "name" : "Saga Airport 佐賀空港 Saga Kūkō",
+  "icao" : "RJFS",
+  "iata" : "HSG",
+  "isoCountryCode" : "JP",
+  "elevation" : 6.0,
+  "latitude" : "33° 8' 59.00\" N",
+  "longitude" : "130° 18' 8.00\" E",
+  "website" : "http://www.pref.saga.lg.jp/at-contents/kuko/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Saga_Airport"
+}

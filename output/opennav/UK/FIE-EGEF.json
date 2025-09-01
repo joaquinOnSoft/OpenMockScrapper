@@ -1,0 +1,11 @@
+{
+  "name" : "Fair Isle Airport",
+  "icao" : "EGEF",
+  "iata" : "FIE",
+  "isoCountryCode" : "UK",
+  "elevation" : 0.0,
+  "latitude" : "59° 32' 8.88\" N",
+  "longitude" : "1° 37' 41.02\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fair_Isle_Airport"
+}

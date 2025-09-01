@@ -1,0 +1,11 @@
+{
+  "name" : "San Sebastián Airport (or Fuenterrabia Airport)",
+  "icao" : "LESO",
+  "iata" : "EAS",
+  "isoCountryCode" : "ES",
+  "elevation" : 15.0,
+  "latitude" : "43° 21' 23.40\" N",
+  "longitude" : "1° 47' 26.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Sebastián_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cable Airport",
+  "icao" : "KCCB",
+  "iata" : "CCB",
+  "isoCountryCode" : "US",
+  "elevation" : 1.444,
+  "latitude" : "34° 6' 41.80\" N",
+  "longitude" : "117° 41' 14.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cable_Airport"
+}

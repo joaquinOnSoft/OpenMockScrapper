@@ -1,0 +1,11 @@
+{
+  "name" : "Odense Airport",
+  "icao" : "EKOD",
+  "iata" : "ODE",
+  "isoCountryCode" : "DK",
+  "elevation" : 56.0,
+  "latitude" : "55° 28' 36.12\" N",
+  "longitude" : "10° 19' 51.24\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hans_Christian_Andersen_Airport"
+}

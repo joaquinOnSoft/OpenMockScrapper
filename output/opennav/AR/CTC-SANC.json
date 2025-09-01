@@ -1,0 +1,11 @@
+{
+  "name" : "Catamarca Airport",
+  "icao" : "SANC",
+  "iata" : "CTC",
+  "isoCountryCode" : "AR",
+  "elevation" : 1.522,
+  "latitude" : "28° 35' 44.16\" S",
+  "longitude" : "65° 45' 6.12\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Coronel_Felipe_Varela_International_Airport"
+}

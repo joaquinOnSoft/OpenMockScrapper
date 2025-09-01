@@ -1,0 +1,11 @@
+{
+  "name" : "Osijek Airport",
+  "icao" : "LDOS",
+  "iata" : "OSI",
+  "isoCountryCode" : "HR",
+  "elevation" : 0.0,
+  "latitude" : "45° 27' 45.72\" N",
+  "longitude" : "18° 48' 36.72\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Osijek_Airport"
+}

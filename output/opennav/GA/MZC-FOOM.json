@@ -1,0 +1,11 @@
+{
+  "name" : "Mitzic Airport",
+  "icao" : "FOOM",
+  "iata" : "MZC",
+  "isoCountryCode" : "GA",
+  "elevation" : 0.0,
+  "latitude" : "0° 46' 58.80\" N",
+  "longitude" : "11° 33' 0.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mitzic_Airport"
+}

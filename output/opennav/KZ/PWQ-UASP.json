@@ -1,0 +1,11 @@
+{
+  "name" : "Pavlodar Airport",
+  "icao" : "UASP",
+  "iata" : "PWQ",
+  "isoCountryCode" : "KZ",
+  "elevation" : 410.0,
+  "latitude" : "52° 11' 42.00\" N",
+  "longitude" : "77° 4' 26.03\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pavlodar_Airport"
+}

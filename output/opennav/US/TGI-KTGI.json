@@ -1,0 +1,11 @@
+{
+  "name" : "Tangier Island Airport",
+  "icao" : "KTGI",
+  "iata" : "TGI",
+  "isoCountryCode" : "US",
+  "elevation" : 5.0,
+  "latitude" : "37° 49' 30.50\" N",
+  "longitude" : "75° 59' 52.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tangier_Island_Airport"
+}

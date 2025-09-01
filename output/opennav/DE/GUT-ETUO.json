@@ -1,0 +1,11 @@
+{
+  "name" : "Gütersloh Airport",
+  "icao" : "ETUO",
+  "iata" : "GUT",
+  "isoCountryCode" : "DE",
+  "elevation" : 0.0,
+  "latitude" : "51° 55' 22.07\" N",
+  "longitude" : "8° 18' 22.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/RAF_Gütersloh"
+}

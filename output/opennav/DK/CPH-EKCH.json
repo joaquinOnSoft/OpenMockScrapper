@@ -1,0 +1,11 @@
+{
+  "name" : "Copenhagen Airport",
+  "icao" : "EKCH",
+  "iata" : "CPH",
+  "isoCountryCode" : "DK",
+  "elevation" : 17.0,
+  "latitude" : "55° 37' 4.44\" N",
+  "longitude" : "12° 39' 21.60\" E",
+  "website" : "https://www.cph.dk",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Copenhagen_Airport"
+}

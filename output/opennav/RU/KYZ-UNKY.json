@@ -1,0 +1,11 @@
+{
+  "name" : "Kyzyl Airport",
+  "icao" : "UNKY",
+  "iata" : "KYZ",
+  "isoCountryCode" : "RU",
+  "elevation" : 0.0,
+  "latitude" : "51° 40' 9.84\" N",
+  "longitude" : "94° 24' 2.15\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kyzyl_Airport"
+}

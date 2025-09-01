@@ -1,0 +1,11 @@
+{
+  "name" : "Cambridge-Dorchester Airport",
+  "icao" : "KCGE",
+  "iata" : "CGE",
+  "isoCountryCode" : "US",
+  "elevation" : 20.0,
+  "latitude" : "38° 32' 21.60\" N",
+  "longitude" : "76° 1' 49.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cambridge-Dorchester_Airport"
+}

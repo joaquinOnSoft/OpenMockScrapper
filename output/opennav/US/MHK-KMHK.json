@@ -1,0 +1,11 @@
+{
+  "name" : "Manhattan Regional Airport",
+  "icao" : "KMHK",
+  "iata" : "MHK",
+  "isoCountryCode" : "US",
+  "elevation" : 1.057,
+  "latitude" : "39° 8' 27.50\" N",
+  "longitude" : "96° 40' 15.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Manhattan_Regional_Airport"
+}

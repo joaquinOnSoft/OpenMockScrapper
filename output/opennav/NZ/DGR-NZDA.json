@@ -1,0 +1,11 @@
+{
+  "name" : "Dargaville Airport",
+  "icao" : "NZDA",
+  "iata" : "DGR",
+  "isoCountryCode" : "NZ",
+  "elevation" : 0.0,
+  "latitude" : "35° 56' 22.92\" S",
+  "longitude" : "173° 53' 38.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dargaville_Aerodrome"
+}

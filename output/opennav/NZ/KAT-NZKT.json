@@ -1,0 +1,11 @@
+{
+  "name" : "Kaitaia Airport",
+  "icao" : "NZKT",
+  "iata" : "KAT",
+  "isoCountryCode" : "NZ",
+  "elevation" : 270.0,
+  "latitude" : "35° 4' 12.00\" S",
+  "longitude" : "173° 17' 6.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kaitaia_Airport"
+}

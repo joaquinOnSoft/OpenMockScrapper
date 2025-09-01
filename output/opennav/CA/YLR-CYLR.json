@@ -1,0 +1,11 @@
+{
+  "name" : "Leaf Rapids Airport",
+  "icao" : "CYLR",
+  "iata" : "YLR",
+  "isoCountryCode" : "CA",
+  "elevation" : 959.0,
+  "latitude" : "56° 30' 47.89\" N",
+  "longitude" : "99° 59' 7.07\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Leaf_Rapids_Airport"
+}

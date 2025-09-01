@@ -1,0 +1,11 @@
+{
+  "name" : "Rosita Airport",
+  "icao" : "MNRT",
+  "iata" : "RFS",
+  "isoCountryCode" : "NI",
+  "elevation" : 0.0,
+  "latitude" : "13° 53' 22.92\" N",
+  "longitude" : "84° 24' 32.03\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rosita_Airport"
+}

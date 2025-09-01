@@ -1,0 +1,11 @@
+{
+  "name" : "Paderborn/Lippstadt Airport",
+  "icao" : "EDLP",
+  "iata" : "PAD",
+  "isoCountryCode" : "DE",
+  "elevation" : 699.0,
+  "latitude" : "51° 36' 50.77\" N",
+  "longitude" : "8° 36' 58.75\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Paderborn_Lippstadt_Airport"
+}

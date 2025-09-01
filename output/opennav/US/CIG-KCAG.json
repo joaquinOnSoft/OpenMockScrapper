@@ -1,0 +1,11 @@
+{
+  "name" : "Craig-Moffat Airport",
+  "icao" : "KCAG",
+  "iata" : "CIG",
+  "isoCountryCode" : "US",
+  "elevation" : 6.193,
+  "latitude" : "40° 29' 42.80\" N",
+  "longitude" : "107° 31' 17.93\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Craig-Moffat_Airport"
+}

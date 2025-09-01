@@ -1,0 +1,11 @@
+{
+  "name" : "Dresden Klotzsche Airport (Flughafen Dresden)",
+  "icao" : "EDDC",
+  "iata" : "DRS",
+  "isoCountryCode" : "DE",
+  "elevation" : 755.0,
+  "latitude" : "51° 7' 58.08\" N",
+  "longitude" : "13° 46' 1.92\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dresden_Airport"
+}

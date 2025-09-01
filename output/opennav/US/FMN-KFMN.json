@@ -1,0 +1,11 @@
+{
+  "name" : "Four Corners Regional Airport",
+  "icao" : "KFMN",
+  "iata" : "FMN",
+  "isoCountryCode" : "US",
+  "elevation" : 5.506,
+  "latitude" : "36° 44' 28.50\" N",
+  "longitude" : "108° 13' 47.80\" W",
+  "website" : "http://www.farmington.nm.us/depts/comdev/airport/airport.html",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Four_Corners_Regional_Airport"
+}

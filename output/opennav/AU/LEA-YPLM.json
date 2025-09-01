@@ -1,0 +1,11 @@
+{
+  "name" : "Learmonth Airport",
+  "icao" : "YPLM",
+  "iata" : "LEA",
+  "isoCountryCode" : "AU",
+  "elevation" : 19.0,
+  "latitude" : "22° 14' 8.16\" S",
+  "longitude" : "114° 5' 20.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Learmonth_Airport"
+}

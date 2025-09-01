@@ -1,0 +1,11 @@
+{
+  "name" : "Nicaro Airport",
+  "icao" : "MUNC",
+  "iata" : "ICR",
+  "isoCountryCode" : "CU",
+  "elevation" : 0.0,
+  "latitude" : "20° 41' 18.96\" N",
+  "longitude" : "75° 31' 53.41\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nicaro_Airport"
+}

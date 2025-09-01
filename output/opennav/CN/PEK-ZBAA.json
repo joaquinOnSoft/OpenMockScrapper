@@ -1,0 +1,11 @@
+{
+  "name" : "Beijing Capital International Airport",
+  "icao" : "ZBAA",
+  "iata" : "PEK",
+  "isoCountryCode" : "CN",
+  "elevation" : 116.0,
+  "latitude" : "40° 4' 20.00\" N",
+  "longitude" : "116° 35' 13.00\" E",
+  "website" : "http://www.bcia.com.cn",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Beijing_Capital_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Aldan Airport",
+  "icao" : "UEEA",
+  "iata" : "ADH",
+  "isoCountryCode" : "RU",
+  "elevation" : 0.0,
+  "latitude" : "58° 36' 10.07\" N",
+  "longitude" : "125° 24' 32.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aldan_Airport"
+}

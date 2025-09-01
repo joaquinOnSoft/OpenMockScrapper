@@ -1,0 +1,11 @@
+{
+  "name" : "Phoenix-Mesa Gateway Airport",
+  "icao" : "KIWA",
+  "iata" : "AZA",
+  "isoCountryCode" : "US",
+  "elevation" : 1.384,
+  "latitude" : "33° 18' 28.08\" N",
+  "longitude" : "111° 39' 18.00\" W",
+  "website" : "https://www.gatewayairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Phoenix–Mesa_Gateway_Airport"
+}

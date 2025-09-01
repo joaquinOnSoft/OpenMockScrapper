@@ -1,0 +1,11 @@
+{
+  "name" : "Windham Airport",
+  "icao" : "KIJD",
+  "iata" : "IJD",
+  "isoCountryCode" : "US",
+  "elevation" : 247.0,
+  "latitude" : "41° 44' 38.54\" N",
+  "longitude" : "72° 10' 48.85\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Windham_Airport"
+}

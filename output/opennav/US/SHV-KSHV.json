@@ -1,0 +1,11 @@
+{
+  "name" : "Shreveport Regional Airport",
+  "icao" : "KSHV",
+  "iata" : "SHV",
+  "isoCountryCode" : "US",
+  "elevation" : 258.0,
+  "latitude" : "32° 26' 47.86\" N",
+  "longitude" : "93° 49' 32.16\" W",
+  "website" : "http://www.ci.shreveport.la.us/dept/airport/regionalair.htm",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shreveport_Regional_Airport"
+}

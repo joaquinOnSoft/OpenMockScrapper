@@ -1,0 +1,11 @@
+{
+  "name" : "Tri-Cities Regional Airport",
+  "icao" : "KTRI",
+  "iata" : "TRI",
+  "isoCountryCode" : "US",
+  "elevation" : 1.519,
+  "latitude" : "36° 28' 30.80\" N",
+  "longitude" : "82° 24' 26.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tri-Cities_Regional_Airport"
+}

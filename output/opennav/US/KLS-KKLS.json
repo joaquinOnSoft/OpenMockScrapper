@@ -1,0 +1,11 @@
+{
+  "name" : "Kelso-Longview Airport",
+  "icao" : "KKLS",
+  "iata" : "KLS",
+  "isoCountryCode" : "US",
+  "elevation" : 20.0,
+  "latitude" : "46° 7' 4.80\" N",
+  "longitude" : "122° 53' 54.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Southwest_Washington_Regional_Airport"
+}

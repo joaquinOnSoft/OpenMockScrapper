@@ -1,0 +1,11 @@
+{
+  "name" : "NAS Point Mugu (Naval Base Ventura County)",
+  "icao" : "KNTD",
+  "iata" : "NTD",
+  "isoCountryCode" : "US",
+  "elevation" : 13.0,
+  "latitude" : "34° 7' 13.03\" N",
+  "longitude" : "119° 7' 15.38\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Naval_Air_Station_Point_Mugu"
+}

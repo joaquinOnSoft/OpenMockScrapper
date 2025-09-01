@@ -1,0 +1,11 @@
+{
+  "name" : "Kitchener/Waterloo Regional Airport",
+  "icao" : "CYKF",
+  "iata" : "YKF",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.054,
+  "latitude" : "43° 27' 38.88\" N",
+  "longitude" : "80° 22' 42.96\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Region_of_Waterloo_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Thisted Airport",
+  "icao" : "EKTS",
+  "iata" : "TED",
+  "isoCountryCode" : "DK",
+  "elevation" : 23.0,
+  "latitude" : "57° 4' 7.69\" N",
+  "longitude" : "8° 42' 18.79\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Thisted_Airport"
+}

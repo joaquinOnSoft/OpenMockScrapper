@@ -1,0 +1,11 @@
+{
+  "name" : "Aramac Airport",
+  "icao" : "YAMC",
+  "iata" : "AXC",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "22° 58' 0.12\" S",
+  "longitude" : "145° 14' 31.22\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aramac_Airport"
+}

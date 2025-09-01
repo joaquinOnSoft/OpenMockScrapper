@@ -1,0 +1,11 @@
+{
+  "name" : "Aeroporto de Santa Maria",
+  "icao" : "LPAZ",
+  "iata" : "SMA",
+  "isoCountryCode" : "PT",
+  "elevation" : 308.0,
+  "latitude" : "36° 58' 17.04\" N",
+  "longitude" : "25° 10' 14.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Azores)"
+}

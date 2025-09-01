@@ -1,0 +1,11 @@
+{
+  "name" : "Jackson Hole Airport",
+  "icao" : "KJAC",
+  "iata" : "JAC",
+  "isoCountryCode" : "US",
+  "elevation" : 6.451,
+  "latitude" : "43° 36' 26.40\" N",
+  "longitude" : "110° 44' 15.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jackson_Hole_Airport"
+}

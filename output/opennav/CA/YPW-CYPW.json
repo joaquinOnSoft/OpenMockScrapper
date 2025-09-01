@@ -1,0 +1,11 @@
+{
+  "name" : "Powell River Airport",
+  "icao" : "CYPW",
+  "iata" : "YPW",
+  "isoCountryCode" : "CA",
+  "elevation" : 425.0,
+  "latitude" : "49° 50' 3.13\" N",
+  "longitude" : "124° 30' 0.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Powell_River_Airport"
+}

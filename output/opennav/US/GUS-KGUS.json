@@ -1,0 +1,11 @@
+{
+  "name" : "Grissom ARB",
+  "icao" : "KGUS",
+  "iata" : "GUS",
+  "isoCountryCode" : "US",
+  "elevation" : 812.0,
+  "latitude" : "40° 38' 53.14\" N",
+  "longitude" : "86° 9' 7.63\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Grissom_Air_Reserve_Base"
+}

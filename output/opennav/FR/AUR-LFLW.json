@@ -1,0 +1,11 @@
+{
+  "name" : "Aurillac Airport",
+  "icao" : "LFLW",
+  "iata" : "AUR",
+  "isoCountryCode" : "FR",
+  "elevation" : 2.096,
+  "latitude" : "44° 53' 29.04\" N",
+  "longitude" : "2° 25' 18.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aurillac_–_Tronquières_Airport"
+}

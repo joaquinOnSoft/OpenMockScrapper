@@ -1,0 +1,11 @@
+{
+  "name" : "Gallup Municipal Airport",
+  "icao" : "KGUP",
+  "iata" : "GUP",
+  "isoCountryCode" : "US",
+  "elevation" : 6.472,
+  "latitude" : "35° 30' 39.81\" N",
+  "longitude" : "108° 47' 21.51\" W",
+  "website" : "http://www.ci.gallup.nm.us/airport/airporthmpg.htm",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gallup_Municipal_Airport"
+}

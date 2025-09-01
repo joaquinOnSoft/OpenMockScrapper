@@ -1,0 +1,11 @@
+{
+  "name" : "Gostomel Airport",
+  "icao" : "UKKM",
+  "iata" : "GML",
+  "isoCountryCode" : "UA",
+  "elevation" : 517.0,
+  "latitude" : "50° 36' 12.60\" N",
+  "longitude" : "30° 11' 30.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hostomel_Airport"
+}

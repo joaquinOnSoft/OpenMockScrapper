@@ -1,0 +1,11 @@
+{
+  "name" : "Kingston Airport",
+  "icao" : "CYGK",
+  "iata" : "YGK",
+  "isoCountryCode" : "CA",
+  "elevation" : 305.0,
+  "latitude" : "44° 13' 31.08\" N",
+  "longitude" : "76° 35' 48.84\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kingston_Norman_Rogers_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Phetchabun Airport",
+  "icao" : "VTPB",
+  "iata" : "PHY",
+  "isoCountryCode" : "TH",
+  "elevation" : 450.0,
+  "latitude" : "16° 40' 33.60\" N",
+  "longitude" : "101° 11' 42.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Phetchabun_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Thompson Falls Airport",
+  "icao" : "KTHM",
+  "iata" : "THM",
+  "isoCountryCode" : "US",
+  "elevation" : 2.467,
+  "latitude" : "47° 34' 24.60\" N",
+  "longitude" : "115° 16' 50.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Thompson_Falls_Airport"
+}

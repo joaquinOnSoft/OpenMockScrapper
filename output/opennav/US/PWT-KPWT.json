@@ -1,0 +1,11 @@
+{
+  "name" : "Bremerton National Airport",
+  "icao" : "KPWT",
+  "iata" : "PWT",
+  "isoCountryCode" : "US",
+  "elevation" : 444.0,
+  "latitude" : "47° 29' 24.88\" N",
+  "longitude" : "122° 45' 53.33\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bremerton_National_Airport"
+}

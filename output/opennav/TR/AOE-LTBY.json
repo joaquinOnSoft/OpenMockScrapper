@@ -1,0 +1,11 @@
+{
+  "name" : "Anadolu Airport",
+  "icao" : "LTBY",
+  "iata" : "AOE",
+  "isoCountryCode" : "TR",
+  "elevation" : 2.588,
+  "latitude" : "39° 48' 35.63\" N",
+  "longitude" : "30° 31' 9.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hasan_Polatkan_Airport"
+}

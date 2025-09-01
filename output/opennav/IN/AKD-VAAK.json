@@ -1,0 +1,11 @@
+{
+  "name" : "Akola Airport",
+  "icao" : "VAAK",
+  "iata" : "AKD",
+  "isoCountryCode" : "IN",
+  "elevation" : 999.0,
+  "latitude" : "20° 41' 56.40\" N",
+  "longitude" : "77° 3' 30.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Akola_Airport"
+}

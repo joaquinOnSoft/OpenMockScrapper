@@ -1,0 +1,11 @@
+{
+  "name" : "Williams Lake Airport",
+  "icao" : "CYWL",
+  "iata" : "YWL",
+  "isoCountryCode" : "CA",
+  "elevation" : 3.085,
+  "latitude" : "52° 10' 59.17\" N",
+  "longitude" : "122° 3' 14.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Williams_Lake_Airport"
+}

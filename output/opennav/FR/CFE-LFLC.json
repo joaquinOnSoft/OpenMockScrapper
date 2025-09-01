@@ -1,0 +1,11 @@
+{
+  "name" : "Auvergne Airport",
+  "icao" : "LFLC",
+  "iata" : "CFE",
+  "isoCountryCode" : "FR",
+  "elevation" : 967.0,
+  "latitude" : "45° 47' 12.12\" N",
+  "longitude" : "3° 10' 9.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Clermont-Ferrand_Auvergne_Airport"
+}

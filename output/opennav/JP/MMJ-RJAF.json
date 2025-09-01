@@ -1,0 +1,11 @@
+{
+  "name" : "Matsumoto Airport 松本空港 Shinshu Matsumoto Kūkō Shinshu-Matsumoto Airport",
+  "icao" : "RJAF",
+  "iata" : "MMJ",
+  "isoCountryCode" : "JP",
+  "elevation" : 2.182,
+  "latitude" : "36° 10' 0.33\" N",
+  "longitude" : "137° 55' 21.61\" E",
+  "website" : "http://www.matsumoto-airport.co.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Matsumoto_Airport"
+}

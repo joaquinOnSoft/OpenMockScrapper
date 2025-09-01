@@ -1,0 +1,11 @@
+{
+  "name" : "Baden Airpark",
+  "icao" : "EDSB",
+  "iata" : "FKB",
+  "isoCountryCode" : "DE",
+  "elevation" : 408.0,
+  "latitude" : "48° 46' 45.84\" N",
+  "longitude" : "8° 4' 49.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Karlsruhe/Baden-Baden_Airport"
+}

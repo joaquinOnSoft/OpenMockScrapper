@@ -1,0 +1,11 @@
+{
+  "name" : "Cross City Airport",
+  "icao" : "KCTY",
+  "iata" : "CTY",
+  "isoCountryCode" : "US",
+  "elevation" : 42.0,
+  "latitude" : "29° 38' 7.90\" N",
+  "longitude" : "83° 6' 17.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cross_City_Airport"
+}

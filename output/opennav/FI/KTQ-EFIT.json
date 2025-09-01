@@ -1,0 +1,11 @@
+{
+  "name" : "Kitee Airport",
+  "icao" : "EFIT",
+  "iata" : "KTQ",
+  "isoCountryCode" : "FI",
+  "elevation" : 0.0,
+  "latitude" : "62° 9' 57.96\" N",
+  "longitude" : "30° 4' 24.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kitee_Airfield"
+}

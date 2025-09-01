@@ -1,0 +1,11 @@
+{
+  "name" : "Garons Airport",
+  "icao" : "LFTW",
+  "iata" : "FNI",
+  "isoCountryCode" : "FR",
+  "elevation" : 309.0,
+  "latitude" : "43° 45' 26.64\" N",
+  "longitude" : "4° 24' 58.86\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nîmes–Alès–Camargue–Cévennes_Airport"
+}

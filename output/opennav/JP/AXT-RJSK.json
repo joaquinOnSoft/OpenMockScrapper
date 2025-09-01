@@ -1,0 +1,11 @@
+{
+  "name" : "Akita Airport 秋田空港 Akita Kūkō",
+  "icao" : "RJSK",
+  "iata" : "AXT",
+  "isoCountryCode" : "JP",
+  "elevation" : 313.0,
+  "latitude" : "39° 36' 56.16\" N",
+  "longitude" : "140° 13' 8.38\" E",
+  "website" : "http://www.akita-airport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Akita_Airport"
+}

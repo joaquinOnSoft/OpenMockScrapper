@@ -1,0 +1,11 @@
+{
+  "name" : "Wrigley Airport",
+  "icao" : "CYWY",
+  "iata" : "YWY",
+  "isoCountryCode" : "CA",
+  "elevation" : 489.0,
+  "latitude" : "63° 12' 33.84\" N",
+  "longitude" : "123° 26' 13.19\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wrigley_Airport"
+}

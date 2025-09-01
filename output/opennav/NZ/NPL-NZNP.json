@@ -1,0 +1,11 @@
+{
+  "name" : "New Plymouth Airport",
+  "icao" : "NZNP",
+  "iata" : "NPL",
+  "isoCountryCode" : "NZ",
+  "elevation" : 97.0,
+  "latitude" : "39° 0' 30.95\" S",
+  "longitude" : "174° 10' 44.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_Plymouth_Airport"
+}

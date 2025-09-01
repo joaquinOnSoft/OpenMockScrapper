@@ -1,0 +1,11 @@
+{
+  "name" : "Wilson Airport",
+  "icao" : "HKNW",
+  "iata" : "WIL",
+  "isoCountryCode" : "KE",
+  "elevation" : 5.536,
+  "latitude" : "1° 19' 18.19\" S",
+  "longitude" : "36° 48' 53.28\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wilson_Airport"
+}

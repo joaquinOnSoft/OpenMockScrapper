@@ -1,0 +1,11 @@
+{
+  "name" : "Kapalua Airport",
+  "icao" : "PHJH",
+  "iata" : "JHM",
+  "isoCountryCode" : "US",
+  "elevation" : 256.0,
+  "latitude" : "20° 57' 46.44\" N",
+  "longitude" : "156° 40' 22.81\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kapalua_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Rio Mayo Airport",
+  "icao" : "SAWM",
+  "iata" : "ROY",
+  "isoCountryCode" : "AR",
+  "elevation" : 0.0,
+  "latitude" : "45° 42' 14.04\" S",
+  "longitude" : "70° 14' 44.15\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Río_Mayo_Airport"
+}

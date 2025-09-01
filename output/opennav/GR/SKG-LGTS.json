@@ -1,0 +1,11 @@
+{
+  "name" : "Makedonia Airport",
+  "icao" : "LGTS",
+  "iata" : "SKG",
+  "isoCountryCode" : "GR",
+  "elevation" : 22.0,
+  "latitude" : "40° 31' 10.92\" N",
+  "longitude" : "22° 58' 15.24\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Thessaloniki_Airport"
+}

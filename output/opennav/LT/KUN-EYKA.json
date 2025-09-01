@@ -1,0 +1,11 @@
+{
+  "name" : "Kaunas International Airport",
+  "icao" : "EYKA",
+  "iata" : "KUN",
+  "isoCountryCode" : "LT",
+  "elevation" : 256.0,
+  "latitude" : "54° 57' 50.05\" N",
+  "longitude" : "24° 5' 5.28\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kaunas_Airport"
+}

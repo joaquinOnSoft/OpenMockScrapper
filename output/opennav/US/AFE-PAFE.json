@@ -1,0 +1,11 @@
+{
+  "name" : "Kake Airport",
+  "icao" : "PAFE",
+  "iata" : "AFE",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "56° 57' 41.04\" N",
+  "longitude" : "133° 54' 36.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kake_Airport"
+}

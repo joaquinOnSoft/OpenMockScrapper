@@ -1,0 +1,11 @@
+{
+  "name" : "Merzifon Airport",
+  "icao" : "LTAP",
+  "iata" : "MZH",
+  "isoCountryCode" : "TR",
+  "elevation" : 1.076,
+  "latitude" : "40° 49' 45.84\" N",
+  "longitude" : "35° 31' 19.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Amasya_Merzifon_Airport"
+}

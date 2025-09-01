@@ -1,0 +1,11 @@
+{
+  "name" : "Zabol Airport",
+  "icao" : "OIZB",
+  "iata" : "ACZ",
+  "isoCountryCode" : "IR",
+  "elevation" : 39.0,
+  "latitude" : "31° 5' 53.88\" N",
+  "longitude" : "61° 32' 38.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Zabol_Airport"
+}

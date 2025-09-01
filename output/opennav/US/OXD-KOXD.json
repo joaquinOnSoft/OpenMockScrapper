@@ -1,0 +1,11 @@
+{
+  "name" : "Miami University Airport",
+  "icao" : "KOXD",
+  "iata" : "OXD",
+  "isoCountryCode" : "US",
+  "elevation" : 1.04,
+  "latitude" : "39° 30' 8.14\" N",
+  "longitude" : "84° 47' 3.77\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Miami_University_Airport"
+}

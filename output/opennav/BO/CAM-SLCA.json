@@ -1,0 +1,11 @@
+{
+  "name" : "Camiri Airport",
+  "icao" : "SLCA",
+  "iata" : "CAM",
+  "isoCountryCode" : "BO",
+  "elevation" : 0.0,
+  "latitude" : "20° 0' 23.04\" S",
+  "longitude" : "63° 31' 40.09\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Camiri_Airport"
+}

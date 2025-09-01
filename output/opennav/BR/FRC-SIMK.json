@@ -1,0 +1,11 @@
+{
+  "name" : "Franca Airport",
+  "icao" : "SIMK",
+  "iata" : "FRC",
+  "isoCountryCode" : "BR",
+  "elevation" : 0.0,
+  "latitude" : "20° 35' 31.92\" S",
+  "longitude" : "47° 22' 58.44\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Franca_Airport"
+}

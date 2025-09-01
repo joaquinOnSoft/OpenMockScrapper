@@ -1,0 +1,11 @@
+{
+  "name" : "Egegik Airport",
+  "icao" : "PAII",
+  "iata" : "EGX",
+  "isoCountryCode" : "US",
+  "elevation" : 92.0,
+  "latitude" : "58° 11' 7.80\" N",
+  "longitude" : "157° 22' 30.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Egegik_Airport"
+}

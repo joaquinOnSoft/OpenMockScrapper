@@ -1,0 +1,11 @@
+{
+  "name" : "Dallas Executive Airport",
+  "icao" : "KRBD",
+  "iata" : "RBD",
+  "isoCountryCode" : "US",
+  "elevation" : 660.0,
+  "latitude" : "32° 40' 51.10\" N",
+  "longitude" : "96° 52' 5.50\" W",
+  "website" : "http://www.dallascityhall.com/aviation/aviation.html",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dallas_Executive_Airport"
+}

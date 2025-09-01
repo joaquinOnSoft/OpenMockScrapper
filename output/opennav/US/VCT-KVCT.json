@@ -1,0 +1,11 @@
+{
+  "name" : "Victoria Regional Airport",
+  "icao" : "KVCT",
+  "iata" : "VCT",
+  "isoCountryCode" : "US",
+  "elevation" : 115.0,
+  "latitude" : "28° 51' 9.20\" N",
+  "longitude" : "96° 55' 6.55\" W",
+  "website" : "http://www.flyvictoriatx.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Victoria_Regional_Airport"
+}

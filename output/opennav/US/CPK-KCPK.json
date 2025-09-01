@@ -1,0 +1,11 @@
+{
+  "name" : "Chesapeake Regional Airport",
+  "icao" : "KCPK",
+  "iata" : "CPK",
+  "isoCountryCode" : "US",
+  "elevation" : 20.0,
+  "latitude" : "36° 39' 56.16\" N",
+  "longitude" : "76° 19' 14.53\" W",
+  "website" : "http://www.chesapeakeairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Chesapeake_Regional_Airport"
+}

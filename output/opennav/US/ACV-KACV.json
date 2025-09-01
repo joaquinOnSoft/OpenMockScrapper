@@ -1,0 +1,11 @@
+{
+  "name" : "Arcata-Eureka Airport",
+  "icao" : "KACV",
+  "iata" : "ACV",
+  "isoCountryCode" : "US",
+  "elevation" : 221.0,
+  "latitude" : "40° 58' 41.20\" N",
+  "longitude" : "124° 6' 31.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Arcata-Eureka_Airport"
+}

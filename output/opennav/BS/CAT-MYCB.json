@@ -1,0 +1,11 @@
+{
+  "name" : "New Bight Airport",
+  "icao" : "MYCB",
+  "iata" : "CAT",
+  "isoCountryCode" : "BS",
+  "elevation" : 5.0,
+  "latitude" : "24° 18' 55.08\" N",
+  "longitude" : "75° 27' 8.28\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_Bight_Airport"
+}

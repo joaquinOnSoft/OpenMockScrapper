@@ -1,0 +1,11 @@
+{
+  "name" : "Point Lay LRRS Airport",
+  "icao" : "PPIZ",
+  "iata" : "PIZ",
+  "isoCountryCode" : "US",
+  "elevation" : 25.0,
+  "latitude" : "69° 43' 58.45\" N",
+  "longitude" : "163° 0' 18.02\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Point_Lay_LRRS_Airport"
+}

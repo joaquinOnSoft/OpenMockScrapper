@@ -1,0 +1,11 @@
+{
+  "name" : "Mojave Airport",
+  "icao" : "KMHV",
+  "iata" : "MHV",
+  "isoCountryCode" : "US",
+  "elevation" : 2.801,
+  "latitude" : "35° 3' 31.10\" N",
+  "longitude" : "118° 9' 2.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mojave_Air_and_Space_Port"
+}

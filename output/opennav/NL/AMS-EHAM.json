@@ -1,0 +1,11 @@
+{
+  "name" : "Amsterdam Airport Schiphol Luchthaven Schiphol",
+  "icao" : "EHAM",
+  "iata" : "AMS",
+  "isoCountryCode" : "NL",
+  "elevation" : -11.0,
+  "latitude" : "52° 18' 30.96\" N",
+  "longitude" : "4° 45' 50.00\" E",
+  "website" : "https://www.schiphol.nl",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol"
+}

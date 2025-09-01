@@ -1,0 +1,11 @@
+{
+  "name" : "Angelina County Airport",
+  "icao" : "KLFK",
+  "iata" : "LFK",
+  "isoCountryCode" : "US",
+  "elevation" : 296.0,
+  "latitude" : "31° 14' 2.45\" N",
+  "longitude" : "94° 45' 0.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Angelina_County_Airport"
+}

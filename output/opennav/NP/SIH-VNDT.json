@@ -1,0 +1,11 @@
+{
+  "name" : "Doti Airport",
+  "icao" : "VNDT",
+  "iata" : "SIH",
+  "isoCountryCode" : "NP",
+  "elevation" : 1.893,
+  "latitude" : "29° 15' 47.16\" N",
+  "longitude" : "80° 56' 9.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Doti_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Swan River Airport",
+  "icao" : "CZJN",
+  "iata" : "ZJN",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.1,
+  "latitude" : "52° 7' 14.17\" N",
+  "longitude" : "101° 14' 9.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Swan_River_Airport"
+}

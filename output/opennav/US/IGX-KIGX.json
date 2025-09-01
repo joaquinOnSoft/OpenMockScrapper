@@ -1,0 +1,11 @@
+{
+  "name" : "Horace Williams Airport",
+  "icao" : "KIGX",
+  "iata" : "IGX",
+  "isoCountryCode" : "US",
+  "elevation" : 512.0,
+  "latitude" : "35° 56' 6.00\" N",
+  "longitude" : "79° 3' 57.27\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Horace_Williams_Airport"
+}

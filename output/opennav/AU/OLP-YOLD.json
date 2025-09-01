@@ -1,0 +1,11 @@
+{
+  "name" : "Olympic Dam Airport",
+  "icao" : "YOLD",
+  "iata" : "OLP",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "30° 29' 6.00\" S",
+  "longitude" : "136° 52' 37.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Olympic_Dam_Airport"
+}

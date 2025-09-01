@@ -1,0 +1,11 @@
+{
+  "name" : "Mariposa-Yosemite Airport",
+  "icao" : "KMPI",
+  "iata" : "MPI",
+  "isoCountryCode" : "US",
+  "elevation" : 2.254,
+  "latitude" : "37° 30' 39.10\" N",
+  "longitude" : "120° 2' 22.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mariposa-Yosemite_Airport"
+}

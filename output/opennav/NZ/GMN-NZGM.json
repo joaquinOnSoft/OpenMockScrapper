@@ -1,0 +1,11 @@
+{
+  "name" : "Greymouth Airport",
+  "icao" : "NZGM",
+  "iata" : "GMN",
+  "isoCountryCode" : "NZ",
+  "elevation" : 0.0,
+  "latitude" : "42° 27' 42.12\" S",
+  "longitude" : "171° 11' 24.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Greymouth_Airport"
+}

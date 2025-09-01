@@ -1,0 +1,11 @@
+{
+  "name" : "East Texas Regional Airport",
+  "icao" : "KGGG",
+  "iata" : "GGG",
+  "isoCountryCode" : "US",
+  "elevation" : 365.0,
+  "latitude" : "32° 23' 2.45\" N",
+  "longitude" : "94° 42' 41.35\" W",
+  "website" : "http://www.flyggg.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/East_Texas_Regional_Airport"
+}

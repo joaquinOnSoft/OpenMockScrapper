@@ -1,0 +1,11 @@
+{
+  "name" : "Lafayette Regional Airport",
+  "icao" : "KLFT",
+  "iata" : "LFT",
+  "isoCountryCode" : "US",
+  "elevation" : 42.0,
+  "latitude" : "30° 12' 19.00\" N",
+  "longitude" : "91° 59' 15.40\" W",
+  "website" : "http://www.lftairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lafayette_Regional_Airport"
+}

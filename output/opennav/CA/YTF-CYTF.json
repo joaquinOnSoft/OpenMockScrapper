@@ -1,0 +1,11 @@
+{
+  "name" : "Alma Airport",
+  "icao" : "CYTF",
+  "iata" : "YTF",
+  "isoCountryCode" : "CA",
+  "elevation" : 445.0,
+  "latitude" : "48° 30' 32.04\" N",
+  "longitude" : "71° 38' 30.84\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Alma_Airport"
+}

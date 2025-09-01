@@ -1,0 +1,11 @@
+{
+  "name" : "Waterford Airport",
+  "icao" : "EIWF",
+  "iata" : "WAT",
+  "isoCountryCode" : "IE",
+  "elevation" : 119.0,
+  "latitude" : "52° 11' 13.92\" N",
+  "longitude" : "7° 5' 13.06\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Waterford_Airport"
+}

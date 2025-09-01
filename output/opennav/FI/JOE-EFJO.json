@@ -1,0 +1,11 @@
+{
+  "name" : "Joensuu Airport",
+  "icao" : "EFJO",
+  "iata" : "JOE",
+  "isoCountryCode" : "FI",
+  "elevation" : 398.0,
+  "latitude" : "62° 39' 46.44\" N",
+  "longitude" : "29° 36' 27.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Joensuu_Airport"
+}

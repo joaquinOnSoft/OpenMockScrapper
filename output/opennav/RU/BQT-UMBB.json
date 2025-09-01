@@ -1,0 +1,11 @@
+{
+  "name" : "Brest Airport",
+  "icao" : "UMBB",
+  "iata" : "BQT",
+  "isoCountryCode" : "RU",
+  "elevation" : 468.0,
+  "latitude" : "52° 6' 29.88\" N",
+  "longitude" : "23° 53' 53.16\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Brest_Airport"
+}

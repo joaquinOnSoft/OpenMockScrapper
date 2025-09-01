@@ -1,0 +1,11 @@
+{
+  "name" : "Tallahassee Regional Airport",
+  "icao" : "KTLH",
+  "iata" : "TLH",
+  "isoCountryCode" : "US",
+  "elevation" : 81.0,
+  "latitude" : "30° 23' 47.50\" N",
+  "longitude" : "84° 21' 1.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tallahassee_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Mackay Airport",
+  "icao" : "YBMK",
+  "iata" : "MKY",
+  "isoCountryCode" : "AU",
+  "elevation" : 5.0,
+  "latitude" : "21° 10' 18.12\" S",
+  "longitude" : "149° 10' 47.97\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mackay_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Coll Airport",
+  "icao" : "EGEL",
+  "iata" : "COL",
+  "isoCountryCode" : "UK",
+  "elevation" : 0.0,
+  "latitude" : "56° 36' 6.83\" N",
+  "longitude" : "6° 37' 4.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Coll_Airport"
+}

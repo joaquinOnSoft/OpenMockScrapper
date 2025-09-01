@@ -1,0 +1,11 @@
+{
+  "name" : "Cobar Airport",
+  "icao" : "YCBA",
+  "iata" : "CAZ",
+  "isoCountryCode" : "AU",
+  "elevation" : 724.0,
+  "latitude" : "31° 32' 17.88\" S",
+  "longitude" : "145° 47' 38.42\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cobar_Airport"
+}

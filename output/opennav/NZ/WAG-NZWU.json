@@ -1,0 +1,11 @@
+{
+  "name" : "Wanganui Airport",
+  "icao" : "NZWU",
+  "iata" : "WAG",
+  "isoCountryCode" : "NZ",
+  "elevation" : 27.0,
+  "latitude" : "39° 57' 43.92\" S",
+  "longitude" : "175° 1' 29.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Whanganui_Airport"
+}

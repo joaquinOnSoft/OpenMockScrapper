@@ -1,0 +1,11 @@
+{
+  "name" : "Parma Airport (Aeroporto di Parma \"Giuseppe Verdi\")",
+  "icao" : "LIMP",
+  "iata" : "PMF",
+  "isoCountryCode" : "IT",
+  "elevation" : 161.0,
+  "latitude" : "44° 49' 28.20\" N",
+  "longitude" : "10° 17' 47.04\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Parma_Airport"
+}

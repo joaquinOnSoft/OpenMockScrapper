@@ -1,0 +1,11 @@
+{
+  "name" : "Sokcho Airport",
+  "icao" : "RKND",
+  "iata" : "SHO",
+  "isoCountryCode" : "KR",
+  "elevation" : 92.0,
+  "latitude" : "38° 8' 33.36\" N",
+  "longitude" : "128° 35' 56.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sokcho_Airport"
+}

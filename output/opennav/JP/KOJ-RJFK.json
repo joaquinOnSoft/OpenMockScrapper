@@ -1,0 +1,11 @@
+{
+  "name" : "Kagoshima Airport 鹿児島空港 Kagoshima Kūkō",
+  "icao" : "RJFK",
+  "iata" : "KOJ",
+  "isoCountryCode" : "JP",
+  "elevation" : 906.0,
+  "latitude" : "31° 48' 12.24\" N",
+  "longitude" : "130° 43' 8.38\" E",
+  "website" : "http://www.minc.ne.jp",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kagoshima_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Picos Airport",
+  "icao" : "SNPC",
+  "iata" : "PCS",
+  "isoCountryCode" : "BR",
+  "elevation" : 0.0,
+  "latitude" : "7° 3' 43.42\" S",
+  "longitude" : "41° 31' 25.32\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Picos_Airport"
+}

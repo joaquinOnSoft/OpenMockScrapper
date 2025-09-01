@@ -1,0 +1,11 @@
+{
+  "name" : "St-François Airport",
+  "icao" : "TFFC",
+  "iata" : "SFC",
+  "isoCountryCode" : "GP",
+  "elevation" : 0.0,
+  "latitude" : "16° 15' 28.08\" N",
+  "longitude" : "61° 15' 45.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Saint-François_Airport"
+}

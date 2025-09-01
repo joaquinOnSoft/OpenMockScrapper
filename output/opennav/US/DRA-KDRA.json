@@ -1,0 +1,11 @@
+{
+  "name" : "Desert Rock Airport",
+  "icao" : "KDRA",
+  "iata" : "DRA",
+  "isoCountryCode" : "US",
+  "elevation" : 3.314,
+  "latitude" : "36° 37' 9.84\" N",
+  "longitude" : "116° 1' 58.11\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Desert_Rock_Airport"
+}

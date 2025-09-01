@@ -1,0 +1,11 @@
+{
+  "name" : "Cagliari Airport",
+  "icao" : "LIEE",
+  "iata" : "CAG",
+  "isoCountryCode" : "IT",
+  "elevation" : 6.193,
+  "latitude" : "39° 15' 5.40\" N",
+  "longitude" : "9° 3' 15.41\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cagliari_Elmas_Airport"
+}

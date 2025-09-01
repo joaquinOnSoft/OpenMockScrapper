@@ -1,0 +1,11 @@
+{
+  "name" : "Biggs Army Airfield",
+  "icao" : "KBIF",
+  "iata" : "BIF",
+  "isoCountryCode" : "US",
+  "elevation" : 3.946,
+  "latitude" : "31° 50' 58.30\" N",
+  "longitude" : "106° 22' 48.14\" W",
+  "website" : "https://www.bliss.army.mil/Biggs/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Biggs_Army_Airfield"
+}

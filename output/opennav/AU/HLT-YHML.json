@@ -1,0 +1,11 @@
+{
+  "name" : "Hamilton Airport",
+  "icao" : "YHML",
+  "iata" : "HLT",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "37° 38' 56.04\" S",
+  "longitude" : "142° 3' 54.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hamilton_Airport_(Victoria)"
+}

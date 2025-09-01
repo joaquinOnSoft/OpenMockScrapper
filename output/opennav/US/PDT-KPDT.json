@@ -1,0 +1,11 @@
+{
+  "name" : "Eastern Oregon Regional Airport",
+  "icao" : "KPDT",
+  "iata" : "PDT",
+  "isoCountryCode" : "US",
+  "elevation" : 1.497,
+  "latitude" : "45° 41' 42.20\" N",
+  "longitude" : "118° 50' 29.20\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Eastern_Oregon_Regional_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Masset Airport",
+  "icao" : "CZMT",
+  "iata" : "ZMT",
+  "isoCountryCode" : "CA",
+  "elevation" : 25.0,
+  "latitude" : "54° 1' 39.00\" N",
+  "longitude" : "132° 7' 30.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Masset_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Palmer Municipal Airport",
+  "icao" : "PAAQ",
+  "iata" : "PAQ",
+  "isoCountryCode" : "US",
+  "elevation" : 242.0,
+  "latitude" : "61° 35' 41.63\" N",
+  "longitude" : "149° 5' 20.42\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Palmer_Municipal_Airport"
+}

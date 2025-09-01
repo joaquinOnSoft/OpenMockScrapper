@@ -1,0 +1,11 @@
+{
+  "name" : "Saint John Airport",
+  "icao" : "CYSJ",
+  "iata" : "YSJ",
+  "isoCountryCode" : "CA",
+  "elevation" : 357.0,
+  "latitude" : "45° 18' 57.96\" N",
+  "longitude" : "65° 53' 25.07\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Saint_John_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Drewitz Airport",
+  "icao" : "EDCD",
+  "iata" : "CBU",
+  "isoCountryCode" : "DE",
+  "elevation" : 274.0,
+  "latitude" : "51° 53' 21.99\" N",
+  "longitude" : "14° 31' 55.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cottbus-Drewitz_Airport"
+}

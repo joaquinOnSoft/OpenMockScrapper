@@ -1,0 +1,11 @@
+{
+  "name" : "Lajes Airport",
+  "icao" : "LPLA",
+  "iata" : "TER",
+  "isoCountryCode" : "PT",
+  "elevation" : 294.0,
+  "latitude" : "38° 45' 42.48\" N",
+  "longitude" : "27° 5' 26.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lajes_Field"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Harrisburg International Airport",
+  "icao" : "KMDT",
+  "iata" : "MDT",
+  "isoCountryCode" : "US",
+  "elevation" : 310.0,
+  "latitude" : "40° 11' 36.58\" N",
+  "longitude" : "76° 45' 48.25\" W",
+  "website" : "http://www.flyhia.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Harrisburg_International_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Richmond Municipal Airport",
+  "icao" : "KRID",
+  "iata" : "RID",
+  "isoCountryCode" : "US",
+  "elevation" : 1.14,
+  "latitude" : "39° 45' 25.97\" N",
+  "longitude" : "84° 50' 34.15\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Richmond_Municipal_Airport"
+}

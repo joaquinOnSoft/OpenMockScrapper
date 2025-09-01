@@ -1,0 +1,11 @@
+{
+  "name" : "Gage Airport",
+  "icao" : "KGAG",
+  "iata" : "GAG",
+  "isoCountryCode" : "US",
+  "elevation" : 2.223,
+  "latitude" : "36° 17' 43.94\" N",
+  "longitude" : "99° 46' 35.13\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gage_Airport"
+}

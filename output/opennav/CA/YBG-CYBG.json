@@ -1,0 +1,11 @@
+{
+  "name" : "Bagotville Airport",
+  "icao" : "CYBG",
+  "iata" : "YBG",
+  "isoCountryCode" : "CA",
+  "elevation" : 522.0,
+  "latitude" : "48° 19' 50.16\" N",
+  "longitude" : "70° 59' 47.04\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/CFB_Bagotville"
+}

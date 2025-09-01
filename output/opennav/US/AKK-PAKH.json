@@ -1,0 +1,11 @@
+{
+  "name" : "Akhiok Airport",
+  "icao" : "PAKH",
+  "iata" : "AKK",
+  "isoCountryCode" : "US",
+  "elevation" : 44.0,
+  "latitude" : "56° 56' 19.33\" N",
+  "longitude" : "154° 10' 58.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Akhiok_Airport"
+}

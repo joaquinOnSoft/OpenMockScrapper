@@ -1,0 +1,11 @@
+{
+  "name" : "Donetsk Airport",
+  "icao" : "UKCC",
+  "iata" : "DOK",
+  "isoCountryCode" : "UA",
+  "elevation" : 791.0,
+  "latitude" : "48° 4' 24.96\" N",
+  "longitude" : "37° 44' 22.92\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Donetsk_International_Airport"
+}

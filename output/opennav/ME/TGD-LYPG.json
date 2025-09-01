@@ -1,0 +1,11 @@
+{
+  "name" : "Podgorica Airport",
+  "icao" : "LYPG",
+  "iata" : "TGD",
+  "isoCountryCode" : "ME",
+  "elevation" : 141.0,
+  "latitude" : "42° 21' 33.85\" N",
+  "longitude" : "19° 15' 6.84\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Podgorica_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Bern Airport Flughafen Bern",
+  "icao" : "LSZB",
+  "iata" : "BRN",
+  "isoCountryCode" : "CH",
+  "elevation" : 1.674,
+  "latitude" : "46° 54' 50.76\" N",
+  "longitude" : "7° 29' 49.74\" E",
+  "website" : "https://www.bernairport.ch",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bern_Airport"
+}

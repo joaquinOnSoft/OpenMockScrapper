@@ -1,0 +1,11 @@
+{
+  "name" : "Walla Walla Regional Airport",
+  "icao" : "KALW",
+  "iata" : "ALW",
+  "isoCountryCode" : "US",
+  "elevation" : 1.194,
+  "latitude" : "46° 5' 41.61\" N",
+  "longitude" : "118° 17' 16.35\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Walla_Walla_Regional_Airport"
+}

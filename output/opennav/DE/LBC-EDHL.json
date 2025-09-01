@@ -1,0 +1,11 @@
+{
+  "name" : "Lübeck Airport",
+  "icao" : "EDHL",
+  "iata" : "LBC",
+  "isoCountryCode" : "DE",
+  "elevation" : 53.0,
+  "latitude" : "53° 48' 19.44\" N",
+  "longitude" : "10° 43' 9.12\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lübeck_Airport"
+}

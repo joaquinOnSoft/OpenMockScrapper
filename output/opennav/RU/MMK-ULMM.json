@@ -1,0 +1,11 @@
+{
+  "name" : "Murmansk Airport",
+  "icao" : "ULMM",
+  "iata" : "MMK",
+  "isoCountryCode" : "RU",
+  "elevation" : 103.0,
+  "latitude" : "68° 46' 54.12\" N",
+  "longitude" : "32° 45' 2.88\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Murmansk_Airport"
+}

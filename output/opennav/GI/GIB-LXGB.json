@@ -1,0 +1,11 @@
+{
+  "name" : "Gibraltar Airport",
+  "icao" : "LXGB",
+  "iata" : "GIB",
+  "isoCountryCode" : "GI",
+  "elevation" : 15.0,
+  "latitude" : "36° 9' 4.32\" N",
+  "longitude" : "5° 20' 58.78\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Gibraltar_International_Airport"
+}

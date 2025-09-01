@@ -1,0 +1,11 @@
+{
+  "name" : "University of Illinois Willard Airport",
+  "icao" : "KCMI",
+  "iata" : "CMI",
+  "isoCountryCode" : "US",
+  "elevation" : 754.0,
+  "latitude" : "40° 2' 21.30\" N",
+  "longitude" : "88° 16' 41.00\" W",
+  "website" : "https://iflycu.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/University_of_Illinois_Willard_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Taraz Airport",
+  "icao" : "UADD",
+  "iata" : "DMB",
+  "isoCountryCode" : "KZ",
+  "elevation" : 2.184,
+  "latitude" : "42° 51' 12.96\" N",
+  "longitude" : "71° 18' 12.95\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Taraz_Airport"
+}

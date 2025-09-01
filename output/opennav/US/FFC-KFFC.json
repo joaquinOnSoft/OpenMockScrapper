@@ -1,0 +1,11 @@
+{
+  "name" : "Falcon Field",
+  "icao" : "KFFC",
+  "iata" : "FFC",
+  "isoCountryCode" : "US",
+  "elevation" : 808.0,
+  "latitude" : "33° 21' 26.10\" N",
+  "longitude" : "84° 34' 18.60\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Atlanta_Regional_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Dali Airport",
+  "icao" : "ZPDL",
+  "iata" : "DLU",
+  "isoCountryCode" : "CN",
+  "elevation" : 0.0,
+  "latitude" : "25° 38' 57.84\" N",
+  "longitude" : "100° 19' 8.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dali_Huangcaoba_Airport"
+}

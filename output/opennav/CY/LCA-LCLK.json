@@ -1,0 +1,11 @@
+{
+  "name" : "Larnaca International Airport",
+  "icao" : "LCLK",
+  "iata" : "LCA",
+  "isoCountryCode" : "CY",
+  "elevation" : 8.0,
+  "latitude" : "34° 52' 30.42\" N",
+  "longitude" : "33° 37' 29.46\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Larnaca_International_Airport"
+}

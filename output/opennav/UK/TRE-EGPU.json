@@ -1,0 +1,11 @@
+{
+  "name" : "Tiree Airport",
+  "icao" : "EGPU",
+  "iata" : "TRE",
+  "isoCountryCode" : "UK",
+  "elevation" : 0.0,
+  "latitude" : "56° 29' 57.12\" N",
+  "longitude" : "6° 52' 9.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tiree_Airport"
+}

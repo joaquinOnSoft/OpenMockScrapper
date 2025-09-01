@@ -1,0 +1,11 @@
+{
+  "name" : "First Flight Airport",
+  "icao" : "KFFA",
+  "iata" : "FFA",
+  "isoCountryCode" : "US",
+  "elevation" : 13.0,
+  "latitude" : "36° 1' 5.60\" N",
+  "longitude" : "75° 40' 16.63\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/First_Flight_Airport"
+}

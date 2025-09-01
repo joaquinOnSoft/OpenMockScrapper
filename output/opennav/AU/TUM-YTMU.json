@@ -1,0 +1,11 @@
+{
+  "name" : "Tumut Airport",
+  "icao" : "YTMU",
+  "iata" : "TUM",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "35° 15' 46.07\" S",
+  "longitude" : "148° 14' 27.59\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tumut_Airport"
+}

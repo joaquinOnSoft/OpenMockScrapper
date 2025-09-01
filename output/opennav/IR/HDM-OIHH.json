@@ -1,0 +1,11 @@
+{
+  "name" : "Hamadan Airport",
+  "icao" : "OIHH",
+  "iata" : "HDM",
+  "isoCountryCode" : "IR",
+  "elevation" : 0.0,
+  "latitude" : "34° 52' 9.13\" N",
+  "longitude" : "48° 33' 9.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hamadan_International_Airport"
+}

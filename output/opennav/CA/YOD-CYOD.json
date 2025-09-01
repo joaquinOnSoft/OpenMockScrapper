@@ -1,0 +1,11 @@
+{
+  "name" : "Cold Lake Airport",
+  "icao" : "CYOD",
+  "iata" : "YOD",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.775,
+  "latitude" : "54° 24' 18.00\" N",
+  "longitude" : "110° 16' 44.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/CFB_Cold_Lake"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Mogador Airport",
+  "icao" : "GMMI",
+  "iata" : "ESU",
+  "isoCountryCode" : "MA",
+  "elevation" : 0.0,
+  "latitude" : "31° 23' 51.00\" N",
+  "longitude" : "9° 40' 54.01\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Essaouira-Mogador_Airport"
+}

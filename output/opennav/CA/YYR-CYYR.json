@@ -1,0 +1,11 @@
+{
+  "name" : "Goose Bay Airport",
+  "icao" : "CYYR",
+  "iata" : "YYR",
+  "isoCountryCode" : "CA",
+  "elevation" : 160.0,
+  "latitude" : "53° 19' 9.11\" N",
+  "longitude" : "60° 25' 32.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/CFB_Goose_Bay"
+}

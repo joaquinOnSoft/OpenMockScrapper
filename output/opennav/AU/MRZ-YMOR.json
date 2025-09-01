@@ -1,0 +1,11 @@
+{
+  "name" : "Moree Airport",
+  "icao" : "YMOR",
+  "iata" : "MRZ",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "29° 29' 56.04\" S",
+  "longitude" : "149° 50' 42.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Moree_Airport"
+}

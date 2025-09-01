@@ -1,0 +1,11 @@
+{
+  "name" : "Accomack County Airport",
+  "icao" : "KMFV",
+  "iata" : "MFV",
+  "isoCountryCode" : "US",
+  "elevation" : 47.0,
+  "latitude" : "37° 38' 48.80\" N",
+  "longitude" : "75° 45' 39.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Accomack_County_Airport"
+}

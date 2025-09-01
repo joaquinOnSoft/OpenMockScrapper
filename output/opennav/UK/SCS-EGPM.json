@@ -1,0 +1,11 @@
+{
+  "name" : "Scatsta Airport",
+  "icao" : "EGPM",
+  "iata" : "SCS",
+  "isoCountryCode" : "UK",
+  "elevation" : 81.0,
+  "latitude" : "60° 25' 58.00\" N",
+  "longitude" : "1° 17' 46.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Scatsta_Airport"
+}

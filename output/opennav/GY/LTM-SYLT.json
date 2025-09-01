@@ -1,0 +1,11 @@
+{
+  "name" : "Lethem Airport",
+  "icao" : "SYLT",
+  "iata" : "LTM",
+  "isoCountryCode" : "GY",
+  "elevation" : 351.0,
+  "latitude" : "3° 22' 21.94\" N",
+  "longitude" : "59° 47' 21.83\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lethem_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Cairns International Airport",
+  "icao" : "YBCS",
+  "iata" : "CNS",
+  "isoCountryCode" : "AU",
+  "elevation" : 10.0,
+  "latitude" : "16° 53' 8.88\" S",
+  "longitude" : "145° 45' 18.02\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Cairns_Airport"
+}

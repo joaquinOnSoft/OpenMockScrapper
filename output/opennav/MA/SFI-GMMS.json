@@ -1,0 +1,11 @@
+{
+  "name" : "Safi Airport",
+  "icao" : "GMMS",
+  "iata" : "SFI",
+  "isoCountryCode" : "MA",
+  "elevation" : 0.0,
+  "latitude" : "32° 16' 59.87\" N",
+  "longitude" : "9° 13' 59.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Safi_Airport"
+}

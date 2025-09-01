@@ -1,0 +1,11 @@
+{
+  "name" : "Penza Airport",
+  "icao" : "UWPP",
+  "iata" : "PEZ",
+  "isoCountryCode" : "RU",
+  "elevation" : 430.0,
+  "latitude" : "53° 6' 38.16\" N",
+  "longitude" : "45° 1' 15.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Penza_Airport"
+}

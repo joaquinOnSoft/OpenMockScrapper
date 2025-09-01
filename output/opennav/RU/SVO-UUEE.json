@@ -1,0 +1,11 @@
+{
+  "name" : "Sheremetyevo International Airport Международный Aэропорт Шереметьево имени А.С. Пушкина",
+  "icao" : "UUEE",
+  "iata" : "SVO",
+  "isoCountryCode" : "RU",
+  "elevation" : 622.0,
+  "latitude" : "55° 58' 21.36\" N",
+  "longitude" : "37° 24' 52.56\" E",
+  "website" : "https://www.svo.aero",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sheremetyevo_International_Airport"
+}

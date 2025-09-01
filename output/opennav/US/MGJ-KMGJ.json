@@ -1,0 +1,11 @@
+{
+  "name" : "Orange County Airport",
+  "icao" : "KMGJ",
+  "iata" : "MGJ",
+  "isoCountryCode" : "US",
+  "elevation" : 364.0,
+  "latitude" : "41° 30' 35.90\" N",
+  "longitude" : "74° 15' 52.70\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Orange_County_Airport_(New_York)"
+}

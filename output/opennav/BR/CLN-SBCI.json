@@ -1,0 +1,11 @@
+{
+  "name" : "Carolina Airport",
+  "icao" : "SBCI",
+  "iata" : "CLN",
+  "isoCountryCode" : "BR",
+  "elevation" : 565.0,
+  "latitude" : "7° 19' 13.58\" S",
+  "longitude" : "47° 27' 31.31\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Carolina_Airport"
+}

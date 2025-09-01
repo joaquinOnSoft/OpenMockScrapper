@@ -1,0 +1,11 @@
+{
+  "name" : "Oshawa Airport",
+  "icao" : "CYOO",
+  "iata" : "YOO",
+  "isoCountryCode" : "CA",
+  "elevation" : 459.0,
+  "latitude" : "43° 55' 22.07\" N",
+  "longitude" : "78° 53' 41.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Oshawa_Executive_Airport"
+}

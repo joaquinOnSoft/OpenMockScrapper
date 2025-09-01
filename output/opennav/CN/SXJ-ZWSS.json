@@ -1,0 +1,11 @@
+{
+  "name" : "Shanshan Airport",
+  "icao" : "ZWSS",
+  "iata" : "SXJ",
+  "isoCountryCode" : "CN",
+  "elevation" : 0.0,
+  "latitude" : "42° 54' 42.12\" N",
+  "longitude" : "90° 14' 50.99\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shanshan_Airport"
+}

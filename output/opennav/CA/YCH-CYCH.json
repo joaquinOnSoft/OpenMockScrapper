@@ -1,0 +1,11 @@
+{
+  "name" : "Miramichi Airport",
+  "icao" : "CYCH",
+  "iata" : "YCH",
+  "isoCountryCode" : "CA",
+  "elevation" : 108.0,
+  "latitude" : "47° 0' 28.08\" N",
+  "longitude" : "65° 26' 57.13\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Miramichi_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "London Biggin Hill Airport",
+  "icao" : "EGKB",
+  "iata" : "BQH",
+  "isoCountryCode" : "UK",
+  "elevation" : 598.0,
+  "latitude" : "51° 19' 50.88\" N",
+  "longitude" : "0° 1' 57.00\" E",
+  "website" : "http://www.bigginhillairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/London_Biggin_Hill_Airport"
+}

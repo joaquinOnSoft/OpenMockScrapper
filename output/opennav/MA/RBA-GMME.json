@@ -1,0 +1,11 @@
+{
+  "name" : "Sale Airport",
+  "icao" : "GMME",
+  "iata" : "RBA",
+  "isoCountryCode" : "MA",
+  "elevation" : 276.0,
+  "latitude" : "34° 3' 5.39\" N",
+  "longitude" : "6° 45' 5.47\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rabat-Salé_Airport"
+}

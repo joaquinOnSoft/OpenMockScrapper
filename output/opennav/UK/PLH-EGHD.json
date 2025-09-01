@@ -1,0 +1,11 @@
+{
+  "name" : "Plymouth City Airport",
+  "icao" : "EGHD",
+  "iata" : "PLH",
+  "isoCountryCode" : "UK",
+  "elevation" : 476.0,
+  "latitude" : "50° 25' 22.07\" N",
+  "longitude" : "4° 6' 20.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Plymouth_City_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Malmö-Sturup Airport",
+  "icao" : "ESMS",
+  "iata" : "MMX",
+  "isoCountryCode" : "SE",
+  "elevation" : 236.0,
+  "latitude" : "55° 32' 10.70\" N",
+  "longitude" : "13° 22' 34.31\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Malmö_Airport"
+}

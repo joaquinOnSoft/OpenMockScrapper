@@ -1,0 +1,11 @@
+{
+  "name" : "Marathon Airport",
+  "icao" : "CYSP",
+  "iata" : "YSP",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.035,
+  "latitude" : "48° 45' 19.08\" N",
+  "longitude" : "86° 20' 39.83\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Marathon_Aerodrome"
+}

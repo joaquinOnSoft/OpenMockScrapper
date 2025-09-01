@@ -1,0 +1,11 @@
+{
+  "name" : "Kogalym Airport",
+  "icao" : "USRK",
+  "iata" : "KGP",
+  "isoCountryCode" : "RU",
+  "elevation" : 220.0,
+  "latitude" : "62° 11' 25.44\" N",
+  "longitude" : "74° 32' 1.67\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Kogalym_International_Airport"
+}

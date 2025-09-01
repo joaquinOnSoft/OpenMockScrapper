@@ -1,0 +1,11 @@
+{
+  "name" : "Inhambane Airport",
+  "icao" : "FQIN",
+  "iata" : "INH",
+  "isoCountryCode" : "MZ",
+  "elevation" : 30.0,
+  "latitude" : "23° 52' 35.04\" S",
+  "longitude" : "35° 24' 30.60\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Inhambane_Airport"
+}

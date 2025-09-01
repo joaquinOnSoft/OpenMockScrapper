@@ -1,0 +1,11 @@
+{
+  "name" : "Salzburg Airport",
+  "icao" : "LOWS",
+  "iata" : "SZG",
+  "isoCountryCode" : "AT",
+  "elevation" : 1.411,
+  "latitude" : "47° 47' 35.88\" N",
+  "longitude" : "13° 0' 15.48\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Salzburg_Airport"
+}

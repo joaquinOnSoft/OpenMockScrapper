@@ -1,0 +1,11 @@
+{
+  "name" : "Vágar Airport",
+  "icao" : "EKVG",
+  "iata" : "FAE",
+  "isoCountryCode" : "DK",
+  "elevation" : 280.0,
+  "latitude" : "62° 3' 48.96\" N",
+  "longitude" : "7° 16' 37.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Vágar_Airport"
+}

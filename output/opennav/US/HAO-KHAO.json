@@ -1,0 +1,11 @@
+{
+  "name" : "Butler County Regional Airport",
+  "icao" : "KHAO",
+  "iata" : "HAO",
+  "isoCountryCode" : "US",
+  "elevation" : 633.0,
+  "latitude" : "39° 21' 49.50\" N",
+  "longitude" : "84° 31' 19.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Butler_County_Regional_Airport"
+}

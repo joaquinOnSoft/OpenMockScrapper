@@ -1,0 +1,11 @@
+{
+  "name" : "Isle of Man Airport",
+  "icao" : "EGNS",
+  "iata" : "IOM",
+  "isoCountryCode" : "UK",
+  "elevation" : 52.0,
+  "latitude" : "54° 4' 59.89\" N",
+  "longitude" : "4° 37' 26.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Isle_of_Man_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Tiksi Airport",
+  "icao" : "UEST",
+  "iata" : "IKS",
+  "isoCountryCode" : "RU",
+  "elevation" : 0.0,
+  "latitude" : "71° 41' 51.72\" N",
+  "longitude" : "128° 54' 10.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tiksi_Airport"
+}

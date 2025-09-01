@@ -1,0 +1,11 @@
+{
+  "name" : "Ormoc Airport",
+  "icao" : "RPVO",
+  "iata" : "OMC",
+  "isoCountryCode" : "PH",
+  "elevation" : 0.0,
+  "latitude" : "11° 3' 28.80\" N",
+  "longitude" : "124° 33' 54.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ormoc_Airport"
+}

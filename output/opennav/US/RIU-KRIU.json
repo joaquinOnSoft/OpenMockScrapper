@@ -1,0 +1,11 @@
+{
+  "name" : "Rancho Murieta Airport",
+  "icao" : "KRIU",
+  "iata" : "RIU",
+  "isoCountryCode" : "US",
+  "elevation" : 141.0,
+  "latitude" : "38° 29' 12.40\" N",
+  "longitude" : "121° 6' 10.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Rancho_Murieta_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Boulder Municipal Airport",
+  "icao" : "KBDU",
+  "iata" : "WBU",
+  "isoCountryCode" : "US",
+  "elevation" : 5.288,
+  "latitude" : "40° 2' 21.95\" N",
+  "longitude" : "105° 13' 32.96\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Boulder_Municipal_Airport"
+}

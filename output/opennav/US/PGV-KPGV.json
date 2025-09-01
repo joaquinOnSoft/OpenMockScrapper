@@ -1,0 +1,11 @@
+{
+  "name" : "Pitt-Greenville Airport",
+  "icao" : "KPGV",
+  "iata" : "PGV",
+  "isoCountryCode" : "US",
+  "elevation" : 26.0,
+  "latitude" : "35° 38' 6.90\" N",
+  "longitude" : "77° 23' 7.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pitt-Greenville_Airport"
+}

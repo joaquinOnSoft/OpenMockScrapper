@@ -1,0 +1,11 @@
+{
+  "name" : "Santa Maria Airport",
+  "icao" : "SBSM",
+  "iata" : "RIA",
+  "isoCountryCode" : "BR",
+  "elevation" : 287.0,
+  "latitude" : "29° 42' 41.04\" S",
+  "longitude" : "53° 41' 17.53\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Santa_Maria_Airport_(Rio_Grande_do_Sul)"
+}

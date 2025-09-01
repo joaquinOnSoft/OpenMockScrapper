@@ -1,0 +1,11 @@
+{
+  "name" : "Findlay Airport",
+  "icao" : "KFDY",
+  "iata" : "FDY",
+  "isoCountryCode" : "US",
+  "elevation" : 813.0,
+  "latitude" : "41° 0' 43.30\" N",
+  "longitude" : "83° 40' 7.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Findlay_Airport"
+}

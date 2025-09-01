@@ -1,0 +1,11 @@
+{
+  "name" : "Hale County Airport",
+  "icao" : "KPVW",
+  "iata" : "PVW",
+  "isoCountryCode" : "US",
+  "elevation" : 3.374,
+  "latitude" : "34° 10' 5.33\" N",
+  "longitude" : "101° 43' 2.41\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hale_County_Airport"
+}

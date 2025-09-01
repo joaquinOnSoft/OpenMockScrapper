@@ -1,0 +1,11 @@
+{
+  "name" : "Martha's Vineyard Airport",
+  "icao" : "KMVY",
+  "iata" : "MVY",
+  "isoCountryCode" : "US",
+  "elevation" : 67.0,
+  "latitude" : "41° 23' 34.90\" N",
+  "longitude" : "70° 36' 51.60\" W",
+  "website" : "http://www.mvyairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Martha's_Vineyard_Airport"
+}

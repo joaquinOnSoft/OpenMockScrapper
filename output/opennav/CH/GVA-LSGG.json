@@ -1,0 +1,11 @@
+{
+  "name" : "Geneva Airport Cointrin Airport",
+  "icao" : "LSGG",
+  "iata" : "GVA",
+  "isoCountryCode" : "CH",
+  "elevation" : 1.411,
+  "latitude" : "46° 14' 17.15\" N",
+  "longitude" : "6° 6' 32.22\" E",
+  "website" : "https://www.gva.ch",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Geneva_Airport"
+}

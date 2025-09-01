@@ -1,0 +1,11 @@
+{
+  "name" : "Andrews Air Force Base",
+  "icao" : "KADW",
+  "iata" : "ADW",
+  "isoCountryCode" : "US",
+  "elevation" : 280.0,
+  "latitude" : "38° 48' 38.90\" N",
+  "longitude" : "76° 52' 1.30\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Andrews_Air_Force_Base"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "New River Valley Airport",
+  "icao" : "KPSK",
+  "iata" : "PSK",
+  "isoCountryCode" : "US",
+  "elevation" : 2.105,
+  "latitude" : "37° 8' 14.44\" N",
+  "longitude" : "80° 40' 42.54\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/New_River_Valley_Airport"
+}

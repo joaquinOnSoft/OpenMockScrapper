@@ -1,0 +1,11 @@
+{
+  "name" : "Andersen Air Force Base",
+  "icao" : "PGUA",
+  "iata" : "UAM",
+  "isoCountryCode" : "GU",
+  "elevation" : 627.0,
+  "latitude" : "13° 35' 2.40\" N",
+  "longitude" : "144° 55' 47.97\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Andersen_Air_Force_Base"
+}

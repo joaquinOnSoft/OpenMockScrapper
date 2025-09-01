@@ -1,0 +1,11 @@
+{
+  "name" : "Tartu-Ülenurme Airport",
+  "icao" : "EETU",
+  "iata" : "TAY",
+  "isoCountryCode" : "EE",
+  "elevation" : 219.0,
+  "latitude" : "58° 18' 27.00\" N",
+  "longitude" : "26° 41' 25.44\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tartu_Airport"
+}

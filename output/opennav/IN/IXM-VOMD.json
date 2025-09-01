@@ -1,0 +1,11 @@
+{
+  "name" : "Madurai Airport",
+  "icao" : "VOMD",
+  "iata" : "IXM",
+  "isoCountryCode" : "IN",
+  "elevation" : 459.0,
+  "latitude" : "9° 50' 4.24\" N",
+  "longitude" : "78° 5' 36.24\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Madurai_Airport"
+}

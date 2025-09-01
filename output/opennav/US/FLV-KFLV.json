@@ -1,0 +1,11 @@
+{
+  "name" : "Sherman AAF",
+  "icao" : "KFLV",
+  "iata" : "FLV",
+  "isoCountryCode" : "US",
+  "elevation" : 772.0,
+  "latitude" : "39° 22' 6.00\" N",
+  "longitude" : "94° 54' 52.87\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Sherman_Army_Airfield"
+}

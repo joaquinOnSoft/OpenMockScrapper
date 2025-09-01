@@ -1,0 +1,11 @@
+{
+  "name" : "Ruston Regional Airport",
+  "icao" : "KRSN",
+  "iata" : "RSN",
+  "isoCountryCode" : "US",
+  "elevation" : 311.0,
+  "latitude" : "32° 30' 52.57\" N",
+  "longitude" : "92° 35' 18.39\" W",
+  "website" : "http://www.ruston.org/departments.aspx?p_PageAlias=regairport",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Ruston_Regional_Airport"
+}

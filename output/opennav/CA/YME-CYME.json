@@ -1,0 +1,11 @@
+{
+  "name" : "Matane Airport",
+  "icao" : "CYME",
+  "iata" : "YME",
+  "isoCountryCode" : "CA",
+  "elevation" : 102.0,
+  "latitude" : "48° 51' 24.84\" N",
+  "longitude" : "67° 27' 11.88\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Matane/Russell-Burnett_Airport"
+}

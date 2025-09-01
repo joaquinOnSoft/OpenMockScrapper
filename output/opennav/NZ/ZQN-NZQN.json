@@ -1,0 +1,11 @@
+{
+  "name" : "Queenstown Airport",
+  "icao" : "NZQN",
+  "iata" : "ZQN",
+  "isoCountryCode" : "NZ",
+  "elevation" : 1.171,
+  "latitude" : "45° 1' 15.96\" S",
+  "longitude" : "168° 44' 20.39\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Queenstown_Airport"
+}

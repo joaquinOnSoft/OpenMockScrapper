@@ -1,0 +1,11 @@
+{
+  "name" : "Tuscaloosa Regional Airport",
+  "icao" : "KTCL",
+  "iata" : "TCL",
+  "isoCountryCode" : "US",
+  "elevation" : 170.0,
+  "latitude" : "33° 13' 14.26\" N",
+  "longitude" : "87° 36' 41.05\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Tuscaloosa_National_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Grant County Airport",
+  "icao" : "KSVC",
+  "iata" : "SVC",
+  "isoCountryCode" : "US",
+  "elevation" : 5.446,
+  "latitude" : "32° 38' 11.57\" N",
+  "longitude" : "108° 9' 22.99\" W",
+  "website" : "http://www.grantcountyairport.com",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Grant_County_Airport_(New_Mexico)"
+}

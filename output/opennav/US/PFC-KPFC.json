@@ -1,0 +1,11 @@
+{
+  "name" : "Pacific City State Airport",
+  "icao" : "KPFC",
+  "iata" : "PFC",
+  "isoCountryCode" : "US",
+  "elevation" : 5.0,
+  "latitude" : "45° 11' 59.37\" N",
+  "longitude" : "123° 57' 44.42\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Pacific_City_State_Airport"
+}

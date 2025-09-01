@@ -1,0 +1,11 @@
+{
+  "name" : "Unalaska Airport",
+  "icao" : "PADU",
+  "iata" : "DUT",
+  "isoCountryCode" : "US",
+  "elevation" : 22.0,
+  "latitude" : "53° 54' 0.36\" N",
+  "longitude" : "166° 32' 38.42\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Unalaska_Airport"
+}

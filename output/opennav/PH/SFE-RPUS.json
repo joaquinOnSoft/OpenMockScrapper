@@ -1,0 +1,11 @@
+{
+  "name" : "San Fernando Airport",
+  "icao" : "RPUS",
+  "iata" : "SFE",
+  "isoCountryCode" : "PH",
+  "elevation" : 13.0,
+  "latitude" : "16° 35' 44.16\" N",
+  "longitude" : "120° 18' 10.81\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/San_Fernando_Airport_(Philippines)"
+}

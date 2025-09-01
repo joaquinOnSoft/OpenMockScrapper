@@ -1,0 +1,11 @@
+{
+  "name" : "Karpathos Airport",
+  "icao" : "LGKP",
+  "iata" : "AOK",
+  "isoCountryCode" : "GR",
+  "elevation" : 66.0,
+  "latitude" : "35° 25' 17.03\" N",
+  "longitude" : "27° 8' 45.60\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Karpathos_Island_National_Airport"
+}

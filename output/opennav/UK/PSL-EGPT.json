@@ -1,0 +1,11 @@
+{
+  "name" : "Perth Airport",
+  "icao" : "EGPT",
+  "iata" : "PSL",
+  "isoCountryCode" : "UK",
+  "elevation" : 0.0,
+  "latitude" : "56° 26' 21.12\" N",
+  "longitude" : "3° 22' 19.99\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Perth_Airport,_Scotland"
+}

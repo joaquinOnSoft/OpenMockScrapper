@@ -1,0 +1,11 @@
+{
+  "name" : "Oneida County Airport",
+  "icao" : "KUCA",
+  "iata" : "UCA",
+  "isoCountryCode" : "US",
+  "elevation" : 742.0,
+  "latitude" : "43° 8' 42.40\" N",
+  "longitude" : "75° 23' 1.89\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Oneida_County_Airport"
+}

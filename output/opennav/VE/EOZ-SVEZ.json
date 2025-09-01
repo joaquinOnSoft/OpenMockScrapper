@@ -1,0 +1,11 @@
+{
+  "name" : "Elorza Airport",
+  "icao" : "SVEZ",
+  "iata" : "EOZ",
+  "isoCountryCode" : "VE",
+  "elevation" : 295.0,
+  "latitude" : "7° 4' 60.00\" N",
+  "longitude" : "69° 31' 60.00\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Elorza_Airport"
+}

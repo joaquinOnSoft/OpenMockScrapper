@@ -1,0 +1,11 @@
+{
+  "name" : "Santos Dumont Airport",
+  "icao" : "SBRJ",
+  "iata" : "SDU",
+  "isoCountryCode" : "BR",
+  "elevation" : 11.0,
+  "latitude" : "22° 54' 37.80\" S",
+  "longitude" : "43° 9' 47.16\" W",
+  "website" : "http://www.infraero.com.br/index.php/br/aeroportos/rio-de-janeiro/aeroporto-santos-dumont.html",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Santos_Dumont_Airport"
+}

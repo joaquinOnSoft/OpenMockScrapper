@@ -1,0 +1,11 @@
+{
+  "name" : "Dawson City Airport",
+  "icao" : "CYDA",
+  "iata" : "YDA",
+  "isoCountryCode" : "CA",
+  "elevation" : 1.215,
+  "latitude" : "64° 2' 35.15\" N",
+  "longitude" : "139° 7' 40.82\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dawson_City_Airport"
+}

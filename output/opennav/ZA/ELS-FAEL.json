@@ -1,0 +1,11 @@
+{
+  "name" : "East London Airport",
+  "icao" : "FAEL",
+  "iata" : "ELS",
+  "isoCountryCode" : "ZA",
+  "elevation" : 435.0,
+  "latitude" : "33° 2' 8.16\" S",
+  "longitude" : "27° 49' 33.24\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/East_London_Airport"
+}

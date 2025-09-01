@@ -1,0 +1,11 @@
+{
+  "name" : "Dortmund Airport (Flughafen Dortmund)",
+  "icao" : "EDLW",
+  "iata" : "DTM",
+  "isoCountryCode" : "DE",
+  "elevation" : 425.0,
+  "latitude" : "51° 31' 5.88\" N",
+  "longitude" : "7° 36' 44.06\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Dortmund_Airport"
+}

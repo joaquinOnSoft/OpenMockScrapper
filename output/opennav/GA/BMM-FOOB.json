@@ -1,0 +1,11 @@
+{
+  "name" : "Bitam Airport",
+  "icao" : "FOOB",
+  "iata" : "BMM",
+  "isoCountryCode" : "GA",
+  "elevation" : 1.969,
+  "latitude" : "2° 4' 32.30\" N",
+  "longitude" : "11° 29' 35.52\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bitam_Airport"
+}

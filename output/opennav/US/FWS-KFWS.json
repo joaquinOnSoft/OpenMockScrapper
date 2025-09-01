@@ -1,0 +1,11 @@
+{
+  "name" : "Fort Worth Spinks Airport",
+  "icao" : "KFWS",
+  "iata" : "FWS",
+  "isoCountryCode" : "US",
+  "elevation" : 700.0,
+  "latitude" : "32° 33' 54.82\" N",
+  "longitude" : "97° 18' 29.08\" W",
+  "website" : "http://www.fortworthgov.org/aviation/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fort_Worth_Spinks_Airport"
+}

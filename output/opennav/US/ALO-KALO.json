@@ -1,0 +1,11 @@
+{
+  "name" : "Waterloo Regional Airport",
+  "icao" : "KALO",
+  "iata" : "ALO",
+  "isoCountryCode" : "US",
+  "elevation" : 873.0,
+  "latitude" : "42° 33' 25.49\" N",
+  "longitude" : "92° 24' 1.24\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Waterloo_Regional_Airport"
+}

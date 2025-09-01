@@ -1,0 +1,11 @@
+{
+  "name" : "Lake Tahoe Airport",
+  "icao" : "KTVL",
+  "iata" : "TVL",
+  "isoCountryCode" : "US",
+  "elevation" : 6.264,
+  "latitude" : "38° 53' 37.97\" N",
+  "longitude" : "119° 59' 43.21\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lake_Tahoe_Airport"
+}

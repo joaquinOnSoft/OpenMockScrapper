@@ -1,0 +1,11 @@
+{
+  "name" : "Pescara Airport",
+  "icao" : "LIBP",
+  "iata" : "PSR",
+  "isoCountryCode" : "IT",
+  "elevation" : 48.0,
+  "latitude" : "42° 25' 54.13\" N",
+  "longitude" : "14° 10' 51.96\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Abruzzo_Airport"
+}

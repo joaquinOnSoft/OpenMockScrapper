@@ -1,0 +1,11 @@
+{
+  "name" : "Nellis Air Force Base",
+  "icao" : "KLSV",
+  "iata" : "LSV",
+  "isoCountryCode" : "US",
+  "elevation" : 1.867,
+  "latitude" : "36° 14' 10.31\" N",
+  "longitude" : "115° 2' 3.31\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nellis_Air_Force_Base"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Shepparton Airport",
+  "icao" : "YSHT",
+  "iata" : "SHT",
+  "isoCountryCode" : "AU",
+  "elevation" : 0.0,
+  "latitude" : "36° 25' 44.05\" S",
+  "longitude" : "145° 23' 34.82\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Shepparton_Airport"
+}

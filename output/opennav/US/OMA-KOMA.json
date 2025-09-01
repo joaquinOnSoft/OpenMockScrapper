@@ -1,0 +1,11 @@
+{
+  "name" : "Eppley Airfield",
+  "icao" : "KOMA",
+  "iata" : "OMA",
+  "isoCountryCode" : "US",
+  "elevation" : 984.0,
+  "latitude" : "41° 18' 11.40\" N",
+  "longitude" : "95° 53' 38.65\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Eppley_Airfield"
+}

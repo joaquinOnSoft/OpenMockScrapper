@@ -1,0 +1,11 @@
+{
+  "name" : "Maastricht Aachen Airport",
+  "icao" : "EHBK",
+  "iata" : "MST",
+  "isoCountryCode" : "NL",
+  "elevation" : 375.0,
+  "latitude" : "50° 54' 42.12\" N",
+  "longitude" : "5° 46' 12.50\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Maastricht_Aachen_Airport"
+}

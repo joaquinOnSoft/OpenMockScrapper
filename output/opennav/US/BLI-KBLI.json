@@ -1,0 +1,11 @@
+{
+  "name" : "Bellingham International Airport",
+  "icao" : "KBLI",
+  "iata" : "BLI",
+  "isoCountryCode" : "US",
+  "elevation" : 170.0,
+  "latitude" : "48° 47' 33.90\" N",
+  "longitude" : "122° 32' 15.10\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bellingham_International_Airport"
+}

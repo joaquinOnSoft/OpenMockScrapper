@@ -1,0 +1,11 @@
+{
+  "name" : "Santa Cruz Airport",
+  "icao" : "SBSC",
+  "iata" : "SNZ",
+  "isoCountryCode" : "BR",
+  "elevation" : 0.0,
+  "latitude" : "22° 55' 56.64\" S",
+  "longitude" : "43° 43' 8.76\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Santa_Cruz_Air_Force_Base"
+}

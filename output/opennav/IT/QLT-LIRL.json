@@ -1,0 +1,11 @@
+{
+  "name" : "Latina Airport",
+  "icao" : "LIRL",
+  "iata" : "QLT",
+  "isoCountryCode" : "IT",
+  "elevation" : 93.0,
+  "latitude" : "41° 32' 32.64\" N",
+  "longitude" : "12° 54' 32.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Latina_Air_Base"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Caravelas Airport",
+  "icao" : "SBCV",
+  "iata" : "CRQ",
+  "isoCountryCode" : "BR",
+  "elevation" : 331.0,
+  "latitude" : "17° 39' 8.28\" S",
+  "longitude" : "39° 15' 11.16\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Caravelas_Airport"
+}

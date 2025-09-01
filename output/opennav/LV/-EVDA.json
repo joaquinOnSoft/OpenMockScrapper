@@ -1,0 +1,11 @@
+{
+  "name" : "Daugavpils Airport",
+  "icao" : "EVDA",
+  "iata" : null,
+  "isoCountryCode" : "LV",
+  "elevation" : 0.0,
+  "latitude" : "55° 56' 41.00\" N",
+  "longitude" : "26° 39' 54.00\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Daugavpils_International_Airport"
+}

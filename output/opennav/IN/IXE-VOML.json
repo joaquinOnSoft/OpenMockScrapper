@@ -1,0 +1,11 @@
+{
+  "name" : "Mangalore International Airport",
+  "icao" : "VOML",
+  "iata" : "IXE",
+  "isoCountryCode" : "IN",
+  "elevation" : 337.0,
+  "latitude" : "12° 57' 40.68\" N",
+  "longitude" : "74° 53' 24.35\" E",
+  "website" : "https://www.aai.aero/en/airports/mangalore",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Mangalore_International_Airport"
+}

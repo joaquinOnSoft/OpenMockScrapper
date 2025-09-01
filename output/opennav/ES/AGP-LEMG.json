@@ -1,0 +1,11 @@
+{
+  "name" : "Pablo Ruiz Picasso Airport",
+  "icao" : "LEMG",
+  "iata" : "AGP",
+  "isoCountryCode" : "ES",
+  "elevation" : 52.0,
+  "latitude" : "36° 40' 29.64\" N",
+  "longitude" : "4° 29' 56.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Málaga_Airport"
+}

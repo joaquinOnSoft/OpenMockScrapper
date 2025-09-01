@@ -1,0 +1,11 @@
+{
+  "name" : "Clinton Regional Airport",
+  "icao" : "KCLK",
+  "iata" : "CLK",
+  "isoCountryCode" : "US",
+  "elevation" : 1.615,
+  "latitude" : "35° 32' 17.71\" N",
+  "longitude" : "98° 55' 57.68\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Clinton_Regional_Airport"
+}

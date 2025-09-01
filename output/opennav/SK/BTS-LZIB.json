@@ -1,0 +1,11 @@
+{
+  "name" : "Bratislava Airport M. R. Štefánik Airport Letisko Bratislava",
+  "icao" : "LZIB",
+  "iata" : "BTS",
+  "isoCountryCode" : "SK",
+  "elevation" : 436.0,
+  "latitude" : "48° 10' 12.72\" N",
+  "longitude" : "17° 12' 45.72\" E",
+  "website" : "https://www.bts.aero",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bratislava_Airport"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "Waco Regional Airport",
+  "icao" : "KACT",
+  "iata" : "ACT",
+  "isoCountryCode" : "US",
+  "elevation" : 516.0,
+  "latitude" : "31° 36' 40.64\" N",
+  "longitude" : "97° 13' 49.87\" W",
+  "website" : "http://waco-texas.com/airport/airport.htm",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Waco_Regional_Airport"
+}

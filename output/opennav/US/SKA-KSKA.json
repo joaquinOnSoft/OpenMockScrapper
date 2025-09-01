@@ -1,0 +1,11 @@
+{
+  "name" : "Fairchild AFB",
+  "icao" : "KSKA",
+  "iata" : "SKA",
+  "isoCountryCode" : "US",
+  "elevation" : 2.461,
+  "latitude" : "47° 36' 54.21\" N",
+  "longitude" : "117° 39' 20.78\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Fairchild_Air_Force_Base"
+}

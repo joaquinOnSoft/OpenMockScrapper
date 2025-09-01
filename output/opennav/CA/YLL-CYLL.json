@@ -1,0 +1,11 @@
+{
+  "name" : "Lloydminster Airport",
+  "icao" : "CYLL",
+  "iata" : "YLL",
+  "isoCountryCode" : "CA",
+  "elevation" : 2.193,
+  "latitude" : "53° 18' 33.12\" N",
+  "longitude" : "110° 4' 22.79\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Lloydminster_Airport"
+}

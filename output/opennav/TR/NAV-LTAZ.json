@@ -1,0 +1,11 @@
+{
+  "name" : "Kapadokya Airport",
+  "icao" : "LTAZ",
+  "iata" : "NAV",
+  "isoCountryCode" : "TR",
+  "elevation" : 3.1,
+  "latitude" : "38° 46' 18.84\" N",
+  "longitude" : "34° 32' 4.20\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Nevşehir_Kapadokya_Airport"
+}

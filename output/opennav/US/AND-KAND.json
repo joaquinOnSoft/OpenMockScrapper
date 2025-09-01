@@ -1,0 +1,11 @@
+{
+  "name" : "Anderson Regional Airport",
+  "icao" : "KAND",
+  "iata" : "AND",
+  "isoCountryCode" : "US",
+  "elevation" : 782.0,
+  "latitude" : "34° 29' 40.50\" N",
+  "longitude" : "82° 42' 33.80\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Anderson_Regional_Airport"
+}

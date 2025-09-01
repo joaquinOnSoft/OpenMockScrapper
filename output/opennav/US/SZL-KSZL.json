@@ -1,0 +1,11 @@
+{
+  "name" : "Whiteman AFB",
+  "icao" : "KSZL",
+  "iata" : "SZL",
+  "isoCountryCode" : "US",
+  "elevation" : 870.0,
+  "latitude" : "38° 43' 49.10\" N",
+  "longitude" : "93° 32' 52.31\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Whiteman_Air_Force_Base"
+}

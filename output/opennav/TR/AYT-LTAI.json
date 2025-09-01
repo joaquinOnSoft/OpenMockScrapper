@@ -1,0 +1,11 @@
+{
+  "name" : "Antalya Airport",
+  "icao" : "LTAI",
+  "iata" : "AYT",
+  "isoCountryCode" : "TR",
+  "elevation" : 177.0,
+  "latitude" : "36° 53' 55.32\" N",
+  "longitude" : "30° 48' 1.80\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Antalya_Airport"
+}

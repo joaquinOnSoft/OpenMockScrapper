@@ -1,0 +1,11 @@
+{
+  "name" : "King Cove Airport",
+  "icao" : "PAVC",
+  "iata" : "KVC",
+  "isoCountryCode" : "US",
+  "elevation" : 0.0,
+  "latitude" : "55° 6' 58.68\" N",
+  "longitude" : "162° 15' 57.62\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/King_Cove_Airport"
+}

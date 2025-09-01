@@ -1,0 +1,11 @@
+{
+  "name" : "Aarhus Airport",
+  "icao" : "EKAH",
+  "iata" : "AAR",
+  "isoCountryCode" : "DK",
+  "elevation" : 82.0,
+  "latitude" : "56° 17' 60.00\" N",
+  "longitude" : "10° 37' 8.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Aarhus_Airport"
+}

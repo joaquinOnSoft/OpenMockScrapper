@@ -1,0 +1,11 @@
+{
+  "name" : "Flabob Airport",
+  "icao" : "KRIR",
+  "iata" : "RIR",
+  "isoCountryCode" : "US",
+  "elevation" : 764.0,
+  "latitude" : "33° 59' 19.60\" N",
+  "longitude" : "117° 24' 35.90\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Flabob_Airport"
+}

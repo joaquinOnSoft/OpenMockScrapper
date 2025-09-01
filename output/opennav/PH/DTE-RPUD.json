@@ -1,0 +1,11 @@
+{
+  "name" : "Bagasbas Airport",
+  "icao" : "RPUD",
+  "iata" : "DTE",
+  "isoCountryCode" : "PH",
+  "elevation" : 10.0,
+  "latitude" : "14° 7' 45.12\" N",
+  "longitude" : "122° 58' 48.01\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Bagasbas_Airport"
+}

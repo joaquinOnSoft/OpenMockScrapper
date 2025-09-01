@@ -1,0 +1,11 @@
+{
+  "name" : "Bellegarde Airport",
+  "icao" : "LFBL",
+  "iata" : "LIG",
+  "isoCountryCode" : "FR",
+  "elevation" : 1.3,
+  "latitude" : "45° 51' 46.08\" N",
+  "longitude" : "1° 10' 45.98\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Limoges_–_Bellegarde_Airport"
+}

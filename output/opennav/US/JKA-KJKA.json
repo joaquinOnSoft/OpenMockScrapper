@@ -1,0 +1,11 @@
+{
+  "name" : "Jack Edwards Airport",
+  "icao" : "KJKA",
+  "iata" : "JKA",
+  "isoCountryCode" : "US",
+  "elevation" : 17.0,
+  "latitude" : "30° 17' 22.70\" N",
+  "longitude" : "87° 40' 18.40\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Jack_Edwards_Airport"
+}

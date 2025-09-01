@@ -1,0 +1,11 @@
+{
+  "name" : "Los Angeles International Airport",
+  "icao" : "KLAX",
+  "iata" : "LAX",
+  "isoCountryCode" : "US",
+  "elevation" : 125.0,
+  "latitude" : "33° 56' 33.13\" N",
+  "longitude" : "118° 24' 29.07\" W",
+  "website" : "https://www.flylax.com/",
+  "wikipedia" : "https://en.wikipedia.org/wiki/Los_Angeles_International_Airport"
+}

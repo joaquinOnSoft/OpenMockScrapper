@@ -1,0 +1,11 @@
+{
+  "name" : "Irkutsk Airport",
+  "icao" : "UIII",
+  "iata" : "IKT",
+  "isoCountryCode" : "RU",
+  "elevation" : 0.0,
+  "latitude" : "52° 16' 4.81\" N",
+  "longitude" : "104° 23' 20.40\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/International_Airport_Irkutsk"
+}

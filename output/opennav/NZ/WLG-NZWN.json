@@ -1,0 +1,11 @@
+{
+  "name" : "Wellington International Airport",
+  "icao" : "NZWN",
+  "iata" : "WLG",
+  "isoCountryCode" : "NZ",
+  "elevation" : 41.0,
+  "latitude" : "41° 19' 37.93\" S",
+  "longitude" : "174° 48' 17.97\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Wellington_Airport"
+}

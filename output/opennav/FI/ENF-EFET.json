@@ -1,0 +1,11 @@
+{
+  "name" : "Enontekio Airport",
+  "icao" : "EFET",
+  "iata" : "ENF",
+  "isoCountryCode" : "FI",
+  "elevation" : 0.0,
+  "latitude" : "68° 21' 45.37\" N",
+  "longitude" : "23° 25' 27.48\" E",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Enontekiö_Airport"
+}

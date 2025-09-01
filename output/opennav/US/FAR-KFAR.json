@@ -1,0 +1,11 @@
+{
+  "name" : "Hector International Airport",
+  "icao" : "KFAR",
+  "iata" : "FAR",
+  "isoCountryCode" : "US",
+  "elevation" : 902.0,
+  "latitude" : "46° 55' 14.34\" N",
+  "longitude" : "96° 48' 56.75\" W",
+  "website" : null,
+  "wikipedia" : "https://en.wikipedia.org/wiki/Hector_International_Airport"
+}
