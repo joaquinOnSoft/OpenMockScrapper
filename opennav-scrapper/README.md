@@ -1,4 +1,4 @@
-#  OpenMock `Open Nav` scrapper
+#  OpenMock's `Open Nav` scrapper
 
 Generates multiple JSON files with airports information, (CAO code, IATA code, FAA code, airport name, or city name), 
 from [OPENNAV](https://www.opennav.com)

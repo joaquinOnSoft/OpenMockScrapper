@@ -8,7 +8,6 @@ import org.apache.logging.log4j.Logger;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
-
 import java.security.InvalidParameterException;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
@@ -16,12 +15,16 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class OpenNavScrapperLauncher {
     private static final int DEFAULT_NUM_THREADS = 4;
     private static final String DEFAULT_OUTPUT = ".";
+    private static final boolean DEFAULT_SKIP_EXISTING = false;
 
     private static final String SHORT_PARAM_THREADS = "t";
     private static final String LONG_PARAM_THREADS = "threads";
 
     private static final String SHORT_PARAM_OUTPUT = "o";
     private static final String LONG_PARAM_OUTPUT = "output";
+
+    private static final String SHORT_PARAM_SKIP_EXISTING = "s";
+    private static final String LONG_PARAM_SKIP_EXISTING = "skip";
 
     private static final String HELP = """
             Generates multiple JSON files with airports information from opennav.com
@@ -30,6 +33,7 @@ public class OpenNavScrapperLauncher {
             
               --threads or -t: (Optional) Number of threads used simultaneously to parse the page. Default value: 4
               --output or -o: (Optional) Output path (directory). Default value '.'
+              --skip or -s: (Optional) Skip existing downloaded airports. Default value 'false' if not specified
             
             Call example:
             
@@ -46,11 +50,13 @@ public class OpenNavScrapperLauncher {
         CommandLine cmd;
         int numConsumers = DEFAULT_NUM_THREADS;
         String output = DEFAULT_OUTPUT;
+        boolean skipExisting = DEFAULT_SKIP_EXISTING;
 
         try {
             cmd = parser.parse(options, args);
             numConsumers = validateParamThreads(cmd);
             output = validateParamOutput(cmd);
+            skipExisting = validateParamSkipExisting(cmd);
         } catch (ParseException | InvalidParameterException e) {
             formatter.printHelp(HELP, options);
             log.error(e.getMessage());
@@ -74,7 +80,7 @@ public class OpenNavScrapperLauncher {
 
 
         log.info(">>> Producer launched.");
-        new Thread(new OpenNavScrapperProducer(queue, numConsumers)).start();
+        new Thread(new OpenNavScrapperProducer(queue, numConsumers, output, skipExisting)).start();
     }
 
     private static Options getOptions() {
@@ -85,6 +91,9 @@ public class OpenNavScrapperLauncher {
 
         Option outputOption = new Option(SHORT_PARAM_OUTPUT, LONG_PARAM_OUTPUT, true, "(Optional) Output path (directory). Default value '.'");
         options.addOption(outputOption);
+
+        Option outputSkipExisting = new Option(SHORT_PARAM_SKIP_EXISTING, LONG_PARAM_SKIP_EXISTING, false, "(Optional) Skip existing downloaded airports. Default value 'false' if not specified");
+        options.addOption(outputSkipExisting);
 
         return options;
     }
@@ -135,5 +144,15 @@ public class OpenNavScrapperLauncher {
             }
         }
         return outputStr;
+    }
+
+    private static boolean validateParamSkipExisting(CommandLine cmd) throws InvalidParameterException {
+        boolean skip = DEFAULT_SKIP_EXISTING;
+
+        if (cmd.hasOption(LONG_PARAM_SKIP_EXISTING) || cmd.hasOption(SHORT_PARAM_SKIP_EXISTING)) {
+            skip = true;
+        }
+
+        return skip;
     }
 }

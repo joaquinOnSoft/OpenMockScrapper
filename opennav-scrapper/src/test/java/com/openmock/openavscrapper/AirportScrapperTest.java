@@ -36,6 +36,6 @@ public class AirportScrapperTest {
         assertEquals(icao, airport.getIcao(), "ICAO doesn't match");
         assertEquals(iata, airport.getIata(), "IATA code doesn't match");
         assertEquals(name, airport.getName(), "Airport name doesn't match");
-        assertEquals(country, airport.getIsoCountryCode().getCountry(), "Country code doesn't match");
+        assertEquals(country, airport.getIsoCountryCode(), "Country code doesn't match");
     }
 }

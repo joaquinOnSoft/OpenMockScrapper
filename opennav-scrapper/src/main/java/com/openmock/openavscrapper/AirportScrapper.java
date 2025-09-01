@@ -70,7 +70,7 @@ public class AirportScrapper {
 
             try {
                 doc = Jsoup.connect(url).get();
-                Elements eField = doc.select("td > a[href]");;
+                Elements eField = doc.select("td > a[href]");
                 if(!eField.isEmpty()){
                     for(Element link: eField){
                         urls.add(OPENNAV_URL_BASE + link.attr("href"));
@@ -98,7 +98,7 @@ public class AirportScrapper {
             doc = Jsoup.connect(url).get();
 
             // Get airport general information
-            Elements eFields = doc.select("td");;
+            Elements eFields = doc.select("td");
             if(!eFields.isEmpty()){
                 FieldIndex index = null;
                 String value;
@@ -133,13 +133,13 @@ public class AirportScrapper {
             }
 
             // Get ICAO code
-            Elements eICAOFields = doc.select("span[itemprop=icaoCode]");;
+            Elements eICAOFields = doc.select("span[itemprop=icaoCode]");
             if(!eICAOFields.isEmpty()) {
                 airport.setIcao(eICAOFields.getFirst().text());
             }
 
             // Get IATA code
-            Elements eIATAFields = doc.select("span[itemprop=iataCode]");;
+            Elements eIATAFields = doc.select("span[itemprop=iataCode]");
             if(!eIATAFields.isEmpty()) {
                 airport.setIata(eIATAFields.getFirst().text());
             }
