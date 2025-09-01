@@ -3,13 +3,6 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\oscaro-scrapper\README.md">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\oscaro-scrapper\src\test\resources\peugeot.csv">
           <value>
             <Attribute>
